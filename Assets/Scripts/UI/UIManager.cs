@@ -8,6 +8,11 @@ public class UIManager : MonoBehaviour
 
     [SerializeField] GameObject pausePanel;
     [SerializeField] GameObject completedPanel;
+    [SerializeField] UnityEngine.UI.Selectable pauseFirstSelected;
+    [SerializeField] UnityEngine.UI.Selectable completedFirstSelected;
+    [SerializeField] GameObject optionsPanel;
+    [SerializeField] UnityEngine.UI.Selectable optionsFirstSelected;
+    [SerializeField] UnityEngine.UI.Selectable pauseOptionsButton;
     [SerializeField] string menuScene = "MainMenu";
     [SerializeField] InputAction pauseAction = CreatePauseAction();
 
@@ -32,6 +37,7 @@ public class UIManager : MonoBehaviour
         Instance = this;
         pausePanel.SetActive(false);
         if (completedPanel != null) completedPanel.SetActive(false);
+        if (optionsPanel != null) optionsPanel.SetActive(false);
     }
 
     void OnEnable()
@@ -53,9 +59,33 @@ public class UIManager : MonoBehaviour
         if (Instance == this) Instance = null;
     }
 
+    bool InOptions => optionsPanel != null && optionsPanel.activeSelf;
+
     void OnPausePressed(InputAction.CallbackContext context)
     {
-        if (!IsCompleted) SetPaused(!IsPaused);
+        if (IsCompleted) return;
+        if (InOptions) CloseOptions();
+        else SetPaused(!IsPaused);
+    }
+
+    public void OpenOptions()
+    {
+        pausePanel.SetActive(false);
+        optionsPanel.SetActive(true);
+        Select(optionsFirstSelected);
+    }
+
+    public void CloseOptions()
+    {
+        optionsPanel.SetActive(false);
+        pausePanel.SetActive(true);
+        Select(pauseOptionsButton);
+    }
+
+    static void Select(UnityEngine.UI.Selectable selectable)
+    {
+        var events = UnityEngine.EventSystems.EventSystem.current;
+        if (events != null) events.SetSelectedGameObject(selectable != null ? selectable.gameObject : null);
     }
 
     void ShowCompletion()
@@ -65,12 +95,8 @@ public class UIManager : MonoBehaviour
         if (completedPanel != null) completedPanel.SetActive(true);
         Time.timeScale = 0f;
         GameEvents.RaisePauseChanged(true);
-        if (completedPanel != null)
-        {
-            var button = completedPanel.GetComponentInChildren<UnityEngine.UI.Button>();
-            if (button != null && UnityEngine.EventSystems.EventSystem.current != null)
-                UnityEngine.EventSystems.EventSystem.current.SetSelectedGameObject(button.gameObject);
-        }
+        if (completedFirstSelected != null && UnityEngine.EventSystems.EventSystem.current != null)
+            UnityEngine.EventSystems.EventSystem.current.SetSelectedGameObject(completedFirstSelected.gameObject);
     }
 
     public void SetPaused(bool paused)
@@ -78,7 +104,9 @@ public class UIManager : MonoBehaviour
         if (IsCompleted) return;
         IsPaused = paused;
         pausePanel.SetActive(paused);
+        if (optionsPanel != null) optionsPanel.SetActive(false);
         Time.timeScale = paused ? 0f : 1f;
+        Select(paused ? pauseFirstSelected : null);
         GameEvents.RaisePauseChanged(paused);
     }
 
@@ -86,6 +114,12 @@ public class UIManager : MonoBehaviour
 
     public void Retry()
     {
+        SceneNavigation.Retry();
+    }
+
+    public void Restart()
+    {
+        IsPaused = false;
         SceneNavigation.Retry();
     }
 

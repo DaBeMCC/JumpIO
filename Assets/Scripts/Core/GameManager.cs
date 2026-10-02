@@ -8,9 +8,12 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance { get; private set; }
 
     [FormerlySerializedAs("esperaReinicio")]
-    [SerializeField] float restartDelay = 1f;
+    [SerializeField] float restartDelay = 3f;
 
     public int Attempt { get; private set; }
+    public float RestartDelay => restartDelay;
+
+    bool restartPending;
 
     void Awake()
     {
@@ -40,6 +43,7 @@ public class GameManager : MonoBehaviour
     public void LoadScene(string sceneName)
     {
         StopAllCoroutines();
+        restartPending = false;
         Time.timeScale = 1f;
         SceneManager.LoadScene(sceneName);
     }
@@ -56,9 +60,24 @@ public class GameManager : MonoBehaviour
         if (PlayerController.Instance != null && PlayerController.Instance.gameObject.scene == scene) StartAttempt();
     }
 
-    void OnPlayerDied() => StartCoroutine(RestartAfterDelay());
+    void OnPlayerDied()
+    {
+        restartPending = true;
+        StartCoroutine(RestartAfterDelay());
+    }
 
-    void OnLevelCompleted() => StopAllCoroutines();
+    public void RestartNow()
+    {
+        if (!restartPending) return;
+        StopAllCoroutines();
+        StartAttempt();
+    }
+
+    void OnLevelCompleted()
+    {
+        restartPending = false;
+        StopAllCoroutines();
+    }
 
     IEnumerator RestartAfterDelay()
     {
@@ -68,6 +87,7 @@ public class GameManager : MonoBehaviour
 
     void StartAttempt()
     {
+        restartPending = false;
         Attempt++;
         GameEvents.RaiseAttemptStarted(Attempt);
     }

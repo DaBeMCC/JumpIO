@@ -44,4 +44,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8989ee82c524dfe4d924ca443384fa36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  restartDelay: 1
+  restartDelay: 3
