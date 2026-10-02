@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4793433612350390028}
   - component: {fileID: 4598979149866207520}
   - component: {fileID: 8272398405419110479}
+  - component: {fileID: 2112292392953778618}
   m_Layer: 0
   m_Name: ModePortal_Ship
   m_TagString: Untagged
@@ -79,8 +80,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1970727268
+  m_SortingLayer: 1
   m_SortingOrder: 5
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1599357267, guid: 11553fb28ebd9a844817c4cd1e5a11f7, type: 3}
@@ -153,3 +154,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ModePortal
   mode: 1
+--- !u!114 &2112292392953778618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 334144530260503550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b651da4e65279f24a8386247429dc40e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BeatPulse
+  strength: 0.35
+  duration: 0.18
+  every: 2

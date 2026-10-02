@@ -24,6 +24,14 @@ PrefabInstance:
       propertyPath: m_DrawMode
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1045876272731527043, guid: d9fe839227faab04980848e2afc3edf3, type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1045876272731527043, guid: d9fe839227faab04980848e2afc3edf3, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1970727268
+      objectReference: {fileID: 0}
     - target: {fileID: 1123616813449811688, guid: d9fe839227faab04980848e2afc3edf3, type: 3}
       propertyPath: m_Name
       value: GravityPortal_Inverted
@@ -91,5 +99,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1123616813449811688, guid: d9fe839227faab04980848e2afc3edf3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9044570355774290189}
   m_SourcePrefab: {fileID: 100100000, guid: d9fe839227faab04980848e2afc3edf3, type: 3}
+--- !u!1 &6042628608132950827 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1123616813449811688, guid: d9fe839227faab04980848e2afc3edf3, type: 3}
+  m_PrefabInstance: {fileID: 6650788871807548867}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9044570355774290189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042628608132950827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b651da4e65279f24a8386247429dc40e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BeatPulse
+  strength: 0.35
+  duration: 0.18
+  every: 2

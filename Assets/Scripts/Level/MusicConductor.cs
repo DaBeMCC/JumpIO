@@ -24,6 +24,7 @@ public class MusicConductor : MonoBehaviour
     double rate = 1;
     double rateAnchorAudio = double.NaN, rateAnchorTime;
     int progressPercent = -1;
+    int beat = int.MinValue;
 
     public LevelData Level => level;
     public float LevelTime => (float)clock;
@@ -63,6 +64,7 @@ public class MusicConductor : MonoBehaviour
         audioTime = double.NaN;
         rateAnchorAudio = double.NaN;
         progressPercent = -1;
+        beat = int.MinValue;
         PublishProgress();
         if (source.clip == null) return;
 
@@ -92,16 +94,27 @@ public class MusicConductor : MonoBehaviour
         PublishProgress();
 
         audioTime = IsMusicPlaying ? EstimateSongTime() - level.songOffset - level.latencyMs / 1000.0 : double.NaN;
-        if (double.IsNaN(audioTime)) return;
-        MeasureRate();
-
-        double drift = audioTime - clock;
-        if (Math.Abs(drift) > snapThreshold)
+        if (!double.IsNaN(audioTime))
         {
-            clock = audioTime;
-            rateAnchorAudio = double.NaN;
+            MeasureRate();
+            double drift = audioTime - clock;
+            if (Math.Abs(drift) > snapThreshold)
+            {
+                clock = audioTime;
+                rateAnchorAudio = double.NaN;
+            }
+            else clock += drift * correctionRate;
         }
-        else clock += drift * correctionRate;
+        PublishBeat();
+    }
+
+    void PublishBeat()
+    {
+        if (clock < 0.0) return;
+        int current = level.BeatAt(clock);
+        if (current == beat || current < 0) return;
+        beat = current;
+        GameEvents.RaiseBeat(beat);
     }
 
     void PublishProgress()

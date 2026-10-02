@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7436996302311091864}
   - component: {fileID: 6645104746427987012}
   - component: {fileID: 666938330588417790}
+  - component: {fileID: 3804160016167082164}
   m_Layer: 0
   m_Name: JumpOrb_Red
   m_TagString: Untagged
@@ -79,8 +80,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1970727268
+  m_SortingLayer: 1
   m_SortingOrder: 5
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1164180931, guid: 11553fb28ebd9a844817c4cd1e5a11f7, type: 3}
@@ -148,3 +149,18 @@ MonoBehaviour:
   blackVelocityShip: 26.3
   blackVelocityUfo: 21.04
   maxDashAngle: 70
+--- !u!114 &3804160016167082164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7217252136601358895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b651da4e65279f24a8386247429dc40e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BeatPulse
+  strength: 0.55
+  duration: 0.18
+  every: 1
