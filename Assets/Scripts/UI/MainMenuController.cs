@@ -16,6 +16,8 @@ public class MainMenuController : MonoBehaviour
     [SerializeField] TMP_Text levelNameText;
     [SerializeField] GameObject homePanel;
     [SerializeField] GameObject levelsPanel;
+    [SerializeField] GameObject optionsPanel;
+    [SerializeField] Selectable optionsFirstSelected;
     [SerializeField] Transform levelList;
     [SerializeField] Button levelButtonPrefab;
     [SerializeField] LevelEntry[] levels;
@@ -41,7 +43,7 @@ public class MainMenuController : MonoBehaviour
     void OnDestroy() => backAction.Dispose();
     void OnBack(InputAction.CallbackContext context)
     {
-        if (levelsPanel.activeSelf) Back();
+        if (levelsPanel.activeSelf || (optionsPanel != null && optionsPanel.activeSelf)) Back();
     }
 
     void Start()
@@ -65,9 +67,18 @@ public class MainMenuController : MonoBehaviour
             UnityEngine.EventSystems.EventSystem.current.SetSelectedGameObject(levelList.GetChild(0).gameObject);
     }
 
+    public void Options()
+    {
+        homePanel.SetActive(false);
+        optionsPanel.SetActive(true);
+        if (optionsFirstSelected != null)
+            UnityEngine.EventSystems.EventSystem.current.SetSelectedGameObject(optionsFirstSelected.gameObject);
+    }
+
     public void Back()
     {
         levelsPanel.SetActive(false);
+        if (optionsPanel != null) optionsPanel.SetActive(false);
         homePanel.SetActive(true);
         if (startButton != null)
             UnityEngine.EventSystems.EventSystem.current.SetSelectedGameObject(startButton.gameObject);
