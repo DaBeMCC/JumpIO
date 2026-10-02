@@ -49,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -63,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -89,7 +89,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -127,111 +127,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tree-Assets_0
+      name: Bush_Green
       rect:
         serializedVersion: 2
-        x: 0
-        y: 191
-        width: 209
-        height: 209
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 210
+        y: 309
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a1e5010c1e55b22c0800000000000000
-      internalID: -4455372978274673126
+      spriteID: cdc4fe8e0f8b35a4ba2da188470544a7
+      internalID: -1784232191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tree-Assets_1
+      name: Bush_Olive
       rect:
         serializedVersion: 2
-        x: 209
-        y: 308
-        width: 126
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 210
+        y: 213
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9baac854acc72de20800000000000000
-      internalID: 3373896279046007481
+      spriteID: ba345ace934ded74ea3f0baec3b6f14e
+      internalID: 1710942372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tree-Assets_2
+      name: Bush_Dark
       rect:
         serializedVersion: 2
-        x: 209
-        y: 212
-        width: 126
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 210
+        y: 117
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9a854110a959fc170800000000000000
-      internalID: 8200937935140575401
+      spriteID: 032b530977b5c88479b4d537a71f2f2f
+      internalID: -719462450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tree-Assets_3
+      name: Bush_Night
       rect:
         serializedVersion: 2
-        x: 209
-        y: 116
-        width: 126
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 210
+        y: 21
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8d7fbd6e4dacbe1e0800000000000000
-      internalID: -2167415779893708840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tree-Assets_4
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 20
-        width: 126
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 263548b761ca14fe0800000000000000
-      internalID: -1206494012597054622
+      spriteID: 064655366d55fbf4db2c870733969e71
+      internalID: 608032016
       vertices: []
       indices: 
       edges: []
@@ -240,7 +218,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: deabf2aeda009cf42af66ef912476ca5
     internalID: 0
     vertices: []
     indices: 
@@ -250,11 +228,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Tree-Assets_0: -4455372978274673126
-      Tree-Assets_1: 3373896279046007481
-      Tree-Assets_2: 8200937935140575401
-      Tree-Assets_3: -2167415779893708840
-      Tree-Assets_4: -1206494012597054622
+      Bush_Dark: -719462450
+      Bush_Green: -1784232191
+      Bush_Night: 608032016
+      Bush_Olive: 1710942372
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

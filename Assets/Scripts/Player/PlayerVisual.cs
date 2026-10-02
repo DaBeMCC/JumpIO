@@ -68,6 +68,7 @@ public class PlayerVisual : MonoBehaviour
         trail.startColor = skin.trailColor;
         trail.endColor = new Color(skin.trailColor.r, skin.trailColor.g, skin.trailColor.b, 0f);
         trail.widthMultiplier = skin.scale;
+        trail.enabled = skin.showTrail;
     }
 
     void Update()

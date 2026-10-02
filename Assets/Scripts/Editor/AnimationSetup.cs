@@ -35,7 +35,7 @@ public static class AnimationSetup
         ConfigureEnemy("Snail", "Assets/Art/Sprites/Source/Mob/Snail/Dead-Sheet.png", 8);
         ConfigureEnemy("Bee", "Assets/Art/Sprites/Source/Mob/Small Bee/Hit/Hit-Sheet.png", 4);
         var scene = EditorSceneManager.OpenScene("Assets/Scenes/Level_01.unity");
-        foreach (var player in UnityEngine.Object.FindObjectsByType<PlayerController>(FindObjectsSortMode.None))
+        foreach (var player in UnityEngine.Object.FindObjectsByType<PlayerController>())
         {
             var input = new SerializedObject(player.GetComponent<PlayerInput>());
             input.FindProperty("actionReference").objectReferenceValue = actionReference;
@@ -256,7 +256,7 @@ public static class AnimationSetup
         const string sheet = "Assets/Art/Sprites/Source/coin.png";
         var frames = AssetDatabase.LoadAllAssetsAtPath(sheet).OfType<Sprite>().OrderBy(s => s.rect.x).ToArray();
         if (frames.Length != 12) throw new InvalidOperationException($"Coin sheet must contain 12 frames; found {frames.Length}.");
-        var coins = UnityEngine.Object.FindObjectsByType<Coin>(FindObjectsSortMode.None);
+        var coins = UnityEngine.Object.FindObjectsByType<Coin>();
         var importer = (TextureImporter)AssetImporter.GetAtPath(sheet);
         importer.filterMode = FilterMode.Point;
         importer.mipmapEnabled = false;

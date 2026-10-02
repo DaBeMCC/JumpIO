@@ -210,7 +210,7 @@ public static class AnimationVerification
         ChangeInput(gamepad, new GamepadState());
 
         Assert(acted == 3 && action.IsActing, "gamepad west starts Action");
-        var enemies = UnityEngine.Object.FindObjectsByType<EnemyDamage>(FindObjectsSortMode.None);
+        var enemies = UnityEngine.Object.FindObjectsByType<EnemyDamage>();
         foreach (var enemy in enemies)
         {
             ResetAttempt();

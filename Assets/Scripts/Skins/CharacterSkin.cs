@@ -23,6 +23,7 @@ public class CharacterSkin : ScriptableObject
 
     public AnimatorOverrideController animationOverride;
     public bool uprightRunner;
+    public bool showTrail = true;
 
     public Sprite SpriteFor(PlayerModeType mode)
     {
