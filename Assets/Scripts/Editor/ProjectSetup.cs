@@ -11,15 +11,15 @@ public static class ProjectSetup
     {
         var scene = EditorSceneManager.OpenScene("Assets/Scenes/Level_01.unity");
         var camera = UnityEngine.Object.FindAnyObjectByType<Camera>();
-        foreach (var view in UnityEngine.Object.FindObjectsByType<CorridorView>(FindObjectsSortMode.None))
+        foreach (var view in UnityEngine.Object.FindObjectsByType<CorridorView>())
         {
             var serialized = new SerializedObject(view);
             serialized.FindProperty("cam").objectReferenceValue = camera;
             serialized.ApplyModifiedPropertiesWithoutUndo();
         }
-        foreach (var player in UnityEngine.Object.FindObjectsByType<PlayerController>(FindObjectsSortMode.None))
+        foreach (var player in UnityEngine.Object.FindObjectsByType<PlayerController>())
             if (player.GetComponent<PlayerInput>() == null) player.gameObject.AddComponent<PlayerInput>();
-        foreach (var bar in UnityEngine.Object.FindObjectsByType<HealthBar>(FindObjectsSortMode.None))
+        foreach (var bar in UnityEngine.Object.FindObjectsByType<HealthBar>())
             foreach (var graphic in bar.GetComponentsInChildren<UnityEngine.UI.Graphic>(true)) graphic.enabled = true;
         EditorSceneManager.MarkSceneDirty(scene);
         EditorSceneManager.SaveScene(scene);
