@@ -19,6 +19,13 @@ public class LevelData : ScriptableObject
     [FormerlySerializedAs("largo")]
     public float length;
 
+    [Header("Beat")]
+    public float bpm;
+    public float firstBeat;
+
+    public int BeatAt(double levelTime) =>
+        bpm > 0f ? (int)System.Math.Floor((songOffset + levelTime - firstBeat) * bpm / 60.0) : int.MinValue;
+
     [Header("x → time table")]
     [FormerlySerializedAs("xCambios")]
     public float[] changeX = { 0f };

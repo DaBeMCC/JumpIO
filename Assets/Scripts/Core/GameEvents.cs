@@ -20,6 +20,7 @@ public static class GameEvents
     public static event Action<Vector3> PadUsed;
     public static event Action<Vector3> PortalUsed;
     public static event Action<float> ProgressChanged;
+    public static event Action<int> Beat;
 
     public static void RaiseAttemptStarted(int attempt) => AttemptStarted?.Invoke(attempt);
     public static void RaisePlayerDamaged(int health, int maxHealth) => PlayerDamaged?.Invoke(health, maxHealth);
@@ -38,6 +39,7 @@ public static class GameEvents
     public static void RaisePadUsed(Vector3 position) => PadUsed?.Invoke(position);
     public static void RaisePortalUsed(Vector3 position) => PortalUsed?.Invoke(position);
     public static void RaiseProgressChanged(float progress) => ProgressChanged?.Invoke(progress);
+    public static void RaiseBeat(int beat) => Beat?.Invoke(beat);
 
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
     static void Clear()
@@ -59,5 +61,6 @@ public static class GameEvents
         PadUsed = null;
         PortalUsed = null;
         ProgressChanged = null;
+        Beat = null;
     }
 }

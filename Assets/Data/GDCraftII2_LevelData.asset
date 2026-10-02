@@ -13,14 +13,16 @@ MonoBehaviour:
   m_Name: GDCraftII2_LevelData
   m_EditorClassIdentifier: Assembly-CSharp::LevelData
   levelName: Tutorial
-  song: {fileID: 8300000, guid: d5a2fac021d59f74bb4235da8b38cb6b, type: 3}
-  songOffset: 20
+  song: {fileID: 8300000, guid: b9b3860aa83efbc449ca5266fde895a4, type: 3}
+  songOffset: 20.160864
   latencyMs: 0
   startMode: 1
   startGravityInverted: 0
   startCorridorY: 35.766666
   startY: 33.5
   length: 332.36667
+  bpm: 150.05
+  firstBeat: 0.06965986
   changeX:
   - 0
   - 260.3
