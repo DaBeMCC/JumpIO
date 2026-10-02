@@ -24,6 +24,14 @@ PrefabInstance:
       propertyPath: m_DrawMode
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3835283024766407342, guid: 1f64786716db815498c58d829b60c53e, type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3835283024766407342, guid: 1f64786716db815498c58d829b60c53e, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1970727268
+      objectReference: {fileID: 0}
     - target: {fileID: 4822986535773145254, guid: 1f64786716db815498c58d829b60c53e, type: 3}
       propertyPath: m_Name
       value: JumpOrb_Pink
@@ -83,5 +91,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4822986535773145254, guid: 1f64786716db815498c58d829b60c53e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8664176115814969934}
   m_SourcePrefab: {fileID: 100100000, guid: 1f64786716db815498c58d829b60c53e, type: 3}
+--- !u!1 &5034057444472952580 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4822986535773145254, guid: 1f64786716db815498c58d829b60c53e, type: 3}
+  m_PrefabInstance: {fileID: 518512235521810338}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8664176115814969934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5034057444472952580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b651da4e65279f24a8386247429dc40e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BeatPulse
+  strength: 0.55
+  duration: 0.18
+  every: 1
