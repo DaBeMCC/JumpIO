@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: 11553fb28ebd9a844817c4cd1e5a11f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6475703469683136250
+    second: ForestObjects_0
+  - first:
+      213: -3871107465848731266
+    second: ForestObjects_1
+  - first:
+      213: 3854658898455140931
+    second: ForestObjects_2
+  - first:
+      213: -6503767004391576120
+    second: ForestObjects_3
+  - first:
+      213: 3861776369602208990
+    second: ForestObjects_4
+  - first:
+      213: 636525392554532926
+    second: ForestObjects_5
+  - first:
+      213: 8365960939549228993
+    second: ForestObjects_6
+  - first:
+      213: 7274663439456918651
+    second: ForestObjects_7
+  - first:
+      213: -2424602688610053096
+    second: ForestObjects_8
+  - first:
+      213: -7394519553983640895
+    second: ForestObjects_9
+  - first:
+      213: -1285208236237684030
+    second: ForestObjects_10
+  - first:
+      213: 828523576895962250
+    second: ForestObjects_11
+  - first:
+      213: 1299374703911735434
+    second: ForestObjects_12
+  - first:
+      213: 4391920793818825912
+    second: ForestObjects_13
+  - first:
+      213: 6739724113844892055
+    second: ForestObjects_14
+  - first:
+      213: 5622566705885577403
+    second: ForestObjects_15
+  - first:
+      213: -2919795102062845131
+    second: ForestObjects_16
+  - first:
+      213: -5711422562104416351
+    second: ForestObjects_17
+  - first:
+      213: -1182813918683546876
+    second: ForestObjects_18
+  - first:
+      213: 1241450900663381026
+    second: ForestObjects_19
+  - first:
+      213: -3477635082446746282
+    second: ForestObjects_20
+  - first:
+      213: 484733314264405590
+    second: ForestObjects_21
+  - first:
+      213: -5534655327032014920
+    second: ForestObjects_22
+  - first:
+      213: -2859223481380365406
+    second: ForestObjects_23
+  - first:
+      213: -7209546572351655587
+    second: ForestObjects_24
+  - first:
+      213: 5823859460739784496
+    second: ForestObjects_25
+  - first:
+      213: -731522528701906204
+    second: ForestObjects_26
+  - first:
+      213: 7701197982534795720
+    second: ForestObjects_27
+  - first:
+      213: 60642061755553690
+    second: ForestObjects_28
+  - first:
+      213: 2754508946371442332
+    second: ForestObjects_29
+  - first:
+      213: 4159040584640132793
+    second: ForestObjects_30
+  - first:
+      213: 64548194593381649
+    second: ForestObjects_31
+  - first:
+      213: 3625530305311910696
+    second: ForestObjects_32
+  - first:
+      213: -3188990191590394492
+    second: ForestObjects_33
+  - first:
+      213: -2544989282797390657
+    second: ForestObjects_34
+  - first:
+      213: 2626488336356732107
+    second: ForestObjects_35
+  - first:
+      213: 7688970307819530256
+    second: ForestObjects_36
+  - first:
+      213: -6234016321673043599
+    second: ForestObjects_37
+  - first:
+      213: 450009826385608364
+    second: ForestObjects_38
+  - first:
+      213: 2069802549557632910
+    second: ForestObjects_39
+  - first:
+      213: 3777303692152582242
+    second: ForestObjects_40
+  - first:
+      213: 1198238233789558954
+    second: ForestObjects_41
+  - first:
+      213: 5841474060773557690
+    second: ForestObjects_42
+  - first:
+      213: -1647000671733774645
+    second: ForestObjects_43
+  - first:
+      213: -4571993027094722425
+    second: ForestObjects_44
+  - first:
+      213: -3571930064577996568
+    second: ForestObjects_45
+  - first:
+      213: -4986651227205057954
+    second: ForestObjects_46
+  - first:
+      213: -8221033331724291000
+    second: ForestObjects_47
+  - first:
+      213: -4035697046893075562
+    second: ForestObjects_48
+  - first:
+      213: -6191363886683136261
+    second: ForestObjects_49
+  - first:
+      213: 630002297057097841
+    second: ForestObjects_50
+  - first:
+      213: -7554942187509893722
+    second: ForestObjects_51
+  - first:
+      213: 1671180033291863956
+    second: ForestObjects_52
+  - first:
+      213: 3689224667801238742
+    second: ForestObjects_53
+  - first:
+      213: -998519165856374373
+    second: ForestObjects_54
+  - first:
+      213: -1369760923939542658
+    second: ForestObjects_55
+  - first:
+      213: -7223238325265231377
+    second: ForestObjects_56
+  - first:
+      213: -1744270090822637287
+    second: ForestObjects_57
+  - first:
+      213: -3135294952975021894
+    second: ForestObjects_58
+  - first:
+      213: -3803854634562657487
+    second: ForestObjects_59
+  - first:
+      213: 7689411141155136298
+    second: ForestObjects_60
+  - first:
+      213: -5697491491551624156
+    second: ForestObjects_61
+  - first:
+      213: 820484127529139799
+    second: ForestObjects_62
+  - first:
+      213: 2564543010725149391
+    second: ForestObjects_63
+  - first:
+      213: 2193904398542031002
+    second: ForestObjects_64
+  - first:
+      213: 1339600481748981516
+    second: ForestObjects_65
+  - first:
+      213: 478236549940001042
+    second: ForestObjects_66
+  - first:
+      213: -4897644863930426617
+    second: ForestObjects_67
+  - first:
+      213: 981546608197371264
+    second: ForestObjects_68
+  - first:
+      213: 739239089737063084
+    second: ForestObjects_69
+  - first:
+      213: -882357437201317279
+    second: ForestObjects_70
+  - first:
+      213: 3009581710453602507
+    second: ForestObjects_71
+  - first:
+      213: 3489137462059794943
+    second: ForestObjects_72
+  - first:
+      213: 6335101602491380279
+    second: ForestObjects_73
+  - first:
+      213: 7067303491657319505
+    second: ForestObjects_74
+  - first:
+      213: -8202941882184131912
+    second: ForestObjects_75
+  - first:
+      213: 4602758813758172724
+    second: ForestObjects_76
+  - first:
+      213: 4041673360228851541
+    second: ForestObjects_77
+  - first:
+      213: -5708285434433837083
+    second: ForestObjects_78
+  - first:
+      213: 668834381303860213
+    second: ForestObjects_79
+  - first:
+      213: -6147792474656006825
+    second: ForestObjects_80
+  - first:
+      213: -9030750603344220876
+    second: ForestObjects_81
+  - first:
+      213: -7149743729346429296
+    second: ForestObjects_82
+  - first:
+      213: 6818061016099024268
+    second: ForestObjects_83
+  - first:
+      213: -6384359234519208821
+    second: ForestObjects_84
+  - first:
+      213: -1306216042357294689
+    second: ForestObjects_85
+  - first:
+      213: -2413666228518562862
+    second: ForestObjects_86
+  - first:
+      213: -5570189474010457317
+    second: ForestObjects_87
+  - first:
+      213: -1014516108413493094
+    second: ForestObjects_88
+  - first:
+      213: -769333622371476931
+    second: ForestObjects_89
+  - first:
+      213: 308482723080373184
+    second: ForestObjects_90
+  - first:
+      213: 2771302573165286365
+    second: ForestObjects_91
+  - first:
+      213: -3334765621156378189
+    second: ForestObjects_92
+  - first:
+      213: 6404274746716242603
+    second: ForestObjects_93
+  - first:
+      213: -8819621816892387331
+    second: ForestObjects_94
+  - first:
+      213: -8295322867299336531
+    second: ForestObjects_95
+  - first:
+      213: 6704876467797341605
+    second: ForestObjects_96
+  - first:
+      213: 7273693663843248416
+    second: ForestObjects_97
+  - first:
+      213: -8500087763284750984
+    second: ForestObjects_98
+  - first:
+      213: -8380804189163910741
+    second: ForestObjects_99
+  - first:
+      213: -4949422283488401589
+    second: ForestObjects_100
+  - first:
+      213: -5822383025869994801
+    second: ForestObjects_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 443.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalSpike
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443.5
+        width: 443.5
+        height: 443.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602c9ce5fa5a39542a8e781022c5c083
+      internalID: -1241528159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSlab
+      rect:
+        serializedVersion: 2
+        x: 443.5
+        y: 443.5
+        width: 443.5
+        height: 443.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3743e52eee297634882e607fbd3095b5
+      internalID: 787929810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSlope
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 443.5
+        width: 443.5
+        height: 443.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d52ab0462599468b3a2cc383504c5
+      internalID: 159033834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicOrb
+      rect:
+        serializedVersion: 2
+        x: 1330.5
+        y: 443.5
+        width: 443.5
+        height: 443.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aa8dbb71649ec4aae096da13208f3b
+      internalID: -1164180931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StonePortal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 443.5
+        height: 443.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d4780b0225c8d47b2a286524c6956f
+      internalID: -1599357267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpringPad
+      rect:
+        serializedVersion: 2
+        x: 443.5
+        y: 0
+        width: 443.5
+        height: 443.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c95dc623e934e45ba8212b40a24296
+      internalID: -1871758504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldCoin
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 443.5
+        height: 443.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e2d26cf9b7c604089389ad9c895b45
+      internalID: 881485522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishBanner
+      rect:
+        serializedVersion: 2
+        x: 1330.5
+        y: 0
+        width: 443.5
+        height: 443.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f1a69dc7485b4da1ecde782aa8a9a
+      internalID: 176452318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5a4b6bfe02b72742a2bcf4125d50dfa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrystalSpike: -1241528159
+      FinishBanner: 176452318
+      GoldCoin: 881485522
+      MagicOrb: -1164180931
+      SpringPad: -1871758504
+      StonePortal: -1599357267
+      StoneSlab: 787929810
+      StoneSlope: 159033834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

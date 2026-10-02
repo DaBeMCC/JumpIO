@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e276370ae87cd8b45aca8408f3d0a99f, type: 3}
+  m_Name: GDCraftII2_LevelData
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelName: Tutorial
+  song: {fileID: 8300000, guid: d5a2fac021d59f74bb4235da8b38cb6b, type: 3}
+  songOffset: 20
+  latencyMs: 0
+  startMode: 1
+  startGravityInverted: 0
+  startCorridorY: 35.766666
+  startY: 33.5
+  length: 332.36667
+  changeX:
+  - 0
+  - 260.3
+  speeds:
+  - 8.372
+  - 10.386
+  changeTimes:
+  - 0
+  - 31.091734

@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 261bd790fc323a74e9fd650f4e03045f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8074338581418846440
+    second: Terrain_0
+  - first:
+      213: 4519664136019108208
+    second: Terrain_1
+  - first:
+      213: -6337999885091750218
+    second: Terrain_2
+  - first:
+      213: -5779282676337348671
+    second: Terrain_3
+  - first:
+      213: -1238933728272178944
+    second: Terrain_4
+  - first:
+      213: -4637172546458061636
+    second: Terrain_5
+  - first:
+      213: 1404196382344981941
+    second: Terrain_6
+  - first:
+      213: -6537453368205885854
+    second: Terrain_7
+  - first:
+      213: -3932762474534642510
+    second: Terrain_8
+  - first:
+      213: -38647862416911262
+    second: Terrain_9
+  - first:
+      213: 9158922217335370285
+    second: Terrain_10
+  - first:
+      213: -2913927307954446974
+    second: Terrain_11
+  - first:
+      213: -8314697479797604436
+    second: Terrain_12
+  - first:
+      213: -8560909203809222747
+    second: Terrain_13
+  - first:
+      213: -2860982009417361707
+    second: Terrain_14
+  - first:
+      213: 833101472512629755
+    second: Terrain_15
+  - first:
+      213: -4458388979400810444
+    second: Terrain_16
+  - first:
+      213: -1733739152878373738
+    second: Terrain_17
+  - first:
+      213: 4546089718011649171
+    second: Terrain_18
+  - first:
+      213: -953581597285394260
+    second: Terrain_19
+  - first:
+      213: -3554507576199831309
+    second: Terrain_20
+  - first:
+      213: -3578538419511801217
+    second: Terrain_21
+  - first:
+      213: -952053279394621027
+    second: Terrain_22
+  - first:
+      213: 2718518638089070480
+    second: Terrain_23
+  - first:
+      213: 2428122717643880729
+    second: Terrain_24
+  - first:
+      213: -7870840669714641224
+    second: Terrain_25
+  - first:
+      213: -3294404648494824308
+    second: Terrain_26
+  - first:
+      213: -1892175646593199036
+    second: Terrain_27
+  - first:
+      213: 2307475110484733935
+    second: Terrain_28
+  - first:
+      213: 3024566827841751681
+    second: Terrain_29
+  - first:
+      213: 3238827797902253709
+    second: Terrain_30
+  - first:
+      213: 4717300719454053555
+    second: Terrain_31
+  - first:
+      213: 4848734399614731817
+    second: Terrain_32
+  - first:
+      213: 1122114417910698134
+    second: Terrain_33
+  - first:
+      213: 317059963835759475
+    second: Terrain_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grass
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6e11572df6ae84599a77be9447de45
+      internalID: 736557072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae74695c70e35547902c627e8358b15
+      internalID: -1063326930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bfce1fd5568cb9f48a5b3e37f0d75dd6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Earth: -1063326930
+      Grass: 736557072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
