@@ -19,184 +19,376 @@ MonoBehaviour:
     tile: {fileID: 11400000, guid: 16ec7ea651561f649904f8f59ac39a7b, type: 2}
     prefab: {fileID: 0}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Half-height slab
     ids: 28000000i
     category: 0
     tile: {fileID: 11400000, guid: 0c40dbf1fb0f25b4485672ed8414f287, type: 2}
     prefab: {fileID: 0}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Spikes
     ids: 0800000067000000i
     category: 1
     tile: {fileID: 11400000, guid: 53d1d9ad9a3296f4abe431e0c906d716, type: 2}
     prefab: {fileID: 0}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Small spike
     ids: 27000000i
     category: 1
     tile: {fileID: 11400000, guid: 53d1d9ad9a3296f4abe431e0c906d716, type: 2}
     prefab: {fileID: 0}
     scale: {x: 1, y: 0.5}
+    centered: 0
   - name: Ground spikes
     ids: 09000000i
     category: 1
     tile: {fileID: 11400000, guid: 53d1d9ad9a3296f4abe431e0c906d716, type: 2}
     prefab: {fileID: 0}
     scale: {x: 1, y: 0.5}
+    centered: 0
   - name: Yellow pad
     ids: 23000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 3718395520744383212, guid: b993d1dad58164a41b445eaa2e1eacfc, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Pink pad
     ids: 8c000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 3943788101039626298, guid: bf03e9e7398d4424e8c7ca82c53f06c9, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Yellow orb
     ids: 24000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 4822986535773145254, guid: 1f64786716db815498c58d829b60c53e, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Pink orb
     ids: 8d000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 5034057444472952580, guid: ed135a36af3d47e49852ceaae36f642a, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Normal gravity
     ids: 0a000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 1123616813449811688, guid: d9fe839227faab04980848e2afc3edf3, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Inverted gravity
     ids: 0b000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 6042628608132950827, guid: c6933d2c41a28a2428e744f45a441724, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Speed 0.5x
     ids: c8000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 5979519258554333439, guid: a5c2eeb255911984e9eff7d7085fb171, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Speed 1x
     ids: c9000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 7991979763971185893, guid: e50f96d6370193f4b87584ebaf3b8924, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Speed 2x
     ids: ca000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 4291089151114178502, guid: dade964c5d6c98345a002bcf896c32ba, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Speed 3x
     ids: cb000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 3007770446997400925, guid: a0e4ec7f7fca0f44e85c03989a795f7d, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Speed 4x
     ids: 36050000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 3548204591935004131, guid: b8a7abc4f73dc5d42bab680f9ebabeb4, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Coins
     ids: 8e00000031050000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 7973305700022993231, guid: 680c94d070f0b264fb2ff6a7e83b0b2f, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Triggers
     ids: 1d0000001e00000020000000210000008303000085030000e8030000e9030000ea030000eb030000ec030000ee030000ef030000f103000019040000f40400004205000043050000f0050000310600003b0600004b0600004c0600004d0600005006000013070000140700001607000017070000190700001a0700001b070000i
     category: 3
     tile: {fileID: 0}
     prefab: {fileID: 0}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Cube portal
     ids: 0c000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 4580278102678972797, guid: 03e48493e1097fb418e261234ea7c0ae, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Ship portal
     ids: 0d000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 334144530260503550, guid: e77250849d156534b946d394a43f331b, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Ball portal
     ids: 2f000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 7070952233933830650, guid: face828da52826e42a5a6a4117e74cf2, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Ufo portal
     ids: 6f000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 7287882552587316167, guid: 002da30dff37a7b48b6bbc2734b3f94c, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Red pad
     ids: 34050000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 3130228227968670176, guid: 2bda7709237fdcd45ade53bc3f0707c8, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Blue pad
     ids: 43000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 3514931184182334264, guid: 7fd05fb902317fc42af4c08cba73256f, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Red orb
     ids: 35050000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 7217252136601358895, guid: 7c95eb52f9e9c44459a012b28649a68d, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Blue orb
     ids: 54000000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 6109638756982225629, guid: a560e85671a27a049a533563fbdc42cb, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Green orb
     ids: fe030000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 4666585590203690648, guid: 4ca864148b6dd854ea1a452d1a7ca5ef, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Black orb
     ids: 32050000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 8490522865748744632, guid: 19dc9ef077b95ac4193722fdad4f73f4, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Dash orb
     ids: a8060000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 5801384614458289540, guid: cbeb41e41a70c0c4eabf86ec8157dd17, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Gravity dash orb
     ids: d7060000i
     category: 2
     tile: {fileID: 0}
     prefab: {fileID: 3869342514702378555, guid: 6d8fc08a9f9a2e140a7cdef6dfb27389, type: 3}
     scale: {x: 1, y: 1}
+    centered: 0
   - name: Slope
     ids: cf060000i
     category: 0
     tile: {fileID: 11400000, guid: a58a4f37a684c34488c7bf07e999af90, type: 2}
     prefab: {fileID: 0}
     scale: {x: 1, y: 1}
+    centered: 0
+  - name: Blocks 2.0 (30x30)
+    ids: 3f00000092000000ad000000af000000d3010000ca040000450000004600000047000000480000004a0000004b0000004c0000004d0000004e0000005100000052000000530000005a0000005b0000005c0000005d0000005e0000005f0000006000000074000000750000007600000077000000790000007a000000a0000000a1000000a2000000a3000000a5000000a6000000a7000000a8000000a9000000cf000000d0000000d1000000d2000000d4000000d5000000f7000000f8000000f9000000fa000000fc000000fd000000fe000000ff00000000010000010100000201000004010000050100000701000008010000090100000b0100000c0100000d0100000e0100000f010000100100001201000013010000d5010000d6010000d7010000b3040000b4040000b9040000ba040000c5040000c6040000i
+    category: 0
+    tile: {fileID: 11400000, guid: 16ec7ea651561f649904f8f59ac39a7b, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 1}
+    centered: 1
+  - name: Thin platform (30x1.5)
+    ids: d4010000db010000ec040000i
+    category: 0
+    tile: {fileID: 11400000, guid: 2aaf8e19d69fe8346af966a1125569a4, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 0.05}
+    centered: 1
+  - name: Slab (30x15)
+    ids: 960200009702000098020000i
+    category: 0
+    tile: {fileID: 11400000, guid: 968a2aa74a0dba9429d3c16fba5334fe, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 0.5}
+    centered: 1
+  - name: Slab (30x16)
+    ids: 3e000000410000004200000044000000i
+    category: 0
+    tile: {fileID: 11400000, guid: 968a2aa74a0dba9429d3c16fba5334fe, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 0.53}
+    centered: 1
+  - name: Slab (30x14)
+    ids: 93000000d70000007101000072010000i
+    category: 0
+    tile: {fileID: 11400000, guid: 968a2aa74a0dba9429d3c16fba5334fe, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 0.47}
+    centered: 1
+  - name: Block (30x21)
+    ids: aa000000ab000000ac000000ae000000c0000000i
+    category: 0
+    tile: {fileID: 11400000, guid: 968a2aa74a0dba9429d3c16fba5334fe, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 0.7}
+    centered: 1
+  - name: Half block (15x15)
+    ids: 40000000c3000000ce000000dc00000095020000830400008404000085040000b804000076070000i
+    category: 0
+    tile: {fileID: 11400000, guid: 968a2aa74a0dba9429d3c16fba5334fe, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 0.5, y: 0.5}
+    centered: 1
+  - name: Thin slab (30x3)
+    ids: b2040000ee040000i
+    category: 0
+    tile: {fileID: 11400000, guid: 2aaf8e19d69fe8346af966a1125569a4, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 0.1}
+    centered: 1
+  - name: Thin slab (30x6)
+    ids: c4040000f0040000i
+    category: 0
+    tile: {fileID: 11400000, guid: 2aaf8e19d69fe8346af966a1125569a4, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 0.2}
+    centered: 1
+  - name: Spike 2.0
+    ids: 90000000b1000000d8000000i
+    category: 1
+    tile: {fileID: 11400000, guid: 53d1d9ad9a3296f4abe431e0c906d716, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 1}
+    centered: 1
+  - name: Medium spike 2.0
+    ids: 91000000da000000i
+    category: 1
+    tile: {fileID: 11400000, guid: 53d1d9ad9a3296f4abe431e0c906d716, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 1}
+    centered: 1
+  - name: Small spike 2.0
+    ids: cd000000d9000000i
+    category: 1
+    tile: {fileID: 11400000, guid: 53d1d9ad9a3296f4abe431e0c906d716, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 0.5}
+    centered: 1
+  - name: Mini spike
+    ids: 88010000ca010000cb010000i
+    category: 1
+    tile: {fileID: 11400000, guid: 53d1d9ad9a3296f4abe431e0c906d716, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 0.45, y: 0.45}
+    centered: 1
+  - name: Ground spikes 2.0
+    ids: 3d000000be0100006d0100009b020000a5010000bd060000b4060000c2060000b7060000c0060000i
+    category: 1
+    tile: {fileID: 11400000, guid: c1253abb1563e8144812daae081ef9b8, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1, y: 0.35}
+    centered: 1
+  - name: Wide hazard (25x6)
+    ids: 97030000i
+    category: 1
+    tile: {fileID: 11400000, guid: 4f8e6eca16ed1324d9ffff7edd04fb15, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 0.83, y: 0.2}
+    centered: 1
+  - name: Saw 32
+    ids: 58000000ba000000e4020000a9060000i
+    category: 1
+    tile: {fileID: 11400000, guid: 7f98d96a8193a7842b7cac8bf8ea2485, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1.08, y: 1.08}
+    centered: 1
+  - name: Saw 30
+    ids: a3020000c6060000a6020000i
+    category: 1
+    tile: {fileID: 11400000, guid: 7f98d96a8193a7842b7cac8bf8ea2485, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 1.01, y: 1.01}
+    centered: 1
+  - name: Saw 29
+    ids: 8d010000ac060000i
+    category: 1
+    tile: {fileID: 11400000, guid: 7f98d96a8193a7842b7cac8bf8ea2485, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 0.96, y: 0.96}
+    centered: 1
+  - name: Saw 24
+    ids: 9603000053060000i
+    category: 1
+    tile: {fileID: 11400000, guid: 7f98d96a8193a7842b7cac8bf8ea2485, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 0.8, y: 0.8}
+    centered: 1
+  - name: Saw 22
+    ids: 59000000aa060000bb000000e5020000i
+    category: 1
+    tile: {fileID: 11400000, guid: 7f98d96a8193a7842b7cac8bf8ea2485, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 0.73, y: 0.73}
+    centered: 1
+  - name: Saw 20
+    ids: b8000000a7020000i
+    category: 1
+    tile: {fileID: 11400000, guid: 7f98d96a8193a7842b7cac8bf8ea2485, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 0.66, y: 0.66}
+    centered: 1
+  - name: Saw 17
+    ids: 8e010000ad060000a4020000c706000054060000b7000000i
+    category: 1
+    tile: {fileID: 11400000, guid: 7f98d96a8193a7842b7cac8bf8ea2485, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 0.58, y: 0.58}
+    centered: 1
+  - name: Saw 12
+    ids: 62000000bc000000e60200008f010000ae060000a5020000c8060000ab060000a8020000i
+    category: 1
+    tile: {fileID: 11400000, guid: 7f98d96a8193a7842b7cac8bf8ea2485, type: 2}
+    prefab: {fileID: 0}
+    scale: {x: 0.42, y: 0.42}
+    centered: 1
   referenceCollisionIds: 010000000200000003000000040000000600000007000000080000000900000027000000280000003e0000003f00000040000000410000004200000044000000450000004600000047000000480000004a0000004b0000004c0000004d0000004e0000005100000052000000530000005a0000005b0000005c0000005d0000005e0000005f000000600000006700000074000000750000007600000077000000790000007a0000008700000090000000910000009200000093000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b7000000b8000000b9000000ba000000bb000000bc000000c0000000c2000000c5000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d4000000d5000000d7000000d8000000d9000000da000000db000000dc000000ff00000000010000010100000201000004010000050100000701000008010000090100000b0100000c0100000d0100000e0100000f010000100100001201000013010000260100002701000028010000290100003101000033010000460100004701000048010000490100007301000074010000750100007601000088010000ca010000cb010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db01000095020000960200009702000098020000a1020000a2020000a6020000a7020000a8020000e4020000e5020000e602000096030000970300008204000083040000840400008504000086040000b2040000b3040000b4040000b5040000b6040000b7040000b8040000b9040000ba040000c4040000c5040000c6040000c7040000c8040000c9040000ca040000cb040000ec040000ed040000ee040000ef040000f0040000f10400002f050000300500003a0500003b0500003c0500003d0500003e0500003f0500004005000041050000300600005306000054060000a5060000a6060000a7060000a9060000aa060000ab060000ac060000ad060000ae060000af060000b0060000b1060000b2060000b3060000b4060000b5060000b6060000ba060000bb060000bc060000bd060000be060000bf060000c0060000c1060000c2060000c3060000c4060000c5060000c6060000c7060000c8060000cf060000d0060000d1060000d2060000d3060000d4060000d5060000d60600006f0700007007000071070000720700007307000074070000750700007607000077070000i

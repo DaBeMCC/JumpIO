@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e276370ae87cd8b45aca8408f3d0a99f, type: 3}
+  m_Name: AirborneRobots_LevelData
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelName: Airborne Robots
+  song: {fileID: 8300000, guid: 102bc56b226273440967f0ab5a4780f5, type: 3}
+  songOffset: 0
+  latencyMs: 0
+  startMode: 0
+  startGravityInverted: 0
+  startCorridorY: 0.5
+  startY: 0.5
+  length: 959.9733
+  bpm: 100
+  firstBeat: 0.34829932
+  markers: []
+  changeX:
+  - 0
+  speeds:
+  - 10.386
+  changeTimes:
+  - 0

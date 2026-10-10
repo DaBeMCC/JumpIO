@@ -3360,6 +3360,10 @@ MonoBehaviour:
   levels:
   - data: {fileID: 11400000, guid: c65967b498901f04bb54b4e844f6ff40, type: 2}
     sceneName: Level_01
+  - data: {fileID: 11400000, guid: d91a2228d8a614546b3720090e1356d8, type: 2}
+    sceneName: Level_02
+  - data: {fileID: 11400000, guid: f9a835b660c0b6b4da33f92a591c3d46, type: 2}
+    sceneName: Level_03
   startButton: {fileID: 971601142}
 --- !u!114 &1177992567
 MonoBehaviour:

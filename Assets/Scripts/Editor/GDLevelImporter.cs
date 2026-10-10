@@ -16,6 +16,7 @@ public class GDLevelImporter : EditorWindow
     [SerializeField] GDObjectMap map;
     [SerializeField] string displayName = "";
     [SerializeField] bool cutAtModePortal = true;
+    [SerializeField] bool applyMoveTriggers;
     [SerializeField] string gdResourcesFolder = @"C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\Resources";
 
     List<GDLevel> levels;
@@ -52,6 +53,7 @@ public class GDLevelImporter : EditorWindow
 
         map = (GDObjectMap)EditorGUILayout.ObjectField("ID map", map, typeof(GDObjectMap), false);
         cutAtModePortal = EditorGUILayout.Toggle(new GUIContent("Cut at unsupported mode", "Ends the level at the first wave, robot, spider or swing portal."), cutAtModePortal);
+        applyMoveTriggers = EditorGUILayout.Toggle(new GUIContent("Apply move triggers", "Places each moved group at its final position (move triggers are not simulated at runtime)."), applyMoveTriggers);
         displayName = EditorGUILayout.TextField(new GUIContent("Display name", "Empty = the level's name in Geometry Dash."), displayName);
         gdResourcesFolder = EditorGUILayout.TextField("GD Resources folder", gdResourcesFolder);
 
@@ -62,6 +64,19 @@ public class GDLevelImporter : EditorWindow
         scroll = EditorGUILayout.BeginScrollView(scroll);
         EditorGUILayout.TextArea(report, GUILayout.ExpandHeight(true));
         EditorGUILayout.EndScrollView();
+    }
+
+    public static string ImportIntoActiveScene(GDLevel level, string shownName, bool moveTriggers)
+    {
+        var importer = CreateInstance<GDLevelImporter>();
+        importer.map = AssetDatabase.LoadAssetAtPath<GDObjectMap>("Assets/Data/GDObjectMap.asset");
+        importer.displayName = shownName;
+        importer.cutAtModePortal = true;
+        importer.applyMoveTriggers = moveTriggers;
+        importer.Import(level);
+        string result = importer.report;
+        DestroyImmediate(importer);
+        return result;
     }
 
     void ReadLevels()
@@ -109,6 +124,7 @@ public class GDLevelImporter : EditorWindow
         }
 
         writer.Clear();
+        var groupOffsets = applyMoveTriggers ? MoveOffsets(gdObjects, cutX) : new Dictionary<string, Vector2>();
         var unmapped = new Dictionary<int, int>();
         int solids = 0, spikes = 0, prefabs = 0, ignored = 0, overlaps = 0, startPortals = 0;
         float startCorridorY = 0.5f;
@@ -129,7 +145,8 @@ public class GDLevelImporter : EditorWindow
                 continue;
             }
 
-            float x = o.x / UnitsPerBlock, y = o.y / UnitsPerBlock;
+            var moved = GroupOffset(o, groupOffsets);
+            float x = o.x / UnitsPerBlock + moved.x, y = o.y / UnitsPerBlock + moved.y;
             lastX = Mathf.Max(lastX, x);
             maxY = Mathf.Max(maxY, y);
 
@@ -150,7 +167,7 @@ public class GDLevelImporter : EditorWindow
             tilemap.SetTile(cell, entry.tile);
             var offset = new Vector3(x - cell.x - 0.5f, y - cell.y - 0.5f, 0f);
             tilemap.SetTransformMatrix(cell, Matrix4x4.Translate(offset)
-                * TileMatrix(o.rotation, o.flipX, o.flipY, entry.scale * o.scale));
+                * TileMatrix(o.rotation, o.flipX, o.flipY, entry.scale * o.scale, !entry.centered));
             if (solid) solids++; else spikes++;
         }
 
@@ -182,11 +199,32 @@ public class GDLevelImporter : EditorWindow
         Debug.Log("[GD Importer]\n" + report);
     }
 
-    public static Matrix4x4 TileMatrix(float rotation, bool flipX, bool flipY, Vector2 scale) =>
+    public static Matrix4x4 TileMatrix(float rotation, bool flipX, bool flipY, Vector2 scale, bool anchorBase = true) =>
         Matrix4x4.Rotate(Quaternion.Euler(0f, 0f, -rotation))
         * Matrix4x4.Scale(new Vector3(flipX ? -1f : 1f, flipY ? -1f : 1f, 1f))
-        * Matrix4x4.Translate(new Vector3(0f, -(1f - scale.y) / 2f, 0f))
+        * Matrix4x4.Translate(new Vector3(0f, anchorBase ? -(1f - scale.y) / 2f : 0f, 0f))
         * Matrix4x4.Scale(new Vector3(scale.x, scale.y, 1f));
+
+    static Dictionary<string, Vector2> MoveOffsets(List<GDObject> objects, float cutX)
+    {
+        var offsets = new Dictionary<string, Vector2>();
+        foreach (var t in objects)
+        {
+            if (t.id != MoveTrigger || t.x >= cutX || !t.fields.TryGetValue("51", out string group)) continue;
+            var delta = new Vector2(Number(t.fields, "28", 0f), Number(t.fields, "29", 0f)) / UnitsPerBlock;
+            offsets[group] = offsets.GetValueOrDefault(group) + delta;
+        }
+        return offsets;
+    }
+
+    static Vector2 GroupOffset(GDObject o, Dictionary<string, Vector2> offsets)
+    {
+        if (offsets.Count == 0 || !o.fields.TryGetValue("57", out string groups)) return Vector2.zero;
+        var total = Vector2.zero;
+        foreach (string g in groups.Split('.'))
+            if (offsets.TryGetValue(g, out var delta)) total += delta;
+        return total;
+    }
 
     void ReportMoveTriggers(List<GDObject> objects, float cutX, LevelData data, StringBuilder log)
     {
