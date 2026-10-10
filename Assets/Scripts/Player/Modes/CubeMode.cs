@@ -3,8 +3,9 @@ using UnityEngine;
 [System.Serializable]
 public class CubeMode : PlayerMode
 {
-    public float jumpVelocity = 21f;
+    [SerializeField] private float jumpVelocity = 21f;
 
+    public float JumpVelocity => jumpVelocity;
     public override bool CeilingKills => true;
 
     public override float Enter(PlayerModeType previous, float relativeVy) =>
@@ -14,8 +15,8 @@ public class CubeMode : PlayerMode
 
     public override float Step(float relativeVy, float dt)
     {
-        if (!player.IsGrounded || !player.IsHeld) return relativeVy;
-        player.IsGrounded = false;
+        if (!player.CanGroundJump || !player.IsHeld) return relativeVy;
+        player.UseGroundJump();
         player.ClearPress();
         GameEvents.RaiseJumped(player.transform.position);
         return jumpVelocity;
