@@ -3,7 +3,7 @@ using UnityEngine.Serialization;
 
 [RequireComponent(typeof(PlayerController))]
 // Vida e invulnerabilidad. Los pinchos matan al cubo al instante, pero en los modos de vuelo solo quitan un punto; los enemigos quitan un punto.
-public class PlayerHealth : MonoBehaviour
+public class PlayerHealth : MonoBehaviour, IDamageable
 {
     [FormerlySerializedAs("vidaMaxima")]
     [SerializeField] int maxHealth = 3;
@@ -15,6 +15,7 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] LayerMask groundLayer;
     [FormerlySerializedAs("umbralChoque")]
     [SerializeField, Range(0f, 1f)] float crashThreshold = 0.7f;
+    [SerializeField] float knockbackVelocity = 7f;
 
     PlayerController controller;
     int health;
@@ -24,6 +25,7 @@ public class PlayerHealth : MonoBehaviour
     public int Health => health;
     public int MaxHealth => maxHealth;
     public float InvulnerabilityDuration => invulnerabilityDuration;
+    public bool IsAlive => !dead;
 
     void Awake() => controller = GetComponent<PlayerController>();
 
@@ -52,19 +54,27 @@ public class PlayerHealth : MonoBehaviour
             Die();
             return;
         }
-        TakeDamage();
+        TakeDamage(1, other.bounds.center);
     }
 
-    public bool TakeDamage()
+    public bool TakeDamage(int amount, Vector2 source)
     {
         if (dead || !controller.IsActive || Time.time < invulnerableUntil) return false;
-        health--;
+        health = Mathf.Max(0, health - amount);
         // Invulnerabilidad breve para que un enemigo o una fila de pinchos no quite toda la vida en un solo contacto.
         invulnerableUntil = Time.time + invulnerabilityDuration;
         GameEvents.RaisePlayerDamaged(health, maxHealth);
         GameEvents.RaiseDamaged(transform.position);
         if (health <= 0) Die();
+        else Knockback(source);
         return true;
+    }
+
+    // El empujón es solo vertical: el avance horizontal lo marca la música y moverlo desfasaría al jugador de la canción.
+    void Knockback(Vector2 source)
+    {
+        float above = (transform.position.y - source.y) * controller.GravityDirection;
+        controller.Launch(above >= 0f ? knockbackVelocity : -knockbackVelocity);
     }
 
     void OnCollisionEnter2D(Collision2D collision) => CheckCrash(collision);
