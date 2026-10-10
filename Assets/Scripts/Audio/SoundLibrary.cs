@@ -18,6 +18,7 @@ public class SoundLibrary : ScriptableObject
     [SerializeField] Sound death;
     [SerializeField] Sound powerUp;
     [SerializeField] Sound uiClick;
+    [SerializeField] Sound victory;
 
     public Sound Jump => jump;
     public Sound Coin => coin;
@@ -25,4 +26,5 @@ public class SoundLibrary : ScriptableObject
     public Sound Death => death;
     public Sound PowerUp => powerUp;
     public Sound UiClick => uiClick;
+    public Sound Victory => victory;
 }

@@ -36,3 +36,7 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: 3848ece2b02559b4481b437e3c1a423e, type: 3}
     volume: 0.6
     pitchVariation: 0.03
+  victory:
+    clip: {fileID: 8300000, guid: 66dee5e4528dedd4e97b74b1b7375893, type: 3}
+    volume: 0.9
+    pitchVariation: 0
