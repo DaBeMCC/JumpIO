@@ -15,6 +15,7 @@ public static class LevelAppearanceSetup
         tiles.ClearAllTiles();
         foreach (var cell in ground.cellBounds.allPositionsWithin) RefreshGround(landscape, tiles, cell);
         ground.GetComponent<TilemapRenderer>().enabled = false;
+        PlatformFillSetup.Rebuild(landscape);
 
         var hazards = landscape.Hazards;
         if (hazards == null || landscape.Spike == null) return;
