@@ -23,6 +23,9 @@ public class LevelData : ScriptableObject
     public float bpm;
     public float firstBeat;
 
+    [Header("Editor")]
+    public float[] markers = new float[0];
+
     public int BeatAt(double levelTime) =>
         bpm > 0f ? (int)System.Math.Floor((songOffset + levelTime - firstBeat) * bpm / 60.0) : int.MinValue;
 
