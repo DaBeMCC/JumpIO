@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d801fd57aeb6634c97d3a1206d3a9c2, type: 3}
+  m_Name: Skin_Pirates
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterSkin
+  displayName: Pirate
+  sprite: {fileID: -1677967384, guid: 43ade8d2b23f10b429837be4717521e3, type: 3}
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  trailColor: {r: 0.85, g: 0.65, b: 0.3, a: 1}
+  particleColor: {r: 0.85, g: 0.65, b: 0.3, a: 1}
+  scale: 1
+  shipSprite: {fileID: -798384932, guid: 43ade8d2b23f10b429837be4717521e3, type: 3}
+  ballSprite: {fileID: -219184121, guid: 43ade8d2b23f10b429837be4717521e3, type: 3}
+  ufoSprite: {fileID: 1295375669, guid: 43ade8d2b23f10b429837be4717521e3, type: 3}
+  animationOverride: {fileID: 22100000, guid: afaa9a4ba9cf93044b8f3b6953725005, type: 2}
+  uprightRunner: 1
+  showTrail: 0

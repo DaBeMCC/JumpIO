@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: 7eb0d13c02763304893f0d2a1ce9fd53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4877343078255837491
+    second: Cyber_Portals_0
+  - first:
+      213: 4161207687884541535
+    second: Cyber_Portals_1
+  - first:
+      213: 5053454749410045562
+    second: Cyber_Portals_2
+  - first:
+      213: -7682026056560699785
+    second: Cyber_Portals_3
+  - first:
+      213: -6735763656123338601
+    second: Cyber_Portals_4
+  - first:
+      213: 8830668773473211140
+    second: Cyber_Portals_5
+  - first:
+      213: 7297511853311206567
+    second: Cyber_Portals_6
+  - first:
+      213: 2542604829949490611
+    second: Cyber_Portals_7
+  - first:
+      213: 6449608765384918002
+    second: Cyber_Portals_8
+  - first:
+      213: -3320599696867792471
+    second: Cyber_Portals_9
+  - first:
+      213: -9012517911960710136
+    second: Cyber_Portals_10
+  - first:
+      213: -1564397114135263103
+    second: Cyber_Portals_11
+  - first:
+      213: 7275984476862190924
+    second: Cyber_Portals_12
+  - first:
+      213: -3540729738577325063
+    second: Cyber_Portals_13
+  - first:
+      213: -1741509121967171109
+    second: Cyber_Portals_14
+  - first:
+      213: -6562125322648646861
+    second: Cyber_Portals_15
+  - first:
+      213: 1958631638008983876
+    second: Cyber_Portals_16
+  - first:
+      213: 2998422161082984861
+    second: Cyber_Portals_17
+  - first:
+      213: -2442344437758506076
+    second: Cyber_Portals_18
+  - first:
+      213: -2571211044331574631
+    second: Cyber_Portals_19
+  - first:
+      213: 4520288608625708511
+    second: Cyber_Portals_20
+  - first:
+      213: 5522834672249950829
+    second: Cyber_Portals_21
+  - first:
+      213: 1851608496666986335
+    second: Cyber_Portals_22
+  - first:
+      213: -9002919767075316809
+    second: Cyber_Portals_23
+  - first:
+      213: -7970955208652128197
+    second: Cyber_Portals_24
+  - first:
+      213: 1114702580047889662
+    second: Cyber_Portals_25
+  - first:
+      213: 8592707355112476141
+    second: Cyber_Portals_26
+  - first:
+      213: -2479429455914246067
+    second: Cyber_Portals_27
+  - first:
+      213: 6301997707437451333
+    second: Cyber_Portals_28
+  - first:
+      213: 7910242433846204132
+    second: Cyber_Portals_29
+  - first:
+      213: -4709541296389297811
+    second: Cyber_Portals_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyber_Portals_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb9d4cf42305cb0800000000000000
+      internalID: -4877343078255837491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 323
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e8bf858549fb930800000000000000
+      internalID: 4161207687884541535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 302
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ea81bf15a712640800000000000000
+      internalID: 5053454749410045562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 310
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776976fa006f36590800000000000000
+      internalID: -7682026056560699785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79038c174a2c582a0800000000000000
+      internalID: -6735763656123338601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 270
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403510c6676dc8a70800000000000000
+      internalID: 8830668773473211140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 23
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a421d0ed58f54560800000000000000
+      internalID: 7297511853311206567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 208
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5f45d1f95294320800000000000000
+      internalID: 2542604829949490611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 220
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f38309200d918950800000000000000
+      internalID: 6449608765384918002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 322
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ece24b2cdae1d0800000000000000
+      internalID: -3320599696867792471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 325
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8049cbd95ba1de280800000000000000
+      internalID: -9012517911960710136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 306
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188425cfc152a4ae0800000000000000
+      internalID: -1564397114135263103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 183
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4590a6f45d79f460800000000000000
+      internalID: 7275984476862190924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3df66ff0dccdec0800000000000000
+      internalID: -3540729738577325063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 162
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd95b043eaae4d7e0800000000000000
+      internalID: -1741509121967171109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 303
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b8ee369c5aee4a0800000000000000
+      internalID: -6562125322648646861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 117
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441fd55f8157e2b10800000000000000
+      internalID: 1958631638008983876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 292
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99a206b1198c9920800000000000000
+      internalID: 2998422161082984861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abc0488cac0b1ed0800000000000000
+      internalID: -2442344437758506076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_19
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a2e049d29315cd0800000000000000
+      internalID: -2571211044331574631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_20
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 168
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd416f3a8a4bbe30800000000000000
+      internalID: 4520288608625708511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_21
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 200
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d625ba88fdc05ac40800000000000000
+      internalID: 5522834672249950829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_22
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 296
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f574ee21e1c32b910800000000000000
+      internalID: 1851608496666986335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 328
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb122edb243f0380800000000000000
+      internalID: -9002919767075316809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_24
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 292
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b308dbb387a716190800000000000000
+      internalID: -7970955208652128197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_25
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 290
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef447f13718387f00800000000000000
+      internalID: 1114702580047889662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 292
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded8d5830dd6f3770800000000000000
+      internalID: 8592707355112476141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_27
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 101
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d406792eb0c479dd0800000000000000
+      internalID: -2479429455914246067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_28
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 272
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548a2278681357750800000000000000
+      internalID: 6301997707437451333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_29
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 200
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6df945593d6cd60800000000000000
+      internalID: 7910242433846204132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Portals_30
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 202
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69eea5a42954aeb0800000000000000
+      internalID: -4709541296389297811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cyber_Portals_0: -4877343078255837491
+      Cyber_Portals_1: 4161207687884541535
+      Cyber_Portals_10: -9012517911960710136
+      Cyber_Portals_11: -1564397114135263103
+      Cyber_Portals_12: 7275984476862190924
+      Cyber_Portals_13: -3540729738577325063
+      Cyber_Portals_14: -1741509121967171109
+      Cyber_Portals_15: -6562125322648646861
+      Cyber_Portals_16: 1958631638008983876
+      Cyber_Portals_17: 2998422161082984861
+      Cyber_Portals_18: -2442344437758506076
+      Cyber_Portals_19: -2571211044331574631
+      Cyber_Portals_2: 5053454749410045562
+      Cyber_Portals_20: 4520288608625708511
+      Cyber_Portals_21: 5522834672249950829
+      Cyber_Portals_22: 1851608496666986335
+      Cyber_Portals_23: -9002919767075316809
+      Cyber_Portals_24: -7970955208652128197
+      Cyber_Portals_25: 1114702580047889662
+      Cyber_Portals_26: 8592707355112476141
+      Cyber_Portals_27: -2479429455914246067
+      Cyber_Portals_28: 6301997707437451333
+      Cyber_Portals_29: 7910242433846204132
+      Cyber_Portals_3: -7682026056560699785
+      Cyber_Portals_30: -4709541296389297811
+      Cyber_Portals_4: -6735763656123338601
+      Cyber_Portals_5: 8830668773473211140
+      Cyber_Portals_6: 7297511853311206567
+      Cyber_Portals_7: 2542604829949490611
+      Cyber_Portals_8: 6449608765384918002
+      Cyber_Portals_9: -3320599696867792471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

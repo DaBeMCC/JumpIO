@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: cec34f94757e06e488022d1e45a20956
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4527156974639386548
+    second: Cyber_Far_0
+  - first:
+      213: 3110190320910336309
+    second: Cyber_Far_1
+  - first:
+      213: -5578672393837715523
+    second: Cyber_Far_2
+  - first:
+      213: -7048182038713308317
+    second: Cyber_Far_3
+  - first:
+      213: 1722206687246803477
+    second: Cyber_Far_4
+  - first:
+      213: -8839347817914020236
+    second: Cyber_Far_5
+  - first:
+      213: -4690618262809810146
+    second: Cyber_Far_6
+  - first:
+      213: -5112983144039535308
+    second: Cyber_Far_7
+  - first:
+      213: 2648074320533927558
+    second: Cyber_Far_8
+  - first:
+      213: 2513464957610004441
+    second: Cyber_Far_9
+  - first:
+      213: 7579508883864382719
+    second: Cyber_Far_10
+  - first:
+      213: -4068129061254071200
+    second: Cyber_Far_11
+  - first:
+      213: 541200917143293734
+    second: Cyber_Far_12
+  - first:
+      213: -1793167017960609843
+    second: Cyber_Far_13
+  - first:
+      213: 983835859923420678
+    second: Cyber_Far_14
+  - first:
+      213: 6202481925769022680
+    second: Cyber_Far_15
+  - first:
+      213: 5656123157852629051
+    second: Cyber_Far_16
+  - first:
+      213: 4006265138915605818
+    second: Cyber_Far_17
+  - first:
+      213: -4692926602970769803
+    second: Cyber_Far_18
+  - first:
+      213: 4288100025212864753
+    second: Cyber_Far_19
+  - first:
+      213: -8122680432647393038
+    second: Cyber_Far_20
+  - first:
+      213: -6665534840360100560
+    second: Cyber_Far_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyber_Far_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 424
+        width: 1021
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf00d35841b3de30800000000000000
+      internalID: 4527156974639386548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_1
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 511
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53108bd4e9d992b20800000000000000
+      internalID: 3110190320910336309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_2
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 422
+        width: 315
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf560fc3039492b0800000000000000
+      internalID: -5578672393837715523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 481
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b643657c3df2e90800000000000000
+      internalID: -7048182038713308317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 487
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512e52f7bd186e710800000000000000
+      internalID: 1722206687246803477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_5
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 465
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e4c131ef3545580800000000000000
+      internalID: -8839347817914020236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_6
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 407
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1be24cba8397eeb0800000000000000
+      internalID: -4690618262809810146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_7
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 417
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43da6f49be80b09b0800000000000000
+      internalID: -5112983144039535308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_8
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 442
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686324e7099dfb420800000000000000
+      internalID: 2648074320533927558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_9
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 429
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8cb1ef0f91e220800000000000000
+      internalID: 2513464957610004441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_10
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 417
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc67a20c23df2960800000000000000
+      internalID: 7579508883864382719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_11
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 430
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cf1833c2a1b87c0800000000000000
+      internalID: -4068129061254071200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_12
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 437
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f0172ed5bb28700800000000000000
+      internalID: 541200917143293734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7e28709146d17e0800000000000000
+      internalID: -1793167017960609843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_14
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 425
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606c604808947ad00800000000000000
+      internalID: 983835859923420678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_15
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 427
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc4e370374a31650800000000000000
+      internalID: 6202481925769022680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_16
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 417
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38aaad6b069e7e40800000000000000
+      internalID: 5656123157852629051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 417
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d7811faec199730800000000000000
+      internalID: 4006265138915605818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_18
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 377
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57652f86e106fdeb0800000000000000
+      internalID: -4692926602970769803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_19
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 418
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8082ce044628b30800000000000000
+      internalID: 4288100025212864753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_20
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 415
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0390cae21764f80800000000000000
+      internalID: -8122680432647393038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Far_21
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 403
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d9852d0634f73a0800000000000000
+      internalID: -6665534840360100560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cyber_Far_0: 4527156974639386548
+      Cyber_Far_1: 3110190320910336309
+      Cyber_Far_10: 7579508883864382719
+      Cyber_Far_11: -4068129061254071200
+      Cyber_Far_12: 541200917143293734
+      Cyber_Far_13: -1793167017960609843
+      Cyber_Far_14: 983835859923420678
+      Cyber_Far_15: 6202481925769022680
+      Cyber_Far_16: 5656123157852629051
+      Cyber_Far_17: 4006265138915605818
+      Cyber_Far_18: -4692926602970769803
+      Cyber_Far_19: 4288100025212864753
+      Cyber_Far_2: -5578672393837715523
+      Cyber_Far_20: -8122680432647393038
+      Cyber_Far_21: -6665534840360100560
+      Cyber_Far_3: -7048182038713308317
+      Cyber_Far_4: 1722206687246803477
+      Cyber_Far_5: -8839347817914020236
+      Cyber_Far_6: -4690618262809810146
+      Cyber_Far_7: -5112983144039535308
+      Cyber_Far_8: 2648074320533927558
+      Cyber_Far_9: 2513464957610004441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

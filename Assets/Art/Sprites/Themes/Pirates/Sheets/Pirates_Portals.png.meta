@@ -1,0 +1,1302 @@
+fileFormatVersion: 2
+guid: f662fac84893da7439e6170720856d6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8707927921911289624
+    second: Pirates_Portals_0
+  - first:
+      213: -799792290499497610
+    second: Pirates_Portals_1
+  - first:
+      213: -5933629895999125067
+    second: Pirates_Portals_2
+  - first:
+      213: -2869654571835098414
+    second: Pirates_Portals_3
+  - first:
+      213: -542198391772067670
+    second: Pirates_Portals_4
+  - first:
+      213: 7891063857136805773
+    second: Pirates_Portals_5
+  - first:
+      213: -281485295656079134
+    second: Pirates_Portals_6
+  - first:
+      213: 4912170220113360073
+    second: Pirates_Portals_7
+  - first:
+      213: 1312844200975285778
+    second: Pirates_Portals_8
+  - first:
+      213: -8049023795360051050
+    second: Pirates_Portals_9
+  - first:
+      213: 812217952623309912
+    second: Pirates_Portals_10
+  - first:
+      213: -6800297894576648534
+    second: Pirates_Portals_11
+  - first:
+      213: 53851323167782112
+    second: Pirates_Portals_12
+  - first:
+      213: 2446720139941441177
+    second: Pirates_Portals_13
+  - first:
+      213: 1399688695240373616
+    second: Pirates_Portals_14
+  - first:
+      213: -7384511865024161403
+    second: Pirates_Portals_15
+  - first:
+      213: 2993450231257459420
+    second: Pirates_Portals_16
+  - first:
+      213: -7201582532313746926
+    second: Pirates_Portals_17
+  - first:
+      213: -7947856401419867742
+    second: Pirates_Portals_18
+  - first:
+      213: 8537805999091095571
+    second: Pirates_Portals_19
+  - first:
+      213: -8751840413657346822
+    second: Pirates_Portals_20
+  - first:
+      213: 5987904397016094966
+    second: Pirates_Portals_21
+  - first:
+      213: 4107675386228185112
+    second: Pirates_Portals_22
+  - first:
+      213: -2528511627610152592
+    second: Pirates_Portals_23
+  - first:
+      213: -8618632763638270301
+    second: Pirates_Portals_24
+  - first:
+      213: 7916355754597786108
+    second: Pirates_Portals_25
+  - first:
+      213: -4337321255983520794
+    second: Pirates_Portals_26
+  - first:
+      213: 8588176575116629979
+    second: Pirates_Portals_27
+  - first:
+      213: 8338081095583936107
+    second: Pirates_Portals_28
+  - first:
+      213: -6966163226277013187
+    second: Pirates_Portals_29
+  - first:
+      213: -5990562016483183682
+    second: Pirates_Portals_30
+  - first:
+      213: -4818036913718243868
+    second: Pirates_Portals_31
+  - first:
+      213: 7628144004708128157
+    second: Pirates_Portals_32
+  - first:
+      213: 3905151305773942870
+    second: Pirates_Portals_33
+  - first:
+      213: 500203166671222561
+    second: Pirates_Portals_34
+  - first:
+      213: 3979596008633451462
+    second: Pirates_Portals_35
+  - first:
+      213: 9048836206718371554
+    second: Pirates_Portals_36
+  - first:
+      213: -7824332931407679841
+    second: Pirates_Portals_37
+  - first:
+      213: 7074918087566200717
+    second: Pirates_Portals_38
+  - first:
+      213: 5217100491953274165
+    second: Pirates_Portals_39
+  - first:
+      213: 7609507537326102613
+    second: Pirates_Portals_40
+  - first:
+      213: 6367195919355821130
+    second: Pirates_Portals_41
+  - first:
+      213: -3044487504787486256
+    second: Pirates_Portals_42
+  - first:
+      213: 3972177931499427635
+    second: Pirates_Portals_43
+  - first:
+      213: 104648954996504673
+    second: Pirates_Portals_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pirates_Portals_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8a5cc01b9372780800000000000000
+      internalID: -8707927921911289624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 218
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6717ea6362196e4f0800000000000000
+      internalID: -799792290499497610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 196
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9855c1c0387ada0800000000000000
+      internalID: -5933629895999125067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 212
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da71b9fe50fc28d0800000000000000
+      internalID: -2869654571835098414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 215
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa843a47f69b978f0800000000000000
+      internalID: -542198391772067670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 205
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d872098f4c0b28d60800000000000000
+      internalID: 7891063857136805773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 242
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e07cee6d96f71cf0800000000000000
+      internalID: -281485295656079134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 215
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4fb161ac88b2440800000000000000
+      internalID: 4912170220113360073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 246
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e309458d8283210800000000000000
+      internalID: 1312844200975285778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 194
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690d5e0f08f1c4090800000000000000
+      internalID: -8049023795360051050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 210
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854be42bce3954b00800000000000000
+      internalID: 812217952623309912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 266
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae0cea281d70a1a0800000000000000
+      internalID: -6800297894576648534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 186
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4b91c3e715fb000800000000000000
+      internalID: 53851323167782112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 272
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ee006010f74f120800000000000000
+      internalID: 2446720139941441177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 152
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075bee3d371bc6310800000000000000
+      internalID: 1399688695240373616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 180
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589d3956591f48990800000000000000
+      internalID: -7384511865024161403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda69e6102fda8920800000000000000
+      internalID: 2993450231257459420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 57
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212f7cca7d6de0c90800000000000000
+      internalID: -7201582532313746926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 262
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9ed8366ba83b190800000000000000
+      internalID: -7947856401419867742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 207
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318160922516c7670800000000000000
+      internalID: 8537805999091095571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_20
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 244
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afccb0553873b8680800000000000000
+      internalID: -8751840413657346822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_21
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 232
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8d425e25f491350800000000000000
+      internalID: 5987904397016094966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 246
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8181fb81005610930800000000000000
+      internalID: 4107675386228185112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 188
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0712ad1421ce8ecd0800000000000000
+      internalID: -2528511627610152592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 119
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a63cc93a27746880800000000000000
+      internalID: -8618632763638270301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 205
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1ab6cbd9b8cdd60800000000000000
+      internalID: 7916355754597786108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 224
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3e95c3c4dbec3c0800000000000000
+      internalID: -4337321255983520794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 224
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7582cc7155f2770800000000000000
+      internalID: 8588176575116629979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e2ea25490d6b370800000000000000
+      internalID: 8338081095583936107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_29
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 299
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d399e5a3477335f90800000000000000
+      internalID: -6966163226277013187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_30
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 270
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3729ad59f3ddca0800000000000000
+      internalID: -5990562016483183682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 208
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edca1b34f4e22db0800000000000000
+      internalID: -4818036913718243868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_32
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 258
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9557208e8c9cd960800000000000000
+      internalID: 7628144004708128157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_33
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 278
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6580fc61c62e13630800000000000000
+      internalID: 3905151305773942870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_34
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 247
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127b6f0412411f600800000000000000
+      internalID: 500203166671222561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_35
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 200
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3c82c2c7d5a3730800000000000000
+      internalID: 3979596008633451462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_36
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 79
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e64424569ce39d70800000000000000
+      internalID: 9048836206718371554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_37
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 134
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eed0b67a26a6390800000000000000
+      internalID: -7824332931407679841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_38
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 102
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f8e5024882f2260800000000000000
+      internalID: 7074918087566200717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_39
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 363
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53df36c814dd66840800000000000000
+      internalID: 5217100491953274165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_40
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 159
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558dafdc9c66a9960800000000000000
+      internalID: 7609507537326102613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_41
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 49
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c358c24f2dc5850800000000000000
+      internalID: 6367195919355821130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_42
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 54
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9c60aaebecfb5d0800000000000000
+      internalID: -3044487504787486256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_43
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 216
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3375baf78c2002730800000000000000
+      internalID: 3972177931499427635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Portals_44
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 214
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168beac8ba9c37100800000000000000
+      internalID: 104648954996504673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pirates_Portals_0: -8707927921911289624
+      Pirates_Portals_1: -799792290499497610
+      Pirates_Portals_10: 812217952623309912
+      Pirates_Portals_11: -6800297894576648534
+      Pirates_Portals_12: 53851323167782112
+      Pirates_Portals_13: 2446720139941441177
+      Pirates_Portals_14: 1399688695240373616
+      Pirates_Portals_15: -7384511865024161403
+      Pirates_Portals_16: 2993450231257459420
+      Pirates_Portals_17: -7201582532313746926
+      Pirates_Portals_18: -7947856401419867742
+      Pirates_Portals_19: 8537805999091095571
+      Pirates_Portals_2: -5933629895999125067
+      Pirates_Portals_20: -8751840413657346822
+      Pirates_Portals_21: 5987904397016094966
+      Pirates_Portals_22: 4107675386228185112
+      Pirates_Portals_23: -2528511627610152592
+      Pirates_Portals_24: -8618632763638270301
+      Pirates_Portals_25: 7916355754597786108
+      Pirates_Portals_26: -4337321255983520794
+      Pirates_Portals_27: 8588176575116629979
+      Pirates_Portals_28: 8338081095583936107
+      Pirates_Portals_29: -6966163226277013187
+      Pirates_Portals_3: -2869654571835098414
+      Pirates_Portals_30: -5990562016483183682
+      Pirates_Portals_31: -4818036913718243868
+      Pirates_Portals_32: 7628144004708128157
+      Pirates_Portals_33: 3905151305773942870
+      Pirates_Portals_34: 500203166671222561
+      Pirates_Portals_35: 3979596008633451462
+      Pirates_Portals_36: 9048836206718371554
+      Pirates_Portals_37: -7824332931407679841
+      Pirates_Portals_38: 7074918087566200717
+      Pirates_Portals_39: 5217100491953274165
+      Pirates_Portals_4: -542198391772067670
+      Pirates_Portals_40: 7609507537326102613
+      Pirates_Portals_41: 6367195919355821130
+      Pirates_Portals_42: -3044487504787486256
+      Pirates_Portals_43: 3972177931499427635
+      Pirates_Portals_44: 104648954996504673
+      Pirates_Portals_5: 7891063857136805773
+      Pirates_Portals_6: -281485295656079134
+      Pirates_Portals_7: 4912170220113360073
+      Pirates_Portals_8: 1312844200975285778
+      Pirates_Portals_9: -8049023795360051050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

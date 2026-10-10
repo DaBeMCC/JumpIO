@@ -1,0 +1,5540 @@
+fileFormatVersion: 2
+guid: 30f8520231c493241935aa70d7bf73b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6050983250090778653
+    second: Cyber_Character_0
+  - first:
+      213: -3821324259401833726
+    second: Cyber_Character_1
+  - first:
+      213: 7629854040854874368
+    second: Cyber_Character_2
+  - first:
+      213: -6960405752657833365
+    second: Cyber_Character_3
+  - first:
+      213: 531197717683075415
+    second: Cyber_Character_4
+  - first:
+      213: 7799173266547334405
+    second: Cyber_Character_5
+  - first:
+      213: 1747626907677172320
+    second: Cyber_Character_6
+  - first:
+      213: 2052327989812537772
+    second: Cyber_Character_7
+  - first:
+      213: -6713213460422188700
+    second: Cyber_Character_8
+  - first:
+      213: -8445056113647089453
+    second: Cyber_Character_9
+  - first:
+      213: -1120865287328360685
+    second: Cyber_Character_10
+  - first:
+      213: 5649961154163027044
+    second: Cyber_Character_11
+  - first:
+      213: -4441608400556789643
+    second: Cyber_Character_12
+  - first:
+      213: -4513872241253925466
+    second: Cyber_Character_13
+  - first:
+      213: 7967827226547607443
+    second: Cyber_Character_14
+  - first:
+      213: -8157555501951004697
+    second: Cyber_Character_15
+  - first:
+      213: 3751056245802192942
+    second: Cyber_Character_16
+  - first:
+      213: -5314305737446751830
+    second: Cyber_Character_17
+  - first:
+      213: -6240241371447971139
+    second: Cyber_Character_18
+  - first:
+      213: -5012147456581280210
+    second: Cyber_Character_19
+  - first:
+      213: -1959116804714909450
+    second: Cyber_Character_20
+  - first:
+      213: 7188638023002617467
+    second: Cyber_Character_21
+  - first:
+      213: 1307474957450871430
+    second: Cyber_Character_22
+  - first:
+      213: 4482572664275970444
+    second: Cyber_Character_23
+  - first:
+      213: -2959581397865835156
+    second: Cyber_Character_24
+  - first:
+      213: 5149807801263027204
+    second: Cyber_Character_25
+  - first:
+      213: -4323434842911014757
+    second: Cyber_Character_26
+  - first:
+      213: 7502860998222666529
+    second: Cyber_Character_27
+  - first:
+      213: 630485570024515985
+    second: Cyber_Character_28
+  - first:
+      213: 506517581097663176
+    second: Cyber_Character_29
+  - first:
+      213: 6161052009134238647
+    second: Cyber_Character_30
+  - first:
+      213: 5921866502942113405
+    second: Cyber_Character_31
+  - first:
+      213: 4021237577334804299
+    second: Cyber_Character_32
+  - first:
+      213: -5671368300269530809
+    second: Cyber_Character_33
+  - first:
+      213: -7420904842393846473
+    second: Cyber_Character_34
+  - first:
+      213: 7951903671631346963
+    second: Cyber_Character_35
+  - first:
+      213: -4736353965784156760
+    second: Cyber_Character_36
+  - first:
+      213: -4008848317866891839
+    second: Cyber_Character_37
+  - first:
+      213: -3954529888508466084
+    second: Cyber_Character_38
+  - first:
+      213: 255698784803917381
+    second: Cyber_Character_39
+  - first:
+      213: 3461361852682335660
+    second: Cyber_Character_40
+  - first:
+      213: -3638973477649347565
+    second: Cyber_Character_41
+  - first:
+      213: 5266169736505144507
+    second: Cyber_Character_42
+  - first:
+      213: -5855220116395591635
+    second: Cyber_Character_43
+  - first:
+      213: 7198081065588080185
+    second: Cyber_Character_44
+  - first:
+      213: -868144559303482294
+    second: Cyber_Character_45
+  - first:
+      213: 3875330580930228475
+    second: Cyber_Character_46
+  - first:
+      213: -7402092417983119626
+    second: Cyber_Character_47
+  - first:
+      213: -7814200863466795888
+    second: Cyber_Character_48
+  - first:
+      213: 8028997614821906461
+    second: Cyber_Character_49
+  - first:
+      213: -5697242162017526271
+    second: Cyber_Character_50
+  - first:
+      213: -8640978465315219838
+    second: Cyber_Character_51
+  - first:
+      213: 2539390453997210113
+    second: Cyber_Character_52
+  - first:
+      213: 7151142400371365129
+    second: Cyber_Character_53
+  - first:
+      213: 5242736980858870949
+    second: Cyber_Character_54
+  - first:
+      213: 8599623177692133239
+    second: Cyber_Character_55
+  - first:
+      213: -7639547374157409630
+    second: Cyber_Character_56
+  - first:
+      213: 6623692011246521920
+    second: Cyber_Character_57
+  - first:
+      213: -7380970195388407887
+    second: Cyber_Character_58
+  - first:
+      213: 1741434947358321188
+    second: Cyber_Character_59
+  - first:
+      213: 1069240322830184406
+    second: Cyber_Character_60
+  - first:
+      213: 4033679612077518460
+    second: Cyber_Character_61
+  - first:
+      213: 6119151627379236167
+    second: Cyber_Character_62
+  - first:
+      213: -3478615233231129863
+    second: Cyber_Character_63
+  - first:
+      213: -7525015569006976435
+    second: Cyber_Character_64
+  - first:
+      213: 8907081857352191247
+    second: Cyber_Character_65
+  - first:
+      213: 7805953349467884454
+    second: Cyber_Character_66
+  - first:
+      213: -5554005793427624428
+    second: Cyber_Character_67
+  - first:
+      213: -8006833917784670996
+    second: Cyber_Character_68
+  - first:
+      213: 8724479895683630616
+    second: Cyber_Character_69
+  - first:
+      213: -7771850334638497572
+    second: Cyber_Character_70
+  - first:
+      213: -2060250248684476320
+    second: Cyber_Character_71
+  - first:
+      213: -8046196489707109473
+    second: Cyber_Character_72
+  - first:
+      213: 5968508326270716837
+    second: Cyber_Character_73
+  - first:
+      213: 7623653162897283649
+    second: Cyber_Character_74
+  - first:
+      213: 6342536118074945495
+    second: Cyber_Character_75
+  - first:
+      213: -8880727217660263118
+    second: Cyber_Character_76
+  - first:
+      213: 5081526775459656068
+    second: Cyber_Character_77
+  - first:
+      213: -3550068256550290668
+    second: Cyber_Character_78
+  - first:
+      213: 8296835740942964371
+    second: Cyber_Character_79
+  - first:
+      213: 6282007283616799833
+    second: Cyber_Character_80
+  - first:
+      213: 2722740010244825679
+    second: Cyber_Character_81
+  - first:
+      213: 8118058343223073687
+    second: Cyber_Character_82
+  - first:
+      213: -1538603651417581538
+    second: Cyber_Character_83
+  - first:
+      213: 5054322944433655841
+    second: Cyber_Character_84
+  - first:
+      213: -7921266569836752705
+    second: Cyber_Character_85
+  - first:
+      213: -8234381821047901331
+    second: Cyber_Character_86
+  - first:
+      213: 6880572996917431460
+    second: Cyber_Character_87
+  - first:
+      213: -5179281132116855221
+    second: Cyber_Character_88
+  - first:
+      213: -8335205342053272772
+    second: Cyber_Character_89
+  - first:
+      213: -808655966680643053
+    second: Cyber_Character_90
+  - first:
+      213: -4175640027775071819
+    second: Cyber_Character_91
+  - first:
+      213: -3437747303270079780
+    second: Cyber_Character_92
+  - first:
+      213: 4760121863091734350
+    second: Cyber_Character_93
+  - first:
+      213: -2852535673470890924
+    second: Cyber_Character_94
+  - first:
+      213: 4714549548415750625
+    second: Cyber_Character_95
+  - first:
+      213: -7232611798863127740
+    second: Cyber_Character_96
+  - first:
+      213: -3938566437002727071
+    second: Cyber_Character_97
+  - first:
+      213: -7647760003315695641
+    second: Cyber_Character_98
+  - first:
+      213: 2448672248272939454
+    second: Cyber_Character_99
+  - first:
+      213: 4284290031641896771
+    second: Cyber_Character_100
+  - first:
+      213: -5600111048134359858
+    second: Cyber_Character_101
+  - first:
+      213: -948926133002470598
+    second: Cyber_Character_102
+  - first:
+      213: 9205504903539415768
+    second: Cyber_Character_103
+  - first:
+      213: 2651076805936472518
+    second: Cyber_Character_104
+  - first:
+      213: 1659338842198626511
+    second: Cyber_Character_105
+  - first:
+      213: 3967532269324212619
+    second: Cyber_Character_106
+  - first:
+      213: -385177444422691964
+    second: Cyber_Character_107
+  - first:
+      213: 4733861513873225475
+    second: Cyber_Character_108
+  - first:
+      213: 3956030181221857681
+    second: Cyber_Character_109
+  - first:
+      213: -7958338444327407269
+    second: Cyber_Character_110
+  - first:
+      213: 6728790154360122696
+    second: Cyber_Character_111
+  - first:
+      213: 7353596291993862463
+    second: Cyber_Character_112
+  - first:
+      213: -1623577524585484426
+    second: Cyber_Character_113
+  - first:
+      213: -5139502923352654932
+    second: Cyber_Character_114
+  - first:
+      213: -4642165179490258675
+    second: Cyber_Character_115
+  - first:
+      213: 6638767536564899276
+    second: Cyber_Character_116
+  - first:
+      213: 1905036053732168792
+    second: Cyber_Character_117
+  - first:
+      213: -1587043753738018556
+    second: Cyber_Character_118
+  - first:
+      213: 785445045075743558
+    second: Cyber_Character_119
+  - first:
+      213: -4551512355763688128
+    second: Cyber_Character_120
+  - first:
+      213: -7846396797025501603
+    second: Cyber_Character_121
+  - first:
+      213: 7149089464971108430
+    second: Cyber_Character_122
+  - first:
+      213: 3223947944754925941
+    second: Cyber_Character_123
+  - first:
+      213: -3080147742177124088
+    second: Cyber_Character_124
+  - first:
+      213: -8253719000253101585
+    second: Cyber_Character_125
+  - first:
+      213: -8166147916627618731
+    second: Cyber_Character_126
+  - first:
+      213: 3371166827798206119
+    second: Cyber_Character_127
+  - first:
+      213: -4214406974581565942
+    second: Cyber_Character_128
+  - first:
+      213: -7631919541035747332
+    second: Cyber_Character_129
+  - first:
+      213: -7203711127608572272
+    second: Cyber_Character_130
+  - first:
+      213: -333199107684894778
+    second: Cyber_Character_131
+  - first:
+      213: 4194167174037803694
+    second: Cyber_Character_132
+  - first:
+      213: -1864178889121427554
+    second: Cyber_Character_133
+  - first:
+      213: 6884298566423459729
+    second: Cyber_Character_134
+  - first:
+      213: -3244897536914735570
+    second: Cyber_Character_135
+  - first:
+      213: -6062048688391148302
+    second: Cyber_Character_136
+  - first:
+      213: 5499058237796618531
+    second: Cyber_Character_137
+  - first:
+      213: -979119486281143745
+    second: Cyber_Character_138
+  - first:
+      213: -8653543721660941553
+    second: Cyber_Character_139
+  - first:
+      213: -6826432188513457746
+    second: Cyber_Character_140
+  - first:
+      213: -4141890969312287666
+    second: Cyber_Character_141
+  - first:
+      213: -8494480964363490943
+    second: Cyber_Character_142
+  - first:
+      213: -7326808921995708956
+    second: Cyber_Character_143
+  - first:
+      213: -2533562389438586735
+    second: Cyber_Character_144
+  - first:
+      213: -4503156053998846775
+    second: Cyber_Character_145
+  - first:
+      213: -4237249068625647765
+    second: Cyber_Character_146
+  - first:
+      213: -1558211362982736712
+    second: Cyber_Character_147
+  - first:
+      213: -2176564309734157231
+    second: Cyber_Character_148
+  - first:
+      213: 3687960023794048315
+    second: Cyber_Character_149
+  - first:
+      213: -7980593667338132278
+    second: Cyber_Character_150
+  - first:
+      213: 5773689878492181687
+    second: Cyber_Character_151
+  - first:
+      213: 5933698856305451543
+    second: Cyber_Character_152
+  - first:
+      213: -4942646854871245676
+    second: Cyber_Character_153
+  - first:
+      213: 4637221512221931689
+    second: Cyber_Character_154
+  - first:
+      213: -3944835730127430109
+    second: Cyber_Character_155
+  - first:
+      213: 6916215226309672016
+    second: Cyber_Character_156
+  - first:
+      213: -8679316393485779956
+    second: Cyber_Character_157
+  - first:
+      213: 4841961655533855326
+    second: Cyber_Character_158
+  - first:
+      213: 7122974352314300432
+    second: Cyber_Character_159
+  - first:
+      213: -3726312378753003768
+    second: Cyber_Character_160
+  - first:
+      213: 590144294491101863
+    second: Cyber_Character_161
+  - first:
+      213: 5508768729434672121
+    second: Cyber_Character_162
+  - first:
+      213: 6201198179788965597
+    second: Cyber_Character_163
+  - first:
+      213: -408481030436599173
+    second: Cyber_Character_164
+  - first:
+      213: -4365763007639572528
+    second: Cyber_Character_165
+  - first:
+      213: -3113309809778909966
+    second: Cyber_Character_166
+  - first:
+      213: 7766498903336906368
+    second: Cyber_Character_167
+  - first:
+      213: -2390449258833791729
+    second: Cyber_Character_168
+  - first:
+      213: -3913982893651862457
+    second: Cyber_Character_169
+  - first:
+      213: 7699554699137278025
+    second: Cyber_Character_170
+  - first:
+      213: 6190767898316811124
+    second: Cyber_Character_171
+  - first:
+      213: 6004763606752855456
+    second: Cyber_Character_172
+  - first:
+      213: -2160270056676521394
+    second: Cyber_Character_173
+  - first:
+      213: 3848523395731112770
+    second: Cyber_Character_174
+  - first:
+      213: -186329846115939649
+    second: Cyber_Character_175
+  - first:
+      213: -7684392616047643220
+    second: Cyber_Character_176
+  - first:
+      213: -3900794972786157658
+    second: Cyber_Character_177
+  - first:
+      213: 1077194797234780001
+    second: Cyber_Character_178
+  - first:
+      213: -8541429899038745167
+    second: Cyber_Character_179
+  - first:
+      213: -4936007106182985672
+    second: Cyber_Character_180
+  - first:
+      213: 4199966803981356756
+    second: Cyber_Character_181
+  - first:
+      213: 3938979413551033795
+    second: Cyber_Character_182
+  - first:
+      213: -6937146539132395776
+    second: Cyber_Character_183
+  - first:
+      213: 4575322304468924196
+    second: Cyber_Character_184
+  - first:
+      213: -3276882220105388210
+    second: Cyber_Character_185
+  - first:
+      213: -3705621148822243553
+    second: Cyber_Character_186
+  - first:
+      213: -6216093386561855105
+    second: Cyber_Character_187
+  - first:
+      213: -8057431118505441788
+    second: Cyber_Character_188
+  - first:
+      213: 2222329482672862765
+    second: Cyber_Character_189
+  - first:
+      213: 3809812387146730380
+    second: Cyber_Character_190
+  - first:
+      213: -9067043324195039330
+    second: Cyber_Character_191
+  - first:
+      213: -2539429459025237832
+    second: Cyber_Character_192
+  - first:
+      213: -8241208448087256448
+    second: Cyber_Character_193
+  - first:
+      213: -2325501696823391346
+    second: Cyber_Character_194
+  - first:
+      213: 2627672875940142612
+    second: Cyber_Character_195
+  - first:
+      213: -2910018790702375318
+    second: Cyber_Character_196
+  - first:
+      213: 5310194168324171340
+    second: Cyber_Character_197
+  - first:
+      213: 2124133088176528036
+    second: Cyber_Character_198
+  - first:
+      213: -7390534559529925771
+    second: Cyber_Character_199
+  - first:
+      213: 7459702196937912174
+    second: Cyber_Character_200
+  - first:
+      213: -803012756243428832
+    second: Cyber_Character_201
+  - first:
+      213: 139027226322288325
+    second: Cyber_Character_202
+  - first:
+      213: 7546120052522561340
+    second: Cyber_Character_203
+  - first:
+      213: 5589393125924942962
+    second: Cyber_Character_204
+  - first:
+      213: 4203970163839007993
+    second: Cyber_Character_205
+  - first:
+      213: -3919399552330454213
+    second: Cyber_Character_206
+  - first:
+      213: -903021577695425850
+    second: Cyber_Character_207
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyber_Character_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1050
+        width: 118
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10ef7bd43969f350800000000000000
+      internalID: 6050983250090778653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1066
+        width: 132
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20365c215dde7fac0800000000000000
+      internalID: -3821324259401833726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009cb3153dfa2e960800000000000000
+      internalID: 7629854040854874368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1028
+        width: 149
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b629e3488dba76f90800000000000000
+      internalID: -6960405752657833365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1102
+        width: 95
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7597ff382813f5700800000000000000
+      internalID: 531197717683075415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1130
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd64e93ca3c3c60800000000000000
+      internalID: 7799173266547334405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_6
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1106
+        width: 234
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0622308c961d04810800000000000000
+      internalID: 1747626907677172320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_7
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1122
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca92e5bde655b7c10800000000000000
+      internalID: 2052327989812537772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_8
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4612a260defd5d2a0800000000000000
+      internalID: -6713213460422188700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_9
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d803dd55322dca80800000000000000
+      internalID: -8445056113647089453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_10
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1171
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3171ab3b5f2e170f0800000000000000
+      internalID: -1120865287328360685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_11
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1143
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ca4a42cb1b86e40800000000000000
+      internalID: 5649961154163027044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1142
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570fb6d31bc3c52c0800000000000000
+      internalID: -4441608400556789643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1160
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad3092bc118b51c0800000000000000
+      internalID: -4513872241253925466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_14
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1140
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3975e0ea5a8639e60800000000000000
+      internalID: 7967827226547607443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_15
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1108
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef4da6dd7a8ace80800000000000000
+      internalID: -8157555501951004697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_16
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1146
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20dc8718cd6e0430800000000000000
+      internalID: 3751056245802192942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_17
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa18aa3961bcf36b0800000000000000
+      internalID: -5314305737446751830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_18
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1172
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2b52ee8853669a0800000000000000
+      internalID: -6240241371447971139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_19
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1146
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e58989176417ab0800000000000000
+      internalID: -5012147456581280210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_20
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1171
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0387d55a1dfc4e0800000000000000
+      internalID: -1959116804714909450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_21
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1173
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76ffe3e13c23c360800000000000000
+      internalID: 7188638023002617467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_22
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1148
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6820497eb85152210800000000000000
+      internalID: 1307474957450871430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1158
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89ab06a61c453e30800000000000000
+      internalID: 4482572664275970444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_24
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1141
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c655a5036647de6d0800000000000000
+      internalID: -2959581397865835156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_25
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1140
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40471df09eac77740800000000000000
+      internalID: 5149807801263027204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_26
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1173
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b900ebabae21004c0800000000000000
+      internalID: -4323434842911014757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 933
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bd13673548f1860800000000000000
+      internalID: 7502860998222666529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_28
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 919
+        width: 148
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1992255194fefb800800000000000000
+      internalID: 630485570024515985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_29
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 951
+        width: 144
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caf0dd6e03870700800000000000000
+      internalID: 506517581097663176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_30
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1059
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb272fd824708550800000000000000
+      internalID: 6161052009134238647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1064
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e36238532be2250800000000000000
+      internalID: 5921866502942113405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_32
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 901
+        width: 129
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f4e7a654e4ec730800000000000000
+      internalID: 4021237577334804299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 933
+        width: 91
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741160044904b41b0800000000000000
+      internalID: -5671368300269530809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 905
+        width: 136
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d732d0d56a30990800000000000000
+      internalID: -7420904842393846473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1044
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df5b32246da5e60800000000000000
+      internalID: 7951903671631346963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1044
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a53ce29927154eb0800000000000000
+      internalID: -4736353965784156760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_37
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 939
+        width: 158
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c52f17d1b5bd58c0800000000000000
+      internalID: -4008848317866891839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_38
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 953
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ca9c5b400be19c0800000000000000
+      internalID: -3954529888508466084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_39
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1031
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e8cb5a0bc6c8300800000000000000
+      internalID: 255698784803917381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 903
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5f734144a390030800000000000000
+      internalID: 3461361852682335660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_41
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 928
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c84a5f6e4cf7dc0800000000000000
+      internalID: -3638973477649347565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_42
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 913
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb43d475971351940800000000000000
+      internalID: 5266169736505144507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_43
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 843
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f48093541ebea0800000000000000
+      internalID: -5855220116395591635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 909
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eb7d29798b4e360800000000000000
+      internalID: 7198081065588080185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_45
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 901
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4427097f1bb3f3f0800000000000000
+      internalID: -868144559303482294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_46
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 919
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0fd8781a0f7c530800000000000000
+      internalID: 3875330580930228475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 693
+        width: 118
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fef08fe92c764990800000000000000
+      internalID: -7402092417983119626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 755
+        width: 89
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cc28157b16e8390800000000000000
+      internalID: -7814200863466795888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_49
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 776
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d181bed8acabc6f60800000000000000
+      internalID: 8028997614821906461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_50
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 897
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e119d50745fe0b0800000000000000
+      internalID: -5697242162017526271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_51
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 791
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286161f1ed3151880800000000000000
+      internalID: -8640978465315219838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_52
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 726
+        width: 136
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a8584e92abd3320800000000000000
+      internalID: 2539390453997210113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_53
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 883
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9059e50ff16fd3360800000000000000
+      internalID: 7151142400371365129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_54
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 734
+        width: 113
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac95e2c181f1c840800000000000000
+      internalID: 5242736980858870949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_55
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 899
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7773e84a7bff75770800000000000000
+      internalID: 8599623177692133239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_56
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 718
+        width: 92
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a25496a320eaf590800000000000000
+      internalID: -7639547374157409630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_57
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 729
+        width: 97
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e01f75ac41ceb50800000000000000
+      internalID: 6623692011246521920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_58
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 857
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfd02e96b6819990800000000000000
+      internalID: -7380970195388407887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 861
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a6ebcabd1da2810800000000000000
+      internalID: 1741434947358321188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_60
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 835
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df21d59864b6de00800000000000000
+      internalID: 1069240322830184406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 797
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ead9f5c328af730800000000000000
+      internalID: 4033679612077518460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_62
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 795
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d51b40cf79be450800000000000000
+      internalID: 6119151627379236167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_63
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 803
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2fef830e979bfc0800000000000000
+      internalID: -3478615233231129863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_64
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 771
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d422e009536c19790800000000000000
+      internalID: -7525015569006976435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_65
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 797
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dcdcce1cf4c9b70800000000000000
+      internalID: 8907081857352191247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_66
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 755
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abcd40b631545c60800000000000000
+      internalID: 7805953349467884454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_67
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 684
+        width: 49
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ee84248253ce2b0800000000000000
+      internalID: -5554005793427624428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_68
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 779
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec35ea49f202e090800000000000000
+      internalID: -8006833917784670996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 586
+        width: 154
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8168248ad34931970800000000000000
+      internalID: 8724479895683630616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_70
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 773
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd02f543c47d42490800000000000000
+      internalID: -7771850334638497572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_71
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 771
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06860c280558863e0800000000000000
+      internalID: -2060250248684476320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_72
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 780
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9343065cea265090800000000000000
+      internalID: -8046196489707109473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_73
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 754
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abc35243b664d250800000000000000
+      internalID: 5968508326270716837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_74
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 761
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a9649e828acc960800000000000000
+      internalID: 7623653162897283649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_75
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 650
+        width: 138
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df21f4cef6350850800000000000000
+      internalID: 6342536118074945495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_76
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 757
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235873cc5a151c480800000000000000
+      internalID: -8880727217660263118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_77
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 755
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481b8efdda5358640800000000000000
+      internalID: 5081526775459656068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_78
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 741
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bfdefcabf9bbec0800000000000000
+      internalID: -3550068256550290668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_79
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 738
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3969baad528442370800000000000000
+      internalID: 8296835740942964371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_80
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 730
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c5568475c2e2750800000000000000
+      internalID: 6282007283616799833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_81
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 738
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42e2661d9d19c520800000000000000
+      internalID: 2722740010244825679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_82
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 753
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b15b54d0329a070800000000000000
+      internalID: 8118058343223073687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_83
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 726
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18d2238128c5aae0800000000000000
+      internalID: -1538603651417581538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_84
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 722
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120131360ff842640800000000000000
+      internalID: 5054322944433655841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_85
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 739
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb014bdf502021290800000000000000
+      internalID: -7921266569836752705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_86
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 718
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6371838c5999bd80800000000000000
+      internalID: -8234381821047901331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 724
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac88649fa4bc7f50800000000000000
+      internalID: 6880572996917431460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_88
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 708
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46ba48504f7f18b0800000000000000
+      internalID: -5179281132116855221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_89
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 612
+        width: 166
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f9f837e6635c80800000000000000
+      internalID: -8335205342053272772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_90
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 698
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a0088cea317c4f0800000000000000
+      internalID: -808655966680643053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_91
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 568
+        width: 119
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9809aa4852d06c0800000000000000
+      internalID: -4175640027775071819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_92
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 708
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2a709aa0baa40d0800000000000000
+      internalID: -3437747303270079780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_93
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 566
+        width: 126
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4747214d995f0240800000000000000
+      internalID: 4760121863091734350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 713
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c43a91be1c968d0800000000000000
+      internalID: -2852535673470890924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_95
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 554
+        width: 190
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e19c45e5d17d6140800000000000000
+      internalID: 4714549548415750625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 562
+        width: 146
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd67293e990ab90800000000000000
+      internalID: -7232611798863127740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_97
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 692
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1613d2661b66759c0800000000000000
+      internalID: -3938566437002727071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_98
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 586
+        width: 153
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef7deaebc2bdd590800000000000000
+      internalID: -7647760003315695641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_99
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 622
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb96aa9af6e6bf120800000000000000
+      internalID: 2448672248272939454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_100
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 610
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34723caa51bd47b30800000000000000
+      internalID: 4284290031641896771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_101
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 598
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec406312ca86842b0800000000000000
+      internalID: -5600111048134359858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_102
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 597
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b7d4ca5bcb4d2f0800000000000000
+      internalID: -948926133002470598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_103
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 582
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da5599dfe580cf70800000000000000
+      internalID: 9205504903539415768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_104
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 614
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1ee1a1f448ac420800000000000000
+      internalID: 2651076805936472518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_105
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 375
+        width: 294
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0d14ba2e7270710800000000000000
+      internalID: 1659338842198626511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_106
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 578
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8918fbf3918f0730800000000000000
+      internalID: 3967532269324212619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_107
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 444
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48351b1b72397aaf0800000000000000
+      internalID: -385177444422691964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_108
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 584
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3077e4e37fd02b140800000000000000
+      internalID: 4733861513873225475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_109
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 578
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199f3786d74a6e630800000000000000
+      internalID: 3956030181221857681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_110
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 477
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51b787995d4e8190800000000000000
+      internalID: -7958338444327407269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_111
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 558
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84de7c6aef6716d50800000000000000
+      internalID: 6728790154360122696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_112
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 376
+        width: 180
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f318ce5ddd83d0660800000000000000
+      internalID: 7353596291993862463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_113
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 564
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f26cde7d4e779e0800000000000000
+      internalID: -1623577524585484426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_114
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 389
+        width: 169
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabbb7b4251dca8b0800000000000000
+      internalID: -5139502923352654932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 413
+        width: 156
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01bbcf4d57b39fb0800000000000000
+      internalID: -4642165179490258675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_116
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 513
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd885b96e3a12c50800000000000000
+      internalID: 6638767536564899276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_117
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 389
+        width: 125
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8549403923c007a10800000000000000
+      internalID: 1905036053732168792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_118
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 447
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401617f4d10b9f9e0800000000000000
+      internalID: -1587043753738018556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_119
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 465
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64394566b1676ea00800000000000000
+      internalID: 785445045075743558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_120
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 417
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d67eb90a7c5d0c0800000000000000
+      internalID: -4551512355763688128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_121
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 419
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e38826faffb1390800000000000000
+      internalID: -7846396797025501603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_122
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 427
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40271badfaa63360800000000000000
+      internalID: 7149089464971108430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_123
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 441
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571d7751393cdbc20800000000000000
+      internalID: 3223947944754925941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_124
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 433
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801afc3a2fd1145d0800000000000000
+      internalID: -3080147742177124088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_125
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe98502ac46e47d80800000000000000
+      internalID: -8253719000253101585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 431
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5545d166cb30cae80800000000000000
+      internalID: -8166147916627618731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_127
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 431
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a61e716e5ac8ce20800000000000000
+      internalID: 3371166827798206119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_128
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 435
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06132d7f2b6385c0800000000000000
+      internalID: -4214406974581565942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_129
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 419
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7b332fc99f51690800000000000000
+      internalID: -7631919541035747332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_130
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 441
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096cc5675e6470c90800000000000000
+      internalID: -7203711127608572272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 316
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7f6fa4d2d306bf0800000000000000
+      internalID: -333199107684894778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_132
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 419
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea29029b2dca43a30800000000000000
+      internalID: 4194167174037803694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_133
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 407
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f822c5d2b1126e0800000000000000
+      internalID: -1864178889121427554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_134
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 395
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197b6635211f98f50800000000000000
+      internalID: 6884298566423459729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_135
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 298
+        width: 138
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e38a3e1eec7f2d0800000000000000
+      internalID: -3244897536914735570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_136
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 417
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fca25506d64fdba0800000000000000
+      internalID: -6062048688391148302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_137
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 383
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3219d0ff454905c40800000000000000
+      internalID: 5499058237796618531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_138
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 298
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aac8bc3087962f0800000000000000
+      internalID: -979119486281143745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_139
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 290
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b761665df68e780800000000000000
+      internalID: -8653543721660941553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_140
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 280
+        width: 148
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9ec50b714a341a0800000000000000
+      internalID: -6826432188513457746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_141
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 377
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e442ebbab1c0586c0800000000000000
+      internalID: -4141890969312287666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_142
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 387
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189ebcf819a8d1a80800000000000000
+      internalID: -8494480964363490943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_143
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 387
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e57843ca12f15a90800000000000000
+      internalID: -7326808921995708956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_144
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 288
+        width: 137
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19029312e6af6dcd0800000000000000
+      internalID: -2533562389438586735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_145
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 365
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccbf397d639181c0800000000000000
+      internalID: -4503156053998846775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_146
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 278
+        width: 133
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67a6b70c644235c0800000000000000
+      internalID: -4237249068625647765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_147
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 240
+        width: 144
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bccf68650f106ae0800000000000000
+      internalID: -1558211362982736712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_148
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 337
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154908fca4a4bc1e0800000000000000
+      internalID: -2176564309734157231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_149
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 328
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dd51c1a144e2330800000000000000
+      internalID: 3687960023794048315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_150
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 148
+        width: 305
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac42491b75c3f3190800000000000000
+      internalID: -7980593667338132278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_151
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 290
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b47bcaaa54402050800000000000000
+      internalID: 5773689878492181687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 148
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7126a36fbabb85250800000000000000
+      internalID: 5933698856305451543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_153
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 126
+        width: 170
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c923d6fd0386bb0800000000000000
+      internalID: -4942646854871245676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_154
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 144
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8b9c47568ba5040800000000000000
+      internalID: 4637221512221931689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_155
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 263
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e5c78ddc02149c0800000000000000
+      internalID: -3944835730127430109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_156
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 229
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cf55aca155bff50800000000000000
+      internalID: 6916215226309672016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_157
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 148
+        width: 134
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c3e01a9bfdc8780800000000000000
+      internalID: -8679316393485779956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_158
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 216
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52682ec87a123340800000000000000
+      internalID: 4841961655533855326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_159
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 214
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01879ed2f63e9d260800000000000000
+      internalID: 7122974352314300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_160
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 160
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f494662aa794cc0800000000000000
+      internalID: -3726312378753003768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_161
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 113
+        width: 114
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa9d5feb1d903800800000000000000
+      internalID: 590144294491101863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_162
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 202
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbcbb309f3137c40800000000000000
+      internalID: 5508768729434672121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_163
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 200
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6ce10a3e41f0650800000000000000
+      internalID: 6201198179788965597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a4753caa8c45af0800000000000000
+      internalID: -408481030436599173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_165
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 144
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df2a14eca1b963c0800000000000000
+      internalID: -4365763007639572528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_166
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 13
+        width: 107
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc9368193d4bc4d0800000000000000
+      internalID: -3113309809778909966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_167
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 144
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e6bd99a9528cb60800000000000000
+      internalID: 7766498903336906368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_168
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 135
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05bd91701b63ded0800000000000000
+      internalID: -2390449258833791729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_169
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 15
+        width: 106
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cdcee9b4dbea9c0800000000000000
+      internalID: -3913982893651862457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_170
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 152
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94064c274305ada60800000000000000
+      internalID: 7699554699137278025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_171
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 172
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ba01a7a960ae550800000000000000
+      internalID: 6190767898316811124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_172
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 124
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a582bc8fa4355350800000000000000
+      internalID: 6004763606752855456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_173
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 85
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a02ec34dd2502e0800000000000000
+      internalID: -2160270056676521394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_174
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243455853a3b86530800000000000000
+      internalID: 3848523395731112770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_175
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 55
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbac43ffdf50a6df0800000000000000
+      internalID: -186329846115939649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_176
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 39
+        width: 35
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca578dd11ad8b5590800000000000000
+      internalID: -7684392616047643220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_177
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 23
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a79379b3a79dd9c0800000000000000
+      internalID: -3900794972786157658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_178
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 32
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167f31bf5f6f2fe00800000000000000
+      internalID: 1077194797234780001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_179
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 39
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd15e1e2ceb67980800000000000000
+      internalID: -8541429899038745167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_180
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 53
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838c82360b7cf7bb0800000000000000
+      internalID: -4936007106182985672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_181
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4decdbb4e87494a30800000000000000
+      internalID: 4199966803981356756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_182
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 107
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd294238e01aa630800000000000000
+      internalID: 3938979413551033795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_183
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fde2c2afd4abf90800000000000000
+      internalID: -6937146539132395776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_184
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 79
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427bac2156fce7f30800000000000000
+      internalID: 4575322304468924196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_185
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 91
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f23d38bfc2682d0800000000000000
+      internalID: -3276882220105388210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_186
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 128
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f177648c23df29cc0800000000000000
+      internalID: -3705621148822243553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_187
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 128
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71635bcffffbb9a0800000000000000
+      internalID: -6216093386561855105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_188
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 83
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4060e4b76114e2090800000000000000
+      internalID: -8057431118505441788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_189
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 110
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26f79cd3ec47de10800000000000000
+      internalID: 2222329482672862765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_190
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 37
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b83cc4e2c2fd430800000000000000
+      internalID: 3809812387146730380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_191
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 103
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97174ac2246b2280800000000000000
+      internalID: -9067043324195039330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_192
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 128
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b863aa8c5222ccd0800000000000000
+      internalID: -2539429459025237832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_193
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 128
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0829fcb849851ad80800000000000000
+      internalID: -8241208448087256448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_194
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 115
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b064c17882abfd0800000000000000
+      internalID: -2325501696823391346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_195
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 25
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e57540f8e577420800000000000000
+      internalID: 2627672875940142612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_196
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 78
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e197ae3598d97d0800000000000000
+      internalID: -2910018790702375318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_197
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 0
+        width: 88
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c462053267991b940800000000000000
+      internalID: 5310194168324171340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_198
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 69
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa5a602acf6a7d10800000000000000
+      internalID: 2124133088176528036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_199
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 107
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57388fe89fb8f6990800000000000000
+      internalID: -7390534559529925771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_200
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 64
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f6faaff9f268760800000000000000
+      internalID: 7459702196937912174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_201
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ac00a17202bd4f0800000000000000
+      internalID: -803012756243428832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_202
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce3c07968cede100800000000000000
+      internalID: 139027226322288325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_203
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 65
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f2f0be43439b860800000000000000
+      internalID: 7546120052522561340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_204
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 91
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27434c42f63819d40800000000000000
+      internalID: 5589393125924942962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_205
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 124
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcf6f52790875a30800000000000000
+      internalID: 4203970163839007993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_206
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 119
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ba48e7fde7b99c0800000000000000
+      internalID: -3919399552330454213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Character_207
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca83f4d8a2d773f0800000000000000
+      internalID: -903021577695425850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cyber_Character_0: 6050983250090778653
+      Cyber_Character_1: -3821324259401833726
+      Cyber_Character_10: -1120865287328360685
+      Cyber_Character_100: 4284290031641896771
+      Cyber_Character_101: -5600111048134359858
+      Cyber_Character_102: -948926133002470598
+      Cyber_Character_103: 9205504903539415768
+      Cyber_Character_104: 2651076805936472518
+      Cyber_Character_105: 1659338842198626511
+      Cyber_Character_106: 3967532269324212619
+      Cyber_Character_107: -385177444422691964
+      Cyber_Character_108: 4733861513873225475
+      Cyber_Character_109: 3956030181221857681
+      Cyber_Character_11: 5649961154163027044
+      Cyber_Character_110: -7958338444327407269
+      Cyber_Character_111: 6728790154360122696
+      Cyber_Character_112: 7353596291993862463
+      Cyber_Character_113: -1623577524585484426
+      Cyber_Character_114: -5139502923352654932
+      Cyber_Character_115: -4642165179490258675
+      Cyber_Character_116: 6638767536564899276
+      Cyber_Character_117: 1905036053732168792
+      Cyber_Character_118: -1587043753738018556
+      Cyber_Character_119: 785445045075743558
+      Cyber_Character_12: -4441608400556789643
+      Cyber_Character_120: -4551512355763688128
+      Cyber_Character_121: -7846396797025501603
+      Cyber_Character_122: 7149089464971108430
+      Cyber_Character_123: 3223947944754925941
+      Cyber_Character_124: -3080147742177124088
+      Cyber_Character_125: -8253719000253101585
+      Cyber_Character_126: -8166147916627618731
+      Cyber_Character_127: 3371166827798206119
+      Cyber_Character_128: -4214406974581565942
+      Cyber_Character_129: -7631919541035747332
+      Cyber_Character_13: -4513872241253925466
+      Cyber_Character_130: -7203711127608572272
+      Cyber_Character_131: -333199107684894778
+      Cyber_Character_132: 4194167174037803694
+      Cyber_Character_133: -1864178889121427554
+      Cyber_Character_134: 6884298566423459729
+      Cyber_Character_135: -3244897536914735570
+      Cyber_Character_136: -6062048688391148302
+      Cyber_Character_137: 5499058237796618531
+      Cyber_Character_138: -979119486281143745
+      Cyber_Character_139: -8653543721660941553
+      Cyber_Character_14: 7967827226547607443
+      Cyber_Character_140: -6826432188513457746
+      Cyber_Character_141: -4141890969312287666
+      Cyber_Character_142: -8494480964363490943
+      Cyber_Character_143: -7326808921995708956
+      Cyber_Character_144: -2533562389438586735
+      Cyber_Character_145: -4503156053998846775
+      Cyber_Character_146: -4237249068625647765
+      Cyber_Character_147: -1558211362982736712
+      Cyber_Character_148: -2176564309734157231
+      Cyber_Character_149: 3687960023794048315
+      Cyber_Character_15: -8157555501951004697
+      Cyber_Character_150: -7980593667338132278
+      Cyber_Character_151: 5773689878492181687
+      Cyber_Character_152: 5933698856305451543
+      Cyber_Character_153: -4942646854871245676
+      Cyber_Character_154: 4637221512221931689
+      Cyber_Character_155: -3944835730127430109
+      Cyber_Character_156: 6916215226309672016
+      Cyber_Character_157: -8679316393485779956
+      Cyber_Character_158: 4841961655533855326
+      Cyber_Character_159: 7122974352314300432
+      Cyber_Character_16: 3751056245802192942
+      Cyber_Character_160: -3726312378753003768
+      Cyber_Character_161: 590144294491101863
+      Cyber_Character_162: 5508768729434672121
+      Cyber_Character_163: 6201198179788965597
+      Cyber_Character_164: -408481030436599173
+      Cyber_Character_165: -4365763007639572528
+      Cyber_Character_166: -3113309809778909966
+      Cyber_Character_167: 7766498903336906368
+      Cyber_Character_168: -2390449258833791729
+      Cyber_Character_169: -3913982893651862457
+      Cyber_Character_17: -5314305737446751830
+      Cyber_Character_170: 7699554699137278025
+      Cyber_Character_171: 6190767898316811124
+      Cyber_Character_172: 6004763606752855456
+      Cyber_Character_173: -2160270056676521394
+      Cyber_Character_174: 3848523395731112770
+      Cyber_Character_175: -186329846115939649
+      Cyber_Character_176: -7684392616047643220
+      Cyber_Character_177: -3900794972786157658
+      Cyber_Character_178: 1077194797234780001
+      Cyber_Character_179: -8541429899038745167
+      Cyber_Character_18: -6240241371447971139
+      Cyber_Character_180: -4936007106182985672
+      Cyber_Character_181: 4199966803981356756
+      Cyber_Character_182: 3938979413551033795
+      Cyber_Character_183: -6937146539132395776
+      Cyber_Character_184: 4575322304468924196
+      Cyber_Character_185: -3276882220105388210
+      Cyber_Character_186: -3705621148822243553
+      Cyber_Character_187: -6216093386561855105
+      Cyber_Character_188: -8057431118505441788
+      Cyber_Character_189: 2222329482672862765
+      Cyber_Character_19: -5012147456581280210
+      Cyber_Character_190: 3809812387146730380
+      Cyber_Character_191: -9067043324195039330
+      Cyber_Character_192: -2539429459025237832
+      Cyber_Character_193: -8241208448087256448
+      Cyber_Character_194: -2325501696823391346
+      Cyber_Character_195: 2627672875940142612
+      Cyber_Character_196: -2910018790702375318
+      Cyber_Character_197: 5310194168324171340
+      Cyber_Character_198: 2124133088176528036
+      Cyber_Character_199: -7390534559529925771
+      Cyber_Character_2: 7629854040854874368
+      Cyber_Character_20: -1959116804714909450
+      Cyber_Character_200: 7459702196937912174
+      Cyber_Character_201: -803012756243428832
+      Cyber_Character_202: 139027226322288325
+      Cyber_Character_203: 7546120052522561340
+      Cyber_Character_204: 5589393125924942962
+      Cyber_Character_205: 4203970163839007993
+      Cyber_Character_206: -3919399552330454213
+      Cyber_Character_207: -903021577695425850
+      Cyber_Character_21: 7188638023002617467
+      Cyber_Character_22: 1307474957450871430
+      Cyber_Character_23: 4482572664275970444
+      Cyber_Character_24: -2959581397865835156
+      Cyber_Character_25: 5149807801263027204
+      Cyber_Character_26: -4323434842911014757
+      Cyber_Character_27: 7502860998222666529
+      Cyber_Character_28: 630485570024515985
+      Cyber_Character_29: 506517581097663176
+      Cyber_Character_3: -6960405752657833365
+      Cyber_Character_30: 6161052009134238647
+      Cyber_Character_31: 5921866502942113405
+      Cyber_Character_32: 4021237577334804299
+      Cyber_Character_33: -5671368300269530809
+      Cyber_Character_34: -7420904842393846473
+      Cyber_Character_35: 7951903671631346963
+      Cyber_Character_36: -4736353965784156760
+      Cyber_Character_37: -4008848317866891839
+      Cyber_Character_38: -3954529888508466084
+      Cyber_Character_39: 255698784803917381
+      Cyber_Character_4: 531197717683075415
+      Cyber_Character_40: 3461361852682335660
+      Cyber_Character_41: -3638973477649347565
+      Cyber_Character_42: 5266169736505144507
+      Cyber_Character_43: -5855220116395591635
+      Cyber_Character_44: 7198081065588080185
+      Cyber_Character_45: -868144559303482294
+      Cyber_Character_46: 3875330580930228475
+      Cyber_Character_47: -7402092417983119626
+      Cyber_Character_48: -7814200863466795888
+      Cyber_Character_49: 8028997614821906461
+      Cyber_Character_5: 7799173266547334405
+      Cyber_Character_50: -5697242162017526271
+      Cyber_Character_51: -8640978465315219838
+      Cyber_Character_52: 2539390453997210113
+      Cyber_Character_53: 7151142400371365129
+      Cyber_Character_54: 5242736980858870949
+      Cyber_Character_55: 8599623177692133239
+      Cyber_Character_56: -7639547374157409630
+      Cyber_Character_57: 6623692011246521920
+      Cyber_Character_58: -7380970195388407887
+      Cyber_Character_59: 1741434947358321188
+      Cyber_Character_6: 1747626907677172320
+      Cyber_Character_60: 1069240322830184406
+      Cyber_Character_61: 4033679612077518460
+      Cyber_Character_62: 6119151627379236167
+      Cyber_Character_63: -3478615233231129863
+      Cyber_Character_64: -7525015569006976435
+      Cyber_Character_65: 8907081857352191247
+      Cyber_Character_66: 7805953349467884454
+      Cyber_Character_67: -5554005793427624428
+      Cyber_Character_68: -8006833917784670996
+      Cyber_Character_69: 8724479895683630616
+      Cyber_Character_7: 2052327989812537772
+      Cyber_Character_70: -7771850334638497572
+      Cyber_Character_71: -2060250248684476320
+      Cyber_Character_72: -8046196489707109473
+      Cyber_Character_73: 5968508326270716837
+      Cyber_Character_74: 7623653162897283649
+      Cyber_Character_75: 6342536118074945495
+      Cyber_Character_76: -8880727217660263118
+      Cyber_Character_77: 5081526775459656068
+      Cyber_Character_78: -3550068256550290668
+      Cyber_Character_79: 8296835740942964371
+      Cyber_Character_8: -6713213460422188700
+      Cyber_Character_80: 6282007283616799833
+      Cyber_Character_81: 2722740010244825679
+      Cyber_Character_82: 8118058343223073687
+      Cyber_Character_83: -1538603651417581538
+      Cyber_Character_84: 5054322944433655841
+      Cyber_Character_85: -7921266569836752705
+      Cyber_Character_86: -8234381821047901331
+      Cyber_Character_87: 6880572996917431460
+      Cyber_Character_88: -5179281132116855221
+      Cyber_Character_89: -8335205342053272772
+      Cyber_Character_9: -8445056113647089453
+      Cyber_Character_90: -808655966680643053
+      Cyber_Character_91: -4175640027775071819
+      Cyber_Character_92: -3437747303270079780
+      Cyber_Character_93: 4760121863091734350
+      Cyber_Character_94: -2852535673470890924
+      Cyber_Character_95: 4714549548415750625
+      Cyber_Character_96: -7232611798863127740
+      Cyber_Character_97: -3938566437002727071
+      Cyber_Character_98: -7647760003315695641
+      Cyber_Character_99: 2448672248272939454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

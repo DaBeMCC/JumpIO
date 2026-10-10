@@ -1,0 +1,4058 @@
+fileFormatVersion: 2
+guid: 998f2184ab3d45b49b309fbb01db1e54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1157613506262731771
+    second: Cyber_Orbs_0
+  - first:
+      213: 1764352916112168240
+    second: Cyber_Orbs_1
+  - first:
+      213: 253165573779438145
+    second: Cyber_Orbs_2
+  - first:
+      213: -775361685877895793
+    second: Cyber_Orbs_3
+  - first:
+      213: 4593531526283679
+    second: Cyber_Orbs_4
+  - first:
+      213: 5121286387189873271
+    second: Cyber_Orbs_5
+  - first:
+      213: 8047250513636630706
+    second: Cyber_Orbs_6
+  - first:
+      213: -5772324574824704233
+    second: Cyber_Orbs_7
+  - first:
+      213: -2017432756985212750
+    second: Cyber_Orbs_8
+  - first:
+      213: -440882305396177115
+    second: Cyber_Orbs_9
+  - first:
+      213: 7462701029754920936
+    second: Cyber_Orbs_10
+  - first:
+      213: -5291791439408439964
+    second: Cyber_Orbs_11
+  - first:
+      213: 8320351739070338130
+    second: Cyber_Orbs_12
+  - first:
+      213: 7964034400864249569
+    second: Cyber_Orbs_13
+  - first:
+      213: -8174582896605788825
+    second: Cyber_Orbs_14
+  - first:
+      213: 4616055359383715281
+    second: Cyber_Orbs_15
+  - first:
+      213: 2242719111404967079
+    second: Cyber_Orbs_16
+  - first:
+      213: -5221032425074926891
+    second: Cyber_Orbs_17
+  - first:
+      213: -1073631536315344894
+    second: Cyber_Orbs_18
+  - first:
+      213: 2195923521239590234
+    second: Cyber_Orbs_19
+  - first:
+      213: 591691908991127782
+    second: Cyber_Orbs_20
+  - first:
+      213: -3003391190009141074
+    second: Cyber_Orbs_21
+  - first:
+      213: 4841437362068272587
+    second: Cyber_Orbs_22
+  - first:
+      213: -8890284806093044346
+    second: Cyber_Orbs_23
+  - first:
+      213: 6913584035457691822
+    second: Cyber_Orbs_24
+  - first:
+      213: -8625052760521098950
+    second: Cyber_Orbs_25
+  - first:
+      213: 5525949290566230590
+    second: Cyber_Orbs_26
+  - first:
+      213: -810104125493653960
+    second: Cyber_Orbs_27
+  - first:
+      213: -8308591288697539477
+    second: Cyber_Orbs_28
+  - first:
+      213: -7774466291179393810
+    second: Cyber_Orbs_29
+  - first:
+      213: -7950660384896556824
+    second: Cyber_Orbs_30
+  - first:
+      213: -1221430482016596242
+    second: Cyber_Orbs_31
+  - first:
+      213: 6249309749520823121
+    second: Cyber_Orbs_32
+  - first:
+      213: 2933217896390887614
+    second: Cyber_Orbs_33
+  - first:
+      213: -82975773430091465
+    second: Cyber_Orbs_34
+  - first:
+      213: -8703097354964391544
+    second: Cyber_Orbs_35
+  - first:
+      213: -1405385929607590511
+    second: Cyber_Orbs_36
+  - first:
+      213: 7891284587624326715
+    second: Cyber_Orbs_37
+  - first:
+      213: -5320717974579466021
+    second: Cyber_Orbs_38
+  - first:
+      213: -5157934830231751508
+    second: Cyber_Orbs_39
+  - first:
+      213: -8736632620024116408
+    second: Cyber_Orbs_40
+  - first:
+      213: 3717783317179488584
+    second: Cyber_Orbs_41
+  - first:
+      213: 6017526334019252985
+    second: Cyber_Orbs_42
+  - first:
+      213: -7149371480710862360
+    second: Cyber_Orbs_43
+  - first:
+      213: 7806299265437567164
+    second: Cyber_Orbs_44
+  - first:
+      213: 6474424605288844848
+    second: Cyber_Orbs_45
+  - first:
+      213: -4198893178840964672
+    second: Cyber_Orbs_46
+  - first:
+      213: -6163487141406280604
+    second: Cyber_Orbs_47
+  - first:
+      213: -6826670867249162823
+    second: Cyber_Orbs_48
+  - first:
+      213: -7505349910303399653
+    second: Cyber_Orbs_49
+  - first:
+      213: -3966052336058474395
+    second: Cyber_Orbs_50
+  - first:
+      213: 5222032859763661594
+    second: Cyber_Orbs_51
+  - first:
+      213: 369183924904399289
+    second: Cyber_Orbs_52
+  - first:
+      213: 6922487541299686007
+    second: Cyber_Orbs_53
+  - first:
+      213: 115642552051704363
+    second: Cyber_Orbs_54
+  - first:
+      213: -8640933418261374114
+    second: Cyber_Orbs_55
+  - first:
+      213: -7627115657707858137
+    second: Cyber_Orbs_56
+  - first:
+      213: 1685965698082216387
+    second: Cyber_Orbs_57
+  - first:
+      213: 2530035150559295471
+    second: Cyber_Orbs_58
+  - first:
+      213: 6752738724178089246
+    second: Cyber_Orbs_59
+  - first:
+      213: 2273498294784810191
+    second: Cyber_Orbs_60
+  - first:
+      213: 4731997333201629337
+    second: Cyber_Orbs_61
+  - first:
+      213: -1273277752841941041
+    second: Cyber_Orbs_62
+  - first:
+      213: -2909512486270618937
+    second: Cyber_Orbs_63
+  - first:
+      213: -7490874682292392701
+    second: Cyber_Orbs_64
+  - first:
+      213: 8320987306789583276
+    second: Cyber_Orbs_65
+  - first:
+      213: 4086763013336449488
+    second: Cyber_Orbs_66
+  - first:
+      213: 807603662639412848
+    second: Cyber_Orbs_67
+  - first:
+      213: 1001258096039165827
+    second: Cyber_Orbs_68
+  - first:
+      213: -6460828361349720375
+    second: Cyber_Orbs_69
+  - first:
+      213: -8828069684624703046
+    second: Cyber_Orbs_70
+  - first:
+      213: -2079950056651321769
+    second: Cyber_Orbs_71
+  - first:
+      213: 4698989240596853387
+    second: Cyber_Orbs_72
+  - first:
+      213: -2274343431046904986
+    second: Cyber_Orbs_73
+  - first:
+      213: 517551341809272991
+    second: Cyber_Orbs_74
+  - first:
+      213: -8723835690203505316
+    second: Cyber_Orbs_75
+  - first:
+      213: 3931513645789719292
+    second: Cyber_Orbs_76
+  - first:
+      213: -3063381813664606313
+    second: Cyber_Orbs_77
+  - first:
+      213: 4633125944284256796
+    second: Cyber_Orbs_78
+  - first:
+      213: -3893063074548532096
+    second: Cyber_Orbs_79
+  - first:
+      213: 6184865341420796252
+    second: Cyber_Orbs_80
+  - first:
+      213: 6961127002661643124
+    second: Cyber_Orbs_81
+  - first:
+      213: 6337917730539143410
+    second: Cyber_Orbs_82
+  - first:
+      213: -8208882719301727217
+    second: Cyber_Orbs_83
+  - first:
+      213: 6547842101199241169
+    second: Cyber_Orbs_84
+  - first:
+      213: 4801803601766291460
+    second: Cyber_Orbs_85
+  - first:
+      213: -3145549450148225644
+    second: Cyber_Orbs_86
+  - first:
+      213: -4162606794446106802
+    second: Cyber_Orbs_87
+  - first:
+      213: 4691687214027048016
+    second: Cyber_Orbs_88
+  - first:
+      213: 6479530277077022691
+    second: Cyber_Orbs_89
+  - first:
+      213: -4993121704758821022
+    second: Cyber_Orbs_90
+  - first:
+      213: 2219986229071375888
+    second: Cyber_Orbs_91
+  - first:
+      213: 2920611259469402612
+    second: Cyber_Orbs_92
+  - first:
+      213: 5432517532615680801
+    second: Cyber_Orbs_93
+  - first:
+      213: 6590721203147712676
+    second: Cyber_Orbs_94
+  - first:
+      213: 3353259918827851610
+    second: Cyber_Orbs_95
+  - first:
+      213: -6204202686821978740
+    second: Cyber_Orbs_96
+  - first:
+      213: -3978649220938875998
+    second: Cyber_Orbs_97
+  - first:
+      213: -7184842209202447556
+    second: Cyber_Orbs_98
+  - first:
+      213: -1052929455951485256
+    second: Cyber_Orbs_99
+  - first:
+      213: 187001469508056425
+    second: Cyber_Orbs_100
+  - first:
+      213: -3435409219626034700
+    second: Cyber_Orbs_101
+  - first:
+      213: -6732073357238514636
+    second: Cyber_Orbs_102
+  - first:
+      213: -7331917292515527675
+    second: Cyber_Orbs_103
+  - first:
+      213: 1252672293443367053
+    second: Cyber_Orbs_104
+  - first:
+      213: 8270919740644284766
+    second: Cyber_Orbs_105
+  - first:
+      213: -3524940460127862667
+    second: Cyber_Orbs_106
+  - first:
+      213: -7279247518670828821
+    second: Cyber_Orbs_107
+  - first:
+      213: -1048048146966212016
+    second: Cyber_Orbs_108
+  - first:
+      213: -7463364782251301984
+    second: Cyber_Orbs_109
+  - first:
+      213: -6336031785443176665
+    second: Cyber_Orbs_110
+  - first:
+      213: -1171198175737827425
+    second: Cyber_Orbs_111
+  - first:
+      213: -7748411260116493375
+    second: Cyber_Orbs_112
+  - first:
+      213: 5882914429269221000
+    second: Cyber_Orbs_113
+  - first:
+      213: 6165829699130996867
+    second: Cyber_Orbs_114
+  - first:
+      213: -5898295960935939773
+    second: Cyber_Orbs_115
+  - first:
+      213: 1484060482778017920
+    second: Cyber_Orbs_116
+  - first:
+      213: 3596098413317661339
+    second: Cyber_Orbs_117
+  - first:
+      213: 948813529150361714
+    second: Cyber_Orbs_118
+  - first:
+      213: 1777941124043126231
+    second: Cyber_Orbs_119
+  - first:
+      213: -7511073227688326080
+    second: Cyber_Orbs_120
+  - first:
+      213: 6922422891508317016
+    second: Cyber_Orbs_121
+  - first:
+      213: 3268470245017477173
+    second: Cyber_Orbs_122
+  - first:
+      213: 9052203819861954722
+    second: Cyber_Orbs_123
+  - first:
+      213: -1790183593828448466
+    second: Cyber_Orbs_124
+  - first:
+      213: -7192017888371964845
+    second: Cyber_Orbs_125
+  - first:
+      213: 8676807314365418648
+    second: Cyber_Orbs_126
+  - first:
+      213: -3454952463863934659
+    second: Cyber_Orbs_127
+  - first:
+      213: -1539800827448255082
+    second: Cyber_Orbs_128
+  - first:
+      213: -3734004652607555804
+    second: Cyber_Orbs_129
+  - first:
+      213: 5332255132687307962
+    second: Cyber_Orbs_130
+  - first:
+      213: -4177792650925029410
+    second: Cyber_Orbs_131
+  - first:
+      213: -3495013148745190433
+    second: Cyber_Orbs_132
+  - first:
+      213: -2655270438247845989
+    second: Cyber_Orbs_133
+  - first:
+      213: -1503703612510105485
+    second: Cyber_Orbs_134
+  - first:
+      213: -8069460854902449862
+    second: Cyber_Orbs_135
+  - first:
+      213: -6026748054573941493
+    second: Cyber_Orbs_136
+  - first:
+      213: -1088426868239445769
+    second: Cyber_Orbs_137
+  - first:
+      213: 2559684643893833523
+    second: Cyber_Orbs_138
+  - first:
+      213: 2001823072666572235
+    second: Cyber_Orbs_139
+  - first:
+      213: -3669365794209811832
+    second: Cyber_Orbs_140
+  - first:
+      213: -4774092283294405694
+    second: Cyber_Orbs_141
+  - first:
+      213: -5754012946675073722
+    second: Cyber_Orbs_142
+  - first:
+      213: -4250728755682198565
+    second: Cyber_Orbs_143
+  - first:
+      213: 7009255280615546954
+    second: Cyber_Orbs_144
+  - first:
+      213: 442155897947007341
+    second: Cyber_Orbs_145
+  - first:
+      213: -2781219790477152141
+    second: Cyber_Orbs_146
+  - first:
+      213: -7234032273190880636
+    second: Cyber_Orbs_147
+  - first:
+      213: -6931651135063751170
+    second: Cyber_Orbs_148
+  - first:
+      213: 13363096777107200
+    second: Cyber_Orbs_149
+  - first:
+      213: 4109282601928987194
+    second: Cyber_Orbs_150
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyber_Orbs_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 885
+        width: 262
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb0cf3c95ba01010800000000000000
+      internalID: 1157613506262731771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 903
+        width: 335
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0355a4711ad3c7810800000000000000
+      internalID: 1764352916112168240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1196
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3b7e7fbc638300800000000000000
+      internalID: 253165573779438145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 900
+        width: 260
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dcccc97ac5d35f0800000000000000
+      internalID: -775361685877895793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_4
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 899
+        width: 299
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9183e6eac1501000800000000000000
+      internalID: 4593531526283679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77afe7dd5d6721740800000000000000
+      internalID: 5121286387189873271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1048
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b024ebb4b39daf60800000000000000
+      internalID: 8047250513636630706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 982
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717d05dd16594efa0800000000000000
+      internalID: -5772324574824704233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_8
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 962
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0d8a9a893a004e0800000000000000
+      internalID: -2017432756985212750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 931
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5270b1f01eba1e9f0800000000000000
+      internalID: -440882305396177115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 949
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efdb772c07d09760800000000000000
+      internalID: 7462701029754920936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 931
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d5b9419b7cf86b0800000000000000
+      internalID: -5291791439408439964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 949
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2545795d2d3d77370800000000000000
+      internalID: 8320351739070338130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 927
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e62182a71fe58e60800000000000000
+      internalID: 7964034400864249569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 929
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76504d49a2c0e8e80800000000000000
+      internalID: -8174582896605788825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 917
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddba9774e58f0040800000000000000
+      internalID: 4616055359383715281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 899
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4d54e362dbf1f10800000000000000
+      internalID: 2242719111404967079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 465
+        width: 347
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dadc9eebaa2b87b0800000000000000
+      internalID: -5221032425074926891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_18
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 471
+        width: 305
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208544a5ec1b911f0800000000000000
+      internalID: -1073631536315344894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_19
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 891
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55296ddecc797e10800000000000000
+      internalID: 2195923521239590234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 602
+        width: 273
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e093e308ac163800800000000000000
+      internalID: 591691908991127782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 819
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8a7f510afc156d0800000000000000
+      internalID: -3003391190009141074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_22
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 473
+        width: 272
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5326831ad303340800000000000000
+      internalID: 4841437362068272587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_23
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 738
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68585c4521d5f9480800000000000000
+      internalID: -8890284806093044346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_24
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 745
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0744eec0cf1ff50800000000000000
+      internalID: 6913584035457691822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_25
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 724
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3933283638ad4880800000000000000
+      internalID: -8625052760521098950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_26
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 714
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32a50f1a9d10bc40800000000000000
+      internalID: 5525949290566230590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 698
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e4fd8079ee1c4f0800000000000000
+      internalID: -810104125493653960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_28
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 708
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6437456e34f1bc80800000000000000
+      internalID: -8308591288697539477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 674
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eece00c591c8b1490800000000000000
+      internalID: -7774466291179393810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 660
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0687c118499a190800000000000000
+      internalID: -7950660384896556824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 674
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee0191b27b9c0fe0800000000000000
+      internalID: -1221430482016596242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_32
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 668
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153f29f5b120ab650800000000000000
+      internalID: 6249309749520823121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 644
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8823bc222e4b820800000000000000
+      internalID: 2933217896390887614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_34
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 642
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7317cb349f539def0800000000000000
+      internalID: -82975773430091465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 612
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889a4bf0113683780800000000000000
+      internalID: -8703097354964391544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_36
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 616
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d486d61f01f7ce0800000000000000
+      internalID: -1405385929607590511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_37
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 584
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36ecdac589738d60800000000000000
+      internalID: 7891284587624326715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_38
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 548
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b72741330926b0800000000000000
+      internalID: -5320717974579466021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_39
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 594
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4fb6d89955b68b0800000000000000
+      internalID: -5157934830231751508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_40
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 594
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b4f56bbee31c680800000000000000
+      internalID: -8736632620024116408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 284
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8495b54ba38389330800000000000000
+      internalID: 3717783317179488584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 564
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2b6cd815c828350800000000000000
+      internalID: 6017526334019252985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_43
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 560
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9abec648458cc90800000000000000
+      internalID: -7149371480710862360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_44
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 531
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb88cc682db855c60800000000000000
+      internalID: 7806299265437567164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_45
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 544
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e4a4320e6c9d950800000000000000
+      internalID: 6474424605288844848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_46
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 545
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1af5986e88ab5c0800000000000000
+      internalID: -4198893178840964672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_47
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 546
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4647ac6b915e67aa0800000000000000
+      internalID: -6163487141406280604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_48
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 515
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b51b17f30bc241a0800000000000000
+      internalID: -6826670867249162823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_49
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 496
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b112b598504a7d790800000000000000
+      internalID: -7505349910303399653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_50
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 519
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56060a4d960c5f8c0800000000000000
+      internalID: -3966052336058474395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_51
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 492
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b51abe733687840800000000000000
+      internalID: 5222032859763661594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_52
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b116bcd2da9f1500800000000000000
+      internalID: 369183924904399289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_53
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 505
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a2c3dedbd911060800000000000000
+      internalID: 6922487541299686007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_54
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 471
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2226f3d948da9100800000000000000
+      internalID: 115642552051704363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_55
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 496
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b9ab476dc351880800000000000000
+      internalID: -8640933418261374114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_56
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 500
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727d08138ba072690800000000000000
+      internalID: -7627115657707858137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_57
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 498
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c91fa9aed0c56710800000000000000
+      internalID: 1685965698082216387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_58
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 500
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7b652909d7c1320800000000000000
+      internalID: 2530035150559295471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_59
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 478
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15d8a3971c86bd50800000000000000
+      internalID: 6752738724178089246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_60
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 485
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccda1257a61d8f10800000000000000
+      internalID: 2273498294784810191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_61
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 467
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990349bd08e6ba140800000000000000
+      internalID: 4731997333201629337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfc27141a8645ee0800000000000000
+      internalID: -1273277752841941041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_63
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 222
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2b64a1fc55f97d0800000000000000
+      internalID: -2909512486270618937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_64
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 258
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30daef03a211b0890800000000000000
+      internalID: -7490874682292392701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_65
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 214
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca93ab97ed51a7370800000000000000
+      internalID: 8320987306789583276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_66
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 192
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1cf1bde4917b830800000000000000
+      internalID: 4086763013336449488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_67
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 163
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0763de6904f253b00800000000000000
+      internalID: 807603662639412848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 286
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ff5e6feee25ed00800000000000000
+      internalID: 1001258096039165827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_69
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 277
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c61bf616d68656a0800000000000000
+      internalID: -6460828361349720375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_70
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 208
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1cc8b15656c7580800000000000000
+      internalID: -8828069684624703046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 187
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e8eba81788223e0800000000000000
+      internalID: -2079950056651321769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_72
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 190
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82782961d9263140800000000000000
+      internalID: 4698989240596853387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_73
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 196
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663c43f03b8ef60e0800000000000000
+      internalID: -2274343431046904986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9881990436be2700800000000000000
+      internalID: 517551341809272991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_75
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 174
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d9b8e19a5bee680800000000000000
+      internalID: -8723835690203505316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_76
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 192
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaa5eea4da8f8630800000000000000
+      internalID: 3931513645789719292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 190
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7971121987eac75d0800000000000000
+      internalID: -3063381813664606313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_78
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 141
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a95bcbf7b2c4040800000000000000
+      internalID: 4633125944284256796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_79
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 170
+        width: 168
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c385192cf09f9c0800000000000000
+      internalID: -3893063074548532096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_80
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59f20b524e05d550800000000000000
+      internalID: 6184865341420796252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_81
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 270
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473e6069024ea9060800000000000000
+      internalID: 6961127002661643124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 190
+        width: 146
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f08f60a89ec4f750800000000000000
+      internalID: 6337917730539143410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_83
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 238
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c8d29c8a0341e80800000000000000
+      internalID: -8208882719301727217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_84
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff357f2bb9eda50800000000000000
+      internalID: 6547842101199241169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 182
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408987c4fee63a240800000000000000
+      internalID: 4801803601766291460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_86
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 180
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d5d70e073c854d0800000000000000
+      internalID: -3145549450148225644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_87
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 165
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f8965cc237b36c0800000000000000
+      internalID: -4162606794446106802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_88
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 167
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054035dd9a83c1140800000000000000
+      internalID: 4691687214027048016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 192
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7709cf47aebe950800000000000000
+      internalID: 6479530277077022691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_90
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 270
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fbe83a34ed4bab0800000000000000
+      internalID: -4993121704758821022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_91
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 212
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eee0e96b9fece10800000000000000
+      internalID: 2219986229071375888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_92
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 192
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f11ea76778188820800000000000000
+      internalID: 2920611259469402612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123a3a7c9ed246b40800000000000000
+      internalID: 5432517532615680801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 207
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8214fd302f67b50800000000000000
+      internalID: 6590721203147712676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_95
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 194
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f0a4d312c298e20800000000000000
+      internalID: 3353259918827851610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_96
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 288
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8da371178e36e9a0800000000000000
+      internalID: -6204202686821978740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_97
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 212
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abbd040d9ff8c8c0800000000000000
+      internalID: -3978649220938875998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_98
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 166
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b5141e3105a4c90800000000000000
+      internalID: -7184842209202447556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_99
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 206
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6677c0d3e3361f0800000000000000
+      internalID: -1052929455951485256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_100
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 278
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965f08288dc589200800000000000000
+      internalID: 187001469508056425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_101
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 278
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9961e2489f250d0800000000000000
+      internalID: -3435409219626034700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_102
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 168
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c4deb13fed292a0800000000000000
+      internalID: -6732073357238514636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_103
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 208
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5047111911ccf3a90800000000000000
+      internalID: -7331917292515527675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_104
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 197
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d807aae50d2626110800000000000000
+      internalID: 1252672293443367053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_105
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 166
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e595ed2dea538c270800000000000000
+      internalID: 8270919740644284766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_106
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 248
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5704da3d355e41fc0800000000000000
+      internalID: -3524940460127862667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_107
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 234
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea4b79e2faeafa90800000000000000
+      internalID: -7279247518670828821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_108
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 228
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052929c53c59471f0800000000000000
+      internalID: -1048048146966212016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_109
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 182
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a320cce54dcc6890800000000000000
+      internalID: -7463364782251301984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_110
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 296
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f431f29a4e118a0800000000000000
+      internalID: -6336031785443176665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_111
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 192
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9faf85e6711fbfe0800000000000000
+      internalID: -1171198175737827425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_112
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 190
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb9e13030d187490800000000000000
+      internalID: -7748411260116493375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_113
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e9c90218f44a150800000000000000
+      internalID: 5882914429269221000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_114
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 194
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388b142817d619550800000000000000
+      internalID: 6165829699130996867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_115
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 182
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341ca44f21b052ea0800000000000000
+      internalID: -5898295960935939773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_116
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 225
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080bd2d6521789410800000000000000
+      internalID: 1484060482778017920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_117
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 230
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9225273478e7e130800000000000000
+      internalID: 3596098413317661339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_118
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 266
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2709713b0ecda2d00800000000000000
+      internalID: 948813529150361714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_119
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 222
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5362a48048ca810800000000000000
+      internalID: 1777941124043126231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_120
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 240
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cc0bdd1be43c790800000000000000
+      internalID: -7511073227688326080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_121
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 216
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bb26971f2611060800000000000000
+      internalID: 6922422891508317016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_122
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 189
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5306339ee50fb5d20800000000000000
+      internalID: 3268470245017477173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_123
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a05e4dd963ef9d70800000000000000
+      internalID: 9052203819861954722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_124
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 208
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e278f17918df727e0800000000000000
+      internalID: -1790183593828448466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_125
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 292
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3548551e5d1d03c90800000000000000
+      internalID: -7192017888371964845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_126
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 262
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c034dd7463a6870800000000000000
+      internalID: 8676807314365418648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_127
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31978b0a0b8d00d0800000000000000
+      internalID: -3454952463863934659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_128
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 218
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d181f3e4781aae0800000000000000
+      internalID: -1539800827448255082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_129
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 178
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427bba35d862e2cc0800000000000000
+      internalID: -3734004652607555804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_130
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 236
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4949baac9fff940800000000000000
+      internalID: 5332255132687307962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_131
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 232
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7406808bf7506c0800000000000000
+      internalID: -4177792650925029410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_132
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 177
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd339bffe083f7fc0800000000000000
+      internalID: -3495013148745190433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_133
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 255
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f24a9ca95962bd0800000000000000
+      internalID: -2655270438247845989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_134
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 164
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3701dd80885c12be0800000000000000
+      internalID: -1503703612510105485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_135
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 240
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a399e963b14830090800000000000000
+      internalID: -8069460854902449862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_136
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 254
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0df7505390bc5ca0800000000000000
+      internalID: -6026748054573941493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_137
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 237
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0d892b78125e0f0800000000000000
+      internalID: -1088426868239445769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_138
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 256
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f60503f93d58320800000000000000
+      internalID: 2559684643893833523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_139
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 247
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5d87d7a77e7cb10800000000000000
+      internalID: 2001823072666572235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_140
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882b725504bc31dc0800000000000000
+      internalID: -3669365794209811832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_141
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 176
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbad41dc540fbdb0800000000000000
+      internalID: -4774092283294405694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_142
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 174
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dfe6806b3a520b0800000000000000
+      internalID: -5754012946675073722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_143
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 224
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb3601d7b06205c0800000000000000
+      internalID: -4250728755682198565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_144
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 234
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ee158a80e54160800000000000000
+      internalID: 7009255280615546954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_145
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 276
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69a970527ad22600800000000000000
+      internalID: 442155897947007341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_146
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 310
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370b25a065f1769d0800000000000000
+      internalID: -2781219790477152141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_147
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 182
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48afebe99fd8b9b90800000000000000
+      internalID: -7234032273190880636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_148
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef58793a404ddcf90800000000000000
+      internalID: -6931651135063751170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_149
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 168
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007af7c6aa97f2000800000000000000
+      internalID: 13363096777107200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyber_Orbs_150
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 228
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a329ba921ca170930800000000000000
+      internalID: 4109282601928987194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cyber_Orbs_0: 1157613506262731771
+      Cyber_Orbs_1: 1764352916112168240
+      Cyber_Orbs_10: 7462701029754920936
+      Cyber_Orbs_100: 187001469508056425
+      Cyber_Orbs_101: -3435409219626034700
+      Cyber_Orbs_102: -6732073357238514636
+      Cyber_Orbs_103: -7331917292515527675
+      Cyber_Orbs_104: 1252672293443367053
+      Cyber_Orbs_105: 8270919740644284766
+      Cyber_Orbs_106: -3524940460127862667
+      Cyber_Orbs_107: -7279247518670828821
+      Cyber_Orbs_108: -1048048146966212016
+      Cyber_Orbs_109: -7463364782251301984
+      Cyber_Orbs_11: -5291791439408439964
+      Cyber_Orbs_110: -6336031785443176665
+      Cyber_Orbs_111: -1171198175737827425
+      Cyber_Orbs_112: -7748411260116493375
+      Cyber_Orbs_113: 5882914429269221000
+      Cyber_Orbs_114: 6165829699130996867
+      Cyber_Orbs_115: -5898295960935939773
+      Cyber_Orbs_116: 1484060482778017920
+      Cyber_Orbs_117: 3596098413317661339
+      Cyber_Orbs_118: 948813529150361714
+      Cyber_Orbs_119: 1777941124043126231
+      Cyber_Orbs_12: 8320351739070338130
+      Cyber_Orbs_120: -7511073227688326080
+      Cyber_Orbs_121: 6922422891508317016
+      Cyber_Orbs_122: 3268470245017477173
+      Cyber_Orbs_123: 9052203819861954722
+      Cyber_Orbs_124: -1790183593828448466
+      Cyber_Orbs_125: -7192017888371964845
+      Cyber_Orbs_126: 8676807314365418648
+      Cyber_Orbs_127: -3454952463863934659
+      Cyber_Orbs_128: -1539800827448255082
+      Cyber_Orbs_129: -3734004652607555804
+      Cyber_Orbs_13: 7964034400864249569
+      Cyber_Orbs_130: 5332255132687307962
+      Cyber_Orbs_131: -4177792650925029410
+      Cyber_Orbs_132: -3495013148745190433
+      Cyber_Orbs_133: -2655270438247845989
+      Cyber_Orbs_134: -1503703612510105485
+      Cyber_Orbs_135: -8069460854902449862
+      Cyber_Orbs_136: -6026748054573941493
+      Cyber_Orbs_137: -1088426868239445769
+      Cyber_Orbs_138: 2559684643893833523
+      Cyber_Orbs_139: 2001823072666572235
+      Cyber_Orbs_14: -8174582896605788825
+      Cyber_Orbs_140: -3669365794209811832
+      Cyber_Orbs_141: -4774092283294405694
+      Cyber_Orbs_142: -5754012946675073722
+      Cyber_Orbs_143: -4250728755682198565
+      Cyber_Orbs_144: 7009255280615546954
+      Cyber_Orbs_145: 442155897947007341
+      Cyber_Orbs_146: -2781219790477152141
+      Cyber_Orbs_147: -7234032273190880636
+      Cyber_Orbs_148: -6931651135063751170
+      Cyber_Orbs_149: 13363096777107200
+      Cyber_Orbs_15: 4616055359383715281
+      Cyber_Orbs_150: 4109282601928987194
+      Cyber_Orbs_16: 2242719111404967079
+      Cyber_Orbs_17: -5221032425074926891
+      Cyber_Orbs_18: -1073631536315344894
+      Cyber_Orbs_19: 2195923521239590234
+      Cyber_Orbs_2: 253165573779438145
+      Cyber_Orbs_20: 591691908991127782
+      Cyber_Orbs_21: -3003391190009141074
+      Cyber_Orbs_22: 4841437362068272587
+      Cyber_Orbs_23: -8890284806093044346
+      Cyber_Orbs_24: 6913584035457691822
+      Cyber_Orbs_25: -8625052760521098950
+      Cyber_Orbs_26: 5525949290566230590
+      Cyber_Orbs_27: -810104125493653960
+      Cyber_Orbs_28: -8308591288697539477
+      Cyber_Orbs_29: -7774466291179393810
+      Cyber_Orbs_3: -775361685877895793
+      Cyber_Orbs_30: -7950660384896556824
+      Cyber_Orbs_31: -1221430482016596242
+      Cyber_Orbs_32: 6249309749520823121
+      Cyber_Orbs_33: 2933217896390887614
+      Cyber_Orbs_34: -82975773430091465
+      Cyber_Orbs_35: -8703097354964391544
+      Cyber_Orbs_36: -1405385929607590511
+      Cyber_Orbs_37: 7891284587624326715
+      Cyber_Orbs_38: -5320717974579466021
+      Cyber_Orbs_39: -5157934830231751508
+      Cyber_Orbs_4: 4593531526283679
+      Cyber_Orbs_40: -8736632620024116408
+      Cyber_Orbs_41: 3717783317179488584
+      Cyber_Orbs_42: 6017526334019252985
+      Cyber_Orbs_43: -7149371480710862360
+      Cyber_Orbs_44: 7806299265437567164
+      Cyber_Orbs_45: 6474424605288844848
+      Cyber_Orbs_46: -4198893178840964672
+      Cyber_Orbs_47: -6163487141406280604
+      Cyber_Orbs_48: -6826670867249162823
+      Cyber_Orbs_49: -7505349910303399653
+      Cyber_Orbs_5: 5121286387189873271
+      Cyber_Orbs_50: -3966052336058474395
+      Cyber_Orbs_51: 5222032859763661594
+      Cyber_Orbs_52: 369183924904399289
+      Cyber_Orbs_53: 6922487541299686007
+      Cyber_Orbs_54: 115642552051704363
+      Cyber_Orbs_55: -8640933418261374114
+      Cyber_Orbs_56: -7627115657707858137
+      Cyber_Orbs_57: 1685965698082216387
+      Cyber_Orbs_58: 2530035150559295471
+      Cyber_Orbs_59: 6752738724178089246
+      Cyber_Orbs_6: 8047250513636630706
+      Cyber_Orbs_60: 2273498294784810191
+      Cyber_Orbs_61: 4731997333201629337
+      Cyber_Orbs_62: -1273277752841941041
+      Cyber_Orbs_63: -2909512486270618937
+      Cyber_Orbs_64: -7490874682292392701
+      Cyber_Orbs_65: 8320987306789583276
+      Cyber_Orbs_66: 4086763013336449488
+      Cyber_Orbs_67: 807603662639412848
+      Cyber_Orbs_68: 1001258096039165827
+      Cyber_Orbs_69: -6460828361349720375
+      Cyber_Orbs_7: -5772324574824704233
+      Cyber_Orbs_70: -8828069684624703046
+      Cyber_Orbs_71: -2079950056651321769
+      Cyber_Orbs_72: 4698989240596853387
+      Cyber_Orbs_73: -2274343431046904986
+      Cyber_Orbs_74: 517551341809272991
+      Cyber_Orbs_75: -8723835690203505316
+      Cyber_Orbs_76: 3931513645789719292
+      Cyber_Orbs_77: -3063381813664606313
+      Cyber_Orbs_78: 4633125944284256796
+      Cyber_Orbs_79: -3893063074548532096
+      Cyber_Orbs_8: -2017432756985212750
+      Cyber_Orbs_80: 6184865341420796252
+      Cyber_Orbs_81: 6961127002661643124
+      Cyber_Orbs_82: 6337917730539143410
+      Cyber_Orbs_83: -8208882719301727217
+      Cyber_Orbs_84: 6547842101199241169
+      Cyber_Orbs_85: 4801803601766291460
+      Cyber_Orbs_86: -3145549450148225644
+      Cyber_Orbs_87: -4162606794446106802
+      Cyber_Orbs_88: 4691687214027048016
+      Cyber_Orbs_89: 6479530277077022691
+      Cyber_Orbs_9: -440882305396177115
+      Cyber_Orbs_90: -4993121704758821022
+      Cyber_Orbs_91: 2219986229071375888
+      Cyber_Orbs_92: 2920611259469402612
+      Cyber_Orbs_93: 5432517532615680801
+      Cyber_Orbs_94: 6590721203147712676
+      Cyber_Orbs_95: 3353259918827851610
+      Cyber_Orbs_96: -6204202686821978740
+      Cyber_Orbs_97: -3978649220938875998
+      Cyber_Orbs_98: -7184842209202447556
+      Cyber_Orbs_99: -1052929455951485256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

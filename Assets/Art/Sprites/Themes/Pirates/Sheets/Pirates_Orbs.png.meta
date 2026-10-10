@@ -1,0 +1,2784 @@
+fileFormatVersion: 2
+guid: c5024320a967b3c44bb2f6d180968d29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2639954065343188393
+    second: Pirates_Orbs_0
+  - first:
+      213: 2553497211393758608
+    second: Pirates_Orbs_1
+  - first:
+      213: -9190557415065641387
+    second: Pirates_Orbs_2
+  - first:
+      213: -7867729304475215292
+    second: Pirates_Orbs_3
+  - first:
+      213: 1617322025151818701
+    second: Pirates_Orbs_4
+  - first:
+      213: 2975722171678988593
+    second: Pirates_Orbs_5
+  - first:
+      213: 7932713521286313464
+    second: Pirates_Orbs_6
+  - first:
+      213: -1133280899652506103
+    second: Pirates_Orbs_7
+  - first:
+      213: -5289475934893496969
+    second: Pirates_Orbs_8
+  - first:
+      213: -1034975193292032605
+    second: Pirates_Orbs_9
+  - first:
+      213: -4404474196323429358
+    second: Pirates_Orbs_10
+  - first:
+      213: -1668794626687948159
+    second: Pirates_Orbs_11
+  - first:
+      213: 562684190326515603
+    second: Pirates_Orbs_12
+  - first:
+      213: 2156181662830776961
+    second: Pirates_Orbs_13
+  - first:
+      213: -4520740892566420574
+    second: Pirates_Orbs_14
+  - first:
+      213: 1168980651009112573
+    second: Pirates_Orbs_15
+  - first:
+      213: -6140846512657740812
+    second: Pirates_Orbs_16
+  - first:
+      213: -4999888539143576044
+    second: Pirates_Orbs_17
+  - first:
+      213: 1007822172297926437
+    second: Pirates_Orbs_18
+  - first:
+      213: 6138579512566652477
+    second: Pirates_Orbs_19
+  - first:
+      213: 8259958151629264385
+    second: Pirates_Orbs_20
+  - first:
+      213: 3816925580479904540
+    second: Pirates_Orbs_21
+  - first:
+      213: -7088768095774373532
+    second: Pirates_Orbs_22
+  - first:
+      213: -319716151123688462
+    second: Pirates_Orbs_23
+  - first:
+      213: 3946644742906339336
+    second: Pirates_Orbs_24
+  - first:
+      213: -5022569942759886549
+    second: Pirates_Orbs_25
+  - first:
+      213: -7504066837235610790
+    second: Pirates_Orbs_26
+  - first:
+      213: 882542002629090300
+    second: Pirates_Orbs_27
+  - first:
+      213: 2049691947576705132
+    second: Pirates_Orbs_28
+  - first:
+      213: -6573897183756403726
+    second: Pirates_Orbs_29
+  - first:
+      213: -2408008595886776037
+    second: Pirates_Orbs_30
+  - first:
+      213: 4904243159417693035
+    second: Pirates_Orbs_31
+  - first:
+      213: 6311231123449558609
+    second: Pirates_Orbs_32
+  - first:
+      213: 4455557043635524161
+    second: Pirates_Orbs_33
+  - first:
+      213: -3148379551162227073
+    second: Pirates_Orbs_34
+  - first:
+      213: -6856348060604861824
+    second: Pirates_Orbs_35
+  - first:
+      213: -3379008869963697108
+    second: Pirates_Orbs_36
+  - first:
+      213: -5165952468777548018
+    second: Pirates_Orbs_37
+  - first:
+      213: 5486904342212647298
+    second: Pirates_Orbs_38
+  - first:
+      213: -3299732834792316159
+    second: Pirates_Orbs_39
+  - first:
+      213: 5279464559950335001
+    second: Pirates_Orbs_40
+  - first:
+      213: 7632174806766116846
+    second: Pirates_Orbs_41
+  - first:
+      213: 1361510329002260043
+    second: Pirates_Orbs_42
+  - first:
+      213: -2034573349406253135
+    second: Pirates_Orbs_43
+  - first:
+      213: 7838956985894931153
+    second: Pirates_Orbs_44
+  - first:
+      213: 4600725629469921222
+    second: Pirates_Orbs_45
+  - first:
+      213: 7521091508178388753
+    second: Pirates_Orbs_46
+  - first:
+      213: 6050540644724054963
+    second: Pirates_Orbs_47
+  - first:
+      213: 7512960633304548330
+    second: Pirates_Orbs_48
+  - first:
+      213: 7508430966558944450
+    second: Pirates_Orbs_49
+  - first:
+      213: -7758402820672720871
+    second: Pirates_Orbs_50
+  - first:
+      213: 5780536753820056413
+    second: Pirates_Orbs_51
+  - first:
+      213: -3942418274199269672
+    second: Pirates_Orbs_52
+  - first:
+      213: 4934603134523515278
+    second: Pirates_Orbs_53
+  - first:
+      213: -8120501277875800967
+    second: Pirates_Orbs_54
+  - first:
+      213: 3770414199368629155
+    second: Pirates_Orbs_55
+  - first:
+      213: -5140976739372874888
+    second: Pirates_Orbs_56
+  - first:
+      213: 2417840525860053344
+    second: Pirates_Orbs_57
+  - first:
+      213: 3437837491604790184
+    second: Pirates_Orbs_58
+  - first:
+      213: 1069813368791282546
+    second: Pirates_Orbs_59
+  - first:
+      213: 1809105877247112342
+    second: Pirates_Orbs_60
+  - first:
+      213: 8619900370705020620
+    second: Pirates_Orbs_61
+  - first:
+      213: 8789621748146974379
+    second: Pirates_Orbs_62
+  - first:
+      213: 4594727121095841190
+    second: Pirates_Orbs_63
+  - first:
+      213: 1753847564651230047
+    second: Pirates_Orbs_64
+  - first:
+      213: -928592715597317488
+    second: Pirates_Orbs_65
+  - first:
+      213: -8865644141755395606
+    second: Pirates_Orbs_66
+  - first:
+      213: 1705232292419664176
+    second: Pirates_Orbs_67
+  - first:
+      213: 4096166631025310267
+    second: Pirates_Orbs_68
+  - first:
+      213: -3855017458893872815
+    second: Pirates_Orbs_69
+  - first:
+      213: -1854005722703280425
+    second: Pirates_Orbs_70
+  - first:
+      213: 6593046265309231597
+    second: Pirates_Orbs_71
+  - first:
+      213: 8052832652575407529
+    second: Pirates_Orbs_72
+  - first:
+      213: -7085735873455332196
+    second: Pirates_Orbs_73
+  - first:
+      213: -6922860048193097567
+    second: Pirates_Orbs_74
+  - first:
+      213: 2501909123785681421
+    second: Pirates_Orbs_75
+  - first:
+      213: -26283107558183567
+    second: Pirates_Orbs_76
+  - first:
+      213: -2266084511263968303
+    second: Pirates_Orbs_77
+  - first:
+      213: -9214180388767380576
+    second: Pirates_Orbs_78
+  - first:
+      213: -1814142856817710801
+    second: Pirates_Orbs_79
+  - first:
+      213: -2211734647625766784
+    second: Pirates_Orbs_80
+  - first:
+      213: -7552720392197621274
+    second: Pirates_Orbs_81
+  - first:
+      213: 6102294204838055634
+    second: Pirates_Orbs_82
+  - first:
+      213: 122784665813011205
+    second: Pirates_Orbs_83
+  - first:
+      213: 8471997049117150206
+    second: Pirates_Orbs_84
+  - first:
+      213: 9023926967393520267
+    second: Pirates_Orbs_85
+  - first:
+      213: 2677622501478306810
+    second: Pirates_Orbs_86
+  - first:
+      213: 521386470960685143
+    second: Pirates_Orbs_87
+  - first:
+      213: -7359880630579185003
+    second: Pirates_Orbs_88
+  - first:
+      213: 7885799510343357841
+    second: Pirates_Orbs_89
+  - first:
+      213: -2907725343309207739
+    second: Pirates_Orbs_90
+  - first:
+      213: -5613931506446923446
+    second: Pirates_Orbs_91
+  - first:
+      213: -2835423877918296874
+    second: Pirates_Orbs_92
+  - first:
+      213: 4531642723332213203
+    second: Pirates_Orbs_93
+  - first:
+      213: -4758388247203433992
+    second: Pirates_Orbs_94
+  - first:
+      213: -3299941797545030424
+    second: Pirates_Orbs_95
+  - first:
+      213: 3218969067568313571
+    second: Pirates_Orbs_96
+  - first:
+      213: -7885117297698617809
+    second: Pirates_Orbs_97
+  - first:
+      213: 5223021933432100023
+    second: Pirates_Orbs_98
+  - first:
+      213: -2466554719526681247
+    second: Pirates_Orbs_99
+  - first:
+      213: -8178280617404601160
+    second: Pirates_Orbs_100
+  - first:
+      213: 8897050218556702791
+    second: Pirates_Orbs_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pirates_Orbs_0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 921
+        width: 299
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752fedfb3cffc5bd0800000000000000
+      internalID: -2639954065343188393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1205
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095531c4f28df6320800000000000000
+      internalID: 2553497211393758608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1187
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e1e2389b4947080800000000000000
+      internalID: -9190557415065641387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1181
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ad2d1f1e530d290800000000000000
+      internalID: -7867729304475215292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1208
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbe69c10d1e17610800000000000000
+      internalID: 1617322025151818701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1197
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1391e219c83eb4920800000000000000
+      internalID: 2975722171678988593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1198
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f575351be8a61e60800000000000000
+      internalID: 7932713521286313464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_7
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1205
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e2a71b607c540f0800000000000000
+      internalID: -1133280899652506103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_8
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77522bc79a10896b0800000000000000
+      internalID: -5289475934893496969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_9
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1213
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5bc749b8703a1f0800000000000000
+      internalID: -1034975193292032605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 869
+        width: 292
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21494c9ed0a20e2c0800000000000000
+      internalID: -4404474196323429358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1126
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a2f21f02047d8e0800000000000000
+      internalID: -1668794626687948159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1124
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397e3253a4e0fc700800000000000000
+      internalID: 562684190326515603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1138
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1825d346ccb4ced10800000000000000
+      internalID: 2156181662830776961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 790
+        width: 339
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30ff03c1a1341c0800000000000000
+      internalID: -4520740892566420574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_15
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1138
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9f3b465bd093010800000000000000
+      internalID: 1168980651009112573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_16
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 901
+        width: 265
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbc6d0e1a457caa0800000000000000
+      internalID: -6140846512657740812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_17
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416eccb3dd3dc9ab0800000000000000
+      internalID: -4999888539143576044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_18
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1118
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52794901de08cfd00800000000000000
+      internalID: 1007822172297926437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1093
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e96080b8d903550800000000000000
+      internalID: 6138579512566652477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 989
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106547ffc2441a270800000000000000
+      internalID: 8259958151629264385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_21
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 984
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b3b9ea79178f430800000000000000
+      internalID: 3816925580479904540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_22
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 985
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4690f3c89f2af9d90800000000000000
+      internalID: -7088768095774373532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 962
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3415fbad3209bf0800000000000000
+      internalID: -319716151123688462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_24
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 947
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8006893cb7c45c630800000000000000
+      internalID: 3946644742906339336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 964
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b213e3e6f3f3c4ab0800000000000000
+      internalID: -5022569942759886549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_26
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 964
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b48c348f23cd790800000000000000
+      internalID: -7504066837235610790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_27
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 950
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb9116864b6f3c00800000000000000
+      internalID: 882542002629090300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 497
+        width: 303
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60c94277f7f17c10800000000000000
+      internalID: 2049691947576705132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 872
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb32446753d4c4a0800000000000000
+      internalID: -6573897183756403726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_30
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 889
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11e412b0f8059ed0800000000000000
+      internalID: -2408008595886776037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_31
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 883
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b632b317b2f5f0440800000000000000
+      internalID: 4904243159417693035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_32
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 889
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156b998b44ff59750800000000000000
+      internalID: 6311231123449558609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_33
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 889
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142926e468155dd30800000000000000
+      internalID: 4455557043635524161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_34
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 881
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f762fd2aa75be44d0800000000000000
+      internalID: -3148379551162227073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_35
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 873
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082753fe3cb59d0a0800000000000000
+      internalID: -6856348060604861824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_36
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 863
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c247be4e5595b11d0800000000000000
+      internalID: -3379008869963697108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 489
+        width: 293
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0746fb9999de48b0800000000000000
+      internalID: -5165952468777548018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_38
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 862
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289122aad66652c40800000000000000
+      internalID: 5486904342212647298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_39
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 499
+        width: 272
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103e280387ef432d0800000000000000
+      internalID: -3299732834792316159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_40
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 822
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c8a14ab0d644940800000000000000
+      internalID: 5279464559950335001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_41
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 555
+        width: 253
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefdafcbc8eeae960800000000000000
+      internalID: 7632174806766116846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_42
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 837
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46743e3e6e05e210800000000000000
+      internalID: 1361510329002260043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_43
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 811
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfd92f715eb3c3e0800000000000000
+      internalID: -2034573349406253135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_44
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 787
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da85d998d199cc60800000000000000
+      internalID: 7838956985894931153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_45
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 793
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf0795959f09df30800000000000000
+      internalID: 4600725629469921222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_46
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 680
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1170e24d0e8406860800000000000000
+      internalID: 7521091508178388753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_47
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 650
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb17d3c8a6d7f350800000000000000
+      internalID: 6050540644724054963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_48
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 636
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae38c9ff3e5634860800000000000000
+      internalID: 7512960633304548330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_49
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 638
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cce946ce2e433860800000000000000
+      internalID: 7508430966558944450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_50
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 580
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910f9698dbd945490800000000000000
+      internalID: -7758402820672720871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_51
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 570
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bb88e0d87983050800000000000000
+      internalID: 5780536753820056413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_52
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 586
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de085aa777b949c0800000000000000
+      internalID: -3942418274199269672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_53
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 578
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81adccf76b3b7440800000000000000
+      internalID: 4934603134523515278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_54
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 578
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9747b1eac1f2e4f80800000000000000
+      internalID: -8120501277875800967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_55
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abb471ecb3335430800000000000000
+      internalID: 3770414199368629155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 536
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8734223c4e497a8b0800000000000000
+      internalID: -5140976739372874888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 529
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061ae63e525ed8120800000000000000
+      internalID: 2417840525860053344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_58
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 513
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab9f92fbf6a5bf20800000000000000
+      internalID: 3437837491604790184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 513
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273b4ce379db8de00800000000000000
+      internalID: 1069813368791282546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_60
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 509
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694b266d53c3b1910800000000000000
+      internalID: 1809105877247112342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 504
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6712b87b900a770800000000000000
+      internalID: 8619900370705020620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae295819620bf970800000000000000
+      internalID: 8789621748146974379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a555c409ffb3cf30800000000000000
+      internalID: 4594727121095841190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 178
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f537839511be65810800000000000000
+      internalID: 1753847564651230047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 158
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a7ec558d9fc13f0800000000000000
+      internalID: -928592715597317488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 266
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae195a110a7e6f480800000000000000
+      internalID: -8865644141755395606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_67
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 117
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039f2393cb33aa710800000000000000
+      internalID: 1705232292419664176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 182
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a721739d188d830800000000000000
+      internalID: 4096166631025310267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_69
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 128
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151a3bfbb0a308ac0800000000000000
+      internalID: -3855017458893872815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_70
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 176
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6cabe3e9f3546e0800000000000000
+      internalID: -1854005722703280425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_71
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 255
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9f87795a43f7b50800000000000000
+      internalID: 6593046265309231597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_72
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 130
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad7c6cb1a861cf60800000000000000
+      internalID: 8052832652575407529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_73
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 81
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94e372d3c86aad90800000000000000
+      internalID: -7085735873455332196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_74
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 192
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0f4bd077f0def90800000000000000
+      internalID: -6922860048193097567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 176
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aed87a71198b220800000000000000
+      internalID: 2501909123785681421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_76
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17da66627af92aff0800000000000000
+      internalID: -26283107558183567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_77
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 150
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3b81ba4204d80e0800000000000000
+      internalID: -2266084511263968303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_78
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 156
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab462751c7a02080800000000000000
+      internalID: -9214180388767380576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 155
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f296197feaed2d6e0800000000000000
+      internalID: -1814142856817710801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_80
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 228
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088a7d66e075e41e0800000000000000
+      internalID: -2211734647625766784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_81
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 224
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9363fb1d85f2790800000000000000
+      internalID: -7552720392197621274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_82
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 194
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de0c4a7f34bfa450800000000000000
+      internalID: 6102294204838055634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_83
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 120
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b46a5c00834b100800000000000000
+      internalID: 122784665813011205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_84
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb09cafd64929570800000000000000
+      internalID: 8471997049117150206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_85
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 210
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a0f8a14cd6b3d70800000000000000
+      internalID: 9023926967393520267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_86
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 160
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3153b7a73d82520800000000000000
+      internalID: 2677622501478306810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_87
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 152
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7506e40ab365c3700800000000000000
+      internalID: 521386470960685143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_88
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 130
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59abc019f837cd990800000000000000
+      internalID: -7359880630579185003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_89
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 48
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19517f7bfdcff6d60800000000000000
+      internalID: 7885799510343357841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_90
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 168
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54767afb43fa5a7d0800000000000000
+      internalID: -2907725343309207739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_91
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 216
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498bdce90f4712b0800000000000000
+      internalID: -5613931506446923446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_92
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4f409710d86a8d0800000000000000
+      internalID: -2835423877918296874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_93
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 176
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d943351c01a3ee30800000000000000
+      internalID: 4531642723332213203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_94
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 206
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1bb06a91fc6fdb0800000000000000
+      internalID: -4758388247203433992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_95
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 190
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec4dd14b604432d0800000000000000
+      internalID: -3299941797545030424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_96
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e43167ef431cac20800000000000000
+      internalID: 3218969067568313571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_97
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 180
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26c26a489f629290800000000000000
+      internalID: -7885117297698617809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_98
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 212
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b45b4496c6eb7840800000000000000
+      internalID: 5223021933432100023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_99
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 174
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1658c8b0d8905cdd0800000000000000
+      internalID: -2466554719526681247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_100
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 256
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bce22edb19e08e80800000000000000
+      internalID: -8178280617404601160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Orbs_101
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 206
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74042e1090ca87b70800000000000000
+      internalID: 8897050218556702791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pirates_Orbs_0: -2639954065343188393
+      Pirates_Orbs_1: 2553497211393758608
+      Pirates_Orbs_10: -4404474196323429358
+      Pirates_Orbs_100: -8178280617404601160
+      Pirates_Orbs_101: 8897050218556702791
+      Pirates_Orbs_11: -1668794626687948159
+      Pirates_Orbs_12: 562684190326515603
+      Pirates_Orbs_13: 2156181662830776961
+      Pirates_Orbs_14: -4520740892566420574
+      Pirates_Orbs_15: 1168980651009112573
+      Pirates_Orbs_16: -6140846512657740812
+      Pirates_Orbs_17: -4999888539143576044
+      Pirates_Orbs_18: 1007822172297926437
+      Pirates_Orbs_19: 6138579512566652477
+      Pirates_Orbs_2: -9190557415065641387
+      Pirates_Orbs_20: 8259958151629264385
+      Pirates_Orbs_21: 3816925580479904540
+      Pirates_Orbs_22: -7088768095774373532
+      Pirates_Orbs_23: -319716151123688462
+      Pirates_Orbs_24: 3946644742906339336
+      Pirates_Orbs_25: -5022569942759886549
+      Pirates_Orbs_26: -7504066837235610790
+      Pirates_Orbs_27: 882542002629090300
+      Pirates_Orbs_28: 2049691947576705132
+      Pirates_Orbs_29: -6573897183756403726
+      Pirates_Orbs_3: -7867729304475215292
+      Pirates_Orbs_30: -2408008595886776037
+      Pirates_Orbs_31: 4904243159417693035
+      Pirates_Orbs_32: 6311231123449558609
+      Pirates_Orbs_33: 4455557043635524161
+      Pirates_Orbs_34: -3148379551162227073
+      Pirates_Orbs_35: -6856348060604861824
+      Pirates_Orbs_36: -3379008869963697108
+      Pirates_Orbs_37: -5165952468777548018
+      Pirates_Orbs_38: 5486904342212647298
+      Pirates_Orbs_39: -3299732834792316159
+      Pirates_Orbs_4: 1617322025151818701
+      Pirates_Orbs_40: 5279464559950335001
+      Pirates_Orbs_41: 7632174806766116846
+      Pirates_Orbs_42: 1361510329002260043
+      Pirates_Orbs_43: -2034573349406253135
+      Pirates_Orbs_44: 7838956985894931153
+      Pirates_Orbs_45: 4600725629469921222
+      Pirates_Orbs_46: 7521091508178388753
+      Pirates_Orbs_47: 6050540644724054963
+      Pirates_Orbs_48: 7512960633304548330
+      Pirates_Orbs_49: 7508430966558944450
+      Pirates_Orbs_5: 2975722171678988593
+      Pirates_Orbs_50: -7758402820672720871
+      Pirates_Orbs_51: 5780536753820056413
+      Pirates_Orbs_52: -3942418274199269672
+      Pirates_Orbs_53: 4934603134523515278
+      Pirates_Orbs_54: -8120501277875800967
+      Pirates_Orbs_55: 3770414199368629155
+      Pirates_Orbs_56: -5140976739372874888
+      Pirates_Orbs_57: 2417840525860053344
+      Pirates_Orbs_58: 3437837491604790184
+      Pirates_Orbs_59: 1069813368791282546
+      Pirates_Orbs_6: 7932713521286313464
+      Pirates_Orbs_60: 1809105877247112342
+      Pirates_Orbs_61: 8619900370705020620
+      Pirates_Orbs_62: 8789621748146974379
+      Pirates_Orbs_63: 4594727121095841190
+      Pirates_Orbs_64: 1753847564651230047
+      Pirates_Orbs_65: -928592715597317488
+      Pirates_Orbs_66: -8865644141755395606
+      Pirates_Orbs_67: 1705232292419664176
+      Pirates_Orbs_68: 4096166631025310267
+      Pirates_Orbs_69: -3855017458893872815
+      Pirates_Orbs_7: -1133280899652506103
+      Pirates_Orbs_70: -1854005722703280425
+      Pirates_Orbs_71: 6593046265309231597
+      Pirates_Orbs_72: 8052832652575407529
+      Pirates_Orbs_73: -7085735873455332196
+      Pirates_Orbs_74: -6922860048193097567
+      Pirates_Orbs_75: 2501909123785681421
+      Pirates_Orbs_76: -26283107558183567
+      Pirates_Orbs_77: -2266084511263968303
+      Pirates_Orbs_78: -9214180388767380576
+      Pirates_Orbs_79: -1814142856817710801
+      Pirates_Orbs_8: -5289475934893496969
+      Pirates_Orbs_80: -2211734647625766784
+      Pirates_Orbs_81: -7552720392197621274
+      Pirates_Orbs_82: 6102294204838055634
+      Pirates_Orbs_83: 122784665813011205
+      Pirates_Orbs_84: 8471997049117150206
+      Pirates_Orbs_85: 9023926967393520267
+      Pirates_Orbs_86: 2677622501478306810
+      Pirates_Orbs_87: 521386470960685143
+      Pirates_Orbs_88: -7359880630579185003
+      Pirates_Orbs_89: 7885799510343357841
+      Pirates_Orbs_9: -1034975193292032605
+      Pirates_Orbs_90: -2907725343309207739
+      Pirates_Orbs_91: -5613931506446923446
+      Pirates_Orbs_92: -2835423877918296874
+      Pirates_Orbs_93: 4531642723332213203
+      Pirates_Orbs_94: -4758388247203433992
+      Pirates_Orbs_95: -3299941797545030424
+      Pirates_Orbs_96: 3218969067568313571
+      Pirates_Orbs_97: -7885117297698617809
+      Pirates_Orbs_98: 5223021933432100023
+      Pirates_Orbs_99: -2466554719526681247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
