@@ -4,6 +4,7 @@ using UnityEngine.Serialization;
 
 [DefaultExecutionOrder(-50)]
 [RequireComponent(typeof(AudioSource))]
+// Lleva el reloj del nivel a partir de la canción para que los obstáculos caigan en el beat; la x del jugador sale de este reloj.
 public class MusicConductor : MonoBehaviour
 {
     [FormerlySerializedAs("nivel")]
@@ -72,6 +73,7 @@ public class MusicConductor : MonoBehaviour
         source.Stop();
         source.time = level.songOffset + (float)start;
         dspStart = AudioSettings.dspTime + scheduleLead;
+        // Programar en el reloj DSP hace que la canción empiece justo con el primer paso de física.
         source.PlayScheduled(dspStart);
     }
 
@@ -99,6 +101,7 @@ public class MusicConductor : MonoBehaviour
         {
             MeasureRate();
             double drift = audioTime - clock;
+            // El desfase pequeño se corrige poco a poco para evitar tirones; uno grande (un frame lento) salta directamente al audio.
             if (Math.Abs(drift) > snapThreshold)
             {
                 clock = audioTime;

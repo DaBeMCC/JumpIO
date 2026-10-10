@@ -60,6 +60,7 @@ public class LevelSceneWriter
         for (int x = -20; x <= Mathf.CeilToInt(finishX) + 20; x++)
         {
             Ground.SetTile(new Vector3Int(x, -1, 0), block);
+            // Se reinicia la matriz: SetTile conserva la anterior y dejaba casillas del suelo escaladas como plataformas finas.
             Ground.SetTransformMatrix(new Vector3Int(x, -1, 0), Matrix4x4.identity);
             for (int y = -8; y <= -2; y++)
             {

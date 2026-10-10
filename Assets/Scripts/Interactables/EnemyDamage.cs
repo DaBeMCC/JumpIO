@@ -1,6 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Collider2D))]
+// Los enemigos dañan al contacto salvo que el jugador esté atacando (ROLL) o les caiga encima.
 public class EnemyDamage : MonoBehaviour
 {
     [SerializeField] private Sprite[] defeatedFrames;

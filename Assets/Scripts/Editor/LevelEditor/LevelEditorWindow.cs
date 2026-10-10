@@ -5,6 +5,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
+// Editor de niveles dentro de Unity: paleta, línea de tiempo con la música, ajuste al beat y prueba desde el cabezal. Solo Editor, no va en los builds.
 public partial class LevelEditorWindow : EditorWindow
 {
     const string TilesFolder = "Assets/Art/Palettes/Tiles";

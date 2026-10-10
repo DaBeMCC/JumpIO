@@ -5,6 +5,7 @@ public static class SceneNavigation
 {
     public static void Load(string sceneName)
     {
+        // Se restaura el tiempo antes de cargar para que una partida en pausa no abra la siguiente escena congelada.
         Time.timeScale = 1f;
         if (GameManager.Instance != null) GameManager.Instance.LoadScene(sceneName);
         else SceneManager.LoadScene(sceneName);

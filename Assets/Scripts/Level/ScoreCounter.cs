@@ -30,6 +30,7 @@ public class ScoreCounter : MonoBehaviour
         Publish();
     }
 
+    // La distancia se lee cada frame pero solo se publica cuando aumenta, así el HUD sigue funcionando por eventos.
     void Update()
     {
         int travelled = Mathf.Max(0, Mathf.FloorToInt(player.position.x));

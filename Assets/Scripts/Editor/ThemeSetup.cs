@@ -9,6 +9,7 @@ using UnityEditor.U2D.Sprites;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
+// Convierte las hojas de sprites de cada tema en tiles, sprites de objetos, fondo con parallax y skin del personaje, y los aplica a los niveles extra.
 public static class ThemeSetup
 {
     const string ThemesFolder = "Assets/Art/Sprites/Themes";

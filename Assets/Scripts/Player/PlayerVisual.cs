@@ -105,6 +105,7 @@ public class PlayerVisual : MonoBehaviour
         if (skin != null) sr.sprite = skin.SpriteFor(controller.ModeType);
     }
 
+    // Aplica la escala de la skin sobre lo que escribió el Animator en este frame, sin acumularla frame a frame.
     void LateUpdate()
     {
         var current = transform.localScale;

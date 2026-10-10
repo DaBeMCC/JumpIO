@@ -3,6 +3,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.Serialization;
 
 [RequireComponent(typeof(Rigidbody2D))]
+// Física del jugador. El movimiento propio de cada modo se delega en PlayerMode (patrón State) y la entrada en PlayerInput.
 public class PlayerController : MonoBehaviour
 {
     public static PlayerController Instance { get; private set; }
@@ -126,6 +127,7 @@ public class PlayerController : MonoBehaviour
         touchedOrb = null;
         float vy = rb.linearVelocity.y;
 
+        // La velocidad horizontal sigue al reloj de la música y no a la física libre, así la carrera nunca se desfasa de la canción.
         float vx = speed;
         if (conductor != null)
         {

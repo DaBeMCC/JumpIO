@@ -2,6 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Audio;
 
+// Singleton de audio persistente: dos fuentes de música permiten fundidos entre escenas y un grupo de voces evita que los SFX se corten entre sí.
 public class AudioManager : MonoBehaviour
 {
     public static AudioManager Instance { get; private set; }
@@ -91,6 +92,7 @@ public class AudioManager : MonoBehaviour
         if (sound.clip == null) return;
         var voice = sfxVoices[nextVoice];
         nextVoice = (nextVoice + 1) % sfxVoices.Length;
+        // Pequeñas variaciones de tono evitan que los sonidos repetidos suenen mecánicos.
         voice.pitch = 1f + Random.Range(-sound.pitchVariation, sound.pitchVariation);
         voice.PlayOneShot(sound.clip, sound.volume);
     }

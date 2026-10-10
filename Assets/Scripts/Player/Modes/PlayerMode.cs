@@ -1,6 +1,7 @@
 using UnityEngine;
 
 [System.Serializable]
+// Estado base de cada modo de juego (cubo, nave, bola, ovni). Los portales cambian el modo activo en PlayerController.
 public abstract class PlayerMode
 {
     protected PlayerController player;

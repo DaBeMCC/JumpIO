@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+// Guarda la pulsación de salto para que cuente aunque llegue un poco antes de aterrizar o de tocar un orbe.
 public sealed class PlayerInput : MonoBehaviour
 {
     [SerializeField] private InputActionReference actionReference;

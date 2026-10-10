@@ -1,5 +1,6 @@
 using UnityEngine;
 
+// Ajuste solo de Editor para que el editor de niveles empiece la prueba en el cabezal; nunca se activa en los builds.
 public static class PlaytestStart
 {
     public const string Key = "JumpIO.PlaytestStart";

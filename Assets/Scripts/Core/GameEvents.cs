@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 
+// Central de eventos estática (patrón Observer): el juego publica y la UI, el audio y los VFX se suscriben, así ningún sistema depende de otro.
 public static class GameEvents
 {
     public static event Action<int> AttemptStarted;
