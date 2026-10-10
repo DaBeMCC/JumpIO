@@ -5,11 +5,14 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(CanvasGroup))]
-// Muestra el número de intento y la cuenta atrás del reinicio automático, con accesos a Retry y Menu.
+// Muestra el número de intento, el progreso y el puntaje del intento, con la cuenta atrás del reinicio automático y accesos a Retry y Menu.
 public class DeathScreen : MonoBehaviour
 {
     [SerializeField] TMP_Text attemptText;
     [SerializeField] TMP_Text countdownText;
+    [SerializeField] TMP_Text progressText;
+    [SerializeField] TMP_Text scoreText;
+    [SerializeField] Image restartFill;
     [SerializeField] Selectable firstSelected;
     [SerializeField] string menuScene = "MainMenu";
     [SerializeField] float delay = 0.2f;
@@ -21,10 +24,17 @@ public class DeathScreen : MonoBehaviour
     int shownSeconds = -1;
     bool dead;
     bool paused;
+    int runScore;
+    float runProgress;
+    RectTransform card;
+    Vector2 restingPosition;
+    float restartDuration;
 
     void Awake()
     {
         group = GetComponent<CanvasGroup>();
+        card = GetComponent<RectTransform>();
+        restingPosition = card.anchoredPosition;
         SetVisible(0f);
     }
 
@@ -34,6 +44,8 @@ public class DeathScreen : MonoBehaviour
         GameEvents.AttemptStarted += OnAttemptStarted;
         GameEvents.LevelCompleted += Hide;
         GameEvents.PauseChanged += OnPauseChanged;
+        GameEvents.ProgressChanged += OnProgressChanged;
+        GameEvents.ScoreChanged += OnScoreChanged;
     }
 
     void OnDisable()
@@ -42,13 +54,18 @@ public class DeathScreen : MonoBehaviour
         GameEvents.AttemptStarted -= OnAttemptStarted;
         GameEvents.LevelCompleted -= Hide;
         GameEvents.PauseChanged -= OnPauseChanged;
+        GameEvents.ProgressChanged -= OnProgressChanged;
+        GameEvents.ScoreChanged -= OnScoreChanged;
     }
 
     void Show()
     {
         int attempt = GameManager.Instance != null ? GameManager.Instance.Attempt : 0;
         attemptText.text = "ATTEMPT " + attempt;
-        restartAt = Time.time + (GameManager.Instance != null ? GameManager.Instance.RestartDelay : 0f);
+        if (progressText != null) progressText.text = Mathf.FloorToInt(runProgress * 100f) + "%";
+        if (scoreText != null) scoreText.text = runScore.ToString("N0");
+        restartDuration = GameManager.Instance != null ? GameManager.Instance.RestartDelay : 1f;
+        restartAt = Time.time + restartDuration;
         shownSeconds = -1;
         dead = true;
         UpdateCountdown();
@@ -65,15 +82,19 @@ public class DeathScreen : MonoBehaviour
         for (float t = 0f; t < fadeDuration; t += Time.unscaledDeltaTime)
         {
             SetVisible(t / fadeDuration);
+            card.anchoredPosition = restingPosition + Vector2.down * (18f * (1f - t / fadeDuration));
             yield return null;
         }
         SetVisible(1f);
+        card.anchoredPosition = restingPosition;
         showing = null;
     }
 
+    // La barra de reinicio se vacía cada frame porque es una cuenta atrás visual; el resto de la pantalla se actualiza por eventos.
     void Update()
     {
         if (group.alpha > 0f) UpdateCountdown();
+        if (dead && restartFill != null) restartFill.fillAmount = Mathf.Clamp01((restartAt - Time.time) / Mathf.Max(0.01f, restartDuration));
     }
 
     void UpdateCountdown()
@@ -95,7 +116,16 @@ public class DeathScreen : MonoBehaviour
         else showing = StartCoroutine(FadeIn());
     }
 
-    void OnAttemptStarted(int attempt) => Hide();
+    void OnProgressChanged(float progress) => runProgress = Mathf.Clamp01(progress);
+
+    void OnScoreChanged(int score) => runScore = score;
+
+    void OnAttemptStarted(int attempt)
+    {
+        runProgress = 0f;
+        runScore = 0;
+        Hide();
+    }
 
     void Hide()
     {

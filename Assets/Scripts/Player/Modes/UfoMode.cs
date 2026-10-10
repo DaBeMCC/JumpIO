@@ -3,10 +3,10 @@ using UnityEngine;
 [System.Serializable]
 public class UfoMode : PlayerMode
 {
-    public float hopVelocity = 13.15f;
-    public float gravityFalling = 0.4f, gravityRising = 0.6f;
-    public float fallingThreshold = 3.6f;
-    public float maxUp = 15.03f, maxDown = 12.02f;
+    [SerializeField] private float hopVelocity = 13.15f;
+    [SerializeField] private float gravityFalling = 0.4f, gravityRising = 0.6f;
+    [SerializeField] private float fallingThreshold = 3.6f;
+    [SerializeField] private float maxUp = 15.03f, maxDown = 12.02f;
 
     public override float GravityMultiplier => 0f;
     public override float Bounds => 10f;

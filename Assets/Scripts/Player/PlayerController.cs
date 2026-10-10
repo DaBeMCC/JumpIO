@@ -22,6 +22,7 @@ public class PlayerController : MonoBehaviour
     [FormerlySerializedAs("ventanaPulsacion")]
     [SerializeField] float orbPressWindow = 0.05f;
     [SerializeField, Range(0f, 1f)] float wallDeathBand = 0.3f;
+    [SerializeField, Range(0f, 0.2f)] float coyoteTime = 0.08f;
     [SerializeField] CubeMode cube = new CubeMode();
     [SerializeField] ShipMode ship = new ShipMode();
     [SerializeField] BallMode ball = new BallMode();
@@ -35,6 +36,8 @@ public class PlayerController : MonoBehaviour
     JumpOrb touchedOrb;
     bool dashing;
     float dashSlope;
+    float lastGroundedAt = float.NegativeInfinity;
+    bool groundJumpAvailable;
 
     public bool IsActive { get; private set; }
     public bool IsGrounded { get; internal set; }
@@ -50,6 +53,8 @@ public class PlayerController : MonoBehaviour
     public PlayerModeType ModeType { get; private set; }
     public float FloorY { get; private set; } = float.NegativeInfinity;
     public float CeilingY { get; private set; } = float.PositiveInfinity;
+    // Coyote time: justo después de dejar un borde todavía se acepta el salto, porque a esta velocidad el ojo va un poco por detrás del jugador.
+    public bool CanGroundJump => IsGrounded || groundJumpAvailable && Time.fixedTime - lastGroundedAt <= coyoteTime;
 
     public event System.Action Landed;
     public event System.Action ModeChanged;
@@ -101,6 +106,12 @@ public class PlayerController : MonoBehaviour
 
     public void ClearPress() => input.Clear();
 
+    public void UseGroundJump()
+    {
+        IsGrounded = false;
+        groundJumpAvailable = false;
+    }
+
     void FixedUpdate()
     {
         if (!IsActive) return;
@@ -116,6 +127,11 @@ public class PlayerController : MonoBehaviour
             GameEvents.RaiseLanded(transform.position);
         }
         IsGrounded = touchingGround;
+        if (touchingGround)
+        {
+            lastGroundedAt = Time.fixedTime;
+            groundJumpAvailable = true;
+        }
         Vector2 head = 2f * rb.position - (Vector2)groundCheck.position;
         IsOnCeiling = RelativeVerticalVelocity >= -0.01f
                       && (onCeilingBound || touchingSolid && Physics2D.OverlapCircle(head, groundCheckRadius, groundLayer));
@@ -163,6 +179,7 @@ public class PlayerController : MonoBehaviour
         if (next == Mode) return;
 
         dashing = false;
+        groundJumpAvailable = false;
         float vy = next.Enter(ModeType, RelativeVerticalVelocity);
         Mode = next;
         ModeType = type;
@@ -182,6 +199,7 @@ public class PlayerController : MonoBehaviour
     {
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, verticalVelocity * GravityDirection);
         IsGrounded = false;
+        groundJumpAvailable = false;
         if (boost) Boosted = true;
     }
 
@@ -190,6 +208,7 @@ public class PlayerController : MonoBehaviour
         FlipGravity();
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
         IsGrounded = false;
+        groundJumpAvailable = false;
     }
 
     public void StartDash(float angle)
@@ -198,6 +217,7 @@ public class PlayerController : MonoBehaviour
         dashSlope = Mathf.Tan(angle * Mathf.Deg2Rad);
         Boosted = true;
         IsGrounded = false;
+        groundJumpAvailable = false;
         rb.gravityScale = 0f;
     }
 
@@ -241,6 +261,7 @@ public class PlayerController : MonoBehaviour
         rb.simulated = true;
         IsGrounded = false;
         IsOnCeiling = false;
+        groundJumpAvailable = false;
         touchedOrb = null;
         input.Clear();
         IsActive = true;

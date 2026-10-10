@@ -2,7 +2,7 @@ using UnityEngine;
 
 [RequireComponent(typeof(Collider2D))]
 // Los enemigos dañan al contacto salvo que el jugador esté atacando (ROLL) o les caiga encima.
-public class EnemyDamage : MonoBehaviour
+public class EnemyDamage : MonoBehaviour, IDamageable
 {
     [SerializeField] private Sprite[] defeatedFrames;
     [SerializeField] private float framesPerSecond = 12f;
@@ -14,6 +14,7 @@ public class EnemyDamage : MonoBehaviour
     Sprite initialSprite;
     Coroutine defeatAnimation;
     public bool IsDefeated => defeated;
+    public bool IsAlive => !defeated;
     void Awake()
     {
         area = GetComponent<Collider2D>();
@@ -43,13 +44,19 @@ public class EnemyDamage : MonoBehaviour
         bool stomping = above && player.RelativeVerticalVelocity < -0.01f;
         if (acting || stomping)
         {
-            defeated = true;
-            area.enabled = false;
-            if (loop != null) loop.enabled = false;
-            GameEvents.RaisePlayerActed(player.transform.position);
-            defeatAnimation = StartCoroutine(ShowDefeat());
+            if (TakeDamage(1, player.transform.position)) GameEvents.RaisePlayerActed(player.transform.position);
         }
-        else if (!used && other.TryGetComponent(out PlayerHealth health)) used = health.TakeDamage();
+        else if (!used && other.TryGetComponent(out IDamageable target)) used = target.TakeDamage(1, area.bounds.center);
+    }
+    // Los enemigos tienen un solo punto de vida: cualquier golpe válido los derrota.
+    public bool TakeDamage(int amount, Vector2 source)
+    {
+        if (defeated || amount <= 0) return false;
+        defeated = true;
+        area.enabled = false;
+        if (loop != null) loop.enabled = false;
+        defeatAnimation = StartCoroutine(ShowDefeat());
+        return true;
     }
     System.Collections.IEnumerator ShowDefeat()
     {

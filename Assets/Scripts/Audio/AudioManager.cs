@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Audio;
+using UnityEngine.SceneManagement;
 
 // Singleton de audio persistente: dos fuentes de música permiten fundidos entre escenas y un grupo de voces evita que los SFX se corten entre sí.
 public class AudioManager : MonoBehaviour
@@ -18,6 +19,7 @@ public class AudioManager : MonoBehaviour
     int activeMusic;
     int nextVoice;
     Coroutine fade;
+    AudioSource jingle;
 
     public SoundLibrary Sounds => sounds;
 
@@ -30,7 +32,26 @@ public class AudioManager : MonoBehaviour
         }
         Instance = this;
         DontDestroyOnLoad(gameObject);
+        // Fuente propia para la música de victoria: como un one-shot no se puede detener, seguía sonando al reiniciar o volver al menú.
+        jingle = gameObject.AddComponent<AudioSource>();
+        jingle.playOnAwake = false;
+        if (sfxVoices.Length > 0) jingle.outputAudioMixerGroup = sfxVoices[0].outputAudioMixerGroup;
     }
+
+    void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+        GameEvents.AttemptStarted += OnAttemptStarted;
+    }
+
+    void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+        GameEvents.AttemptStarted -= OnAttemptStarted;
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode) => StopJingle();
+    void OnAttemptStarted(int attempt) => StopJingle();
 
     void Start()
     {
@@ -95,6 +116,20 @@ public class AudioManager : MonoBehaviour
         // Pequeñas variaciones de tono evitan que los sonidos repetidos suenen mecánicos.
         voice.pitch = 1f + Random.Range(-sound.pitchVariation, sound.pitchVariation);
         voice.PlayOneShot(sound.clip, sound.volume);
+    }
+
+    public void PlayJingle(SoundLibrary.Sound sound)
+    {
+        if (sound.clip == null || jingle == null) return;
+        jingle.clip = sound.clip;
+        jingle.volume = sound.volume;
+        jingle.pitch = 1f;
+        jingle.Play();
+    }
+
+    public void StopJingle()
+    {
+        if (jingle != null) jingle.Stop();
     }
 
     public void PlayUiClick() => Play(sounds.UiClick);

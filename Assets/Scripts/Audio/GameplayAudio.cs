@@ -48,5 +48,5 @@ public class GameplayAudio : MonoBehaviour
     void OnDied(Vector3 position) => manager.Play(manager.Sounds.Death);
     void OnCoinCollected(Vector3 position) => manager.Play(manager.Sounds.Coin);
     void OnPowerUp(Vector3 position) => manager.Play(manager.Sounds.PowerUp);
-    void OnLevelCompleted() => manager.Play(manager.Sounds.Victory);
+    void OnLevelCompleted() => manager.PlayJingle(manager.Sounds.Victory);
 }

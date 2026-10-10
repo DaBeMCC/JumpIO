@@ -3,9 +3,9 @@ using UnityEngine;
 [System.Serializable]
 public class BallMode : PlayerMode
 {
-    public float flipVelocity = 6.3f;
-    public float maxSpeed = 15.03f;
-    public float rollSpeed = 720f;
+    [SerializeField] private float flipVelocity = 6.3f;
+    [SerializeField] private float maxSpeed = 15.03f;
+    [SerializeField] private float rollSpeed = 720f;
 
     public override float GravityMultiplier => 0.6f;
     public override float Bounds => 8f;

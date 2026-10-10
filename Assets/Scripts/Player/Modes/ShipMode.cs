@@ -3,11 +3,11 @@ using UnityEngine;
 [System.Serializable]
 public class ShipMode : PlayerMode
 {
-    public float holdFalling = 0.5f, holdRising = 0.4f;
-    public float releaseFalling = 0.32f, releaseRising = 0.48f;
-    public float fallingThreshold = 3.6f;
-    public float maxUp = 15.03f, maxDown = 12.02f;
-    public float turnRate = 0.15f;
+    [SerializeField] private float holdFalling = 0.5f, holdRising = 0.4f;
+    [SerializeField] private float releaseFalling = 0.32f, releaseRising = 0.48f;
+    [SerializeField] private float fallingThreshold = 3.6f;
+    [SerializeField] private float maxUp = 15.03f, maxDown = 12.02f;
+    [SerializeField] private float turnRate = 0.15f;
 
     public override float GravityMultiplier => 0f;
     public override float Bounds => 10f;
