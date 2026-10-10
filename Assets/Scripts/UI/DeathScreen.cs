@@ -18,6 +18,8 @@ public class DeathScreen : MonoBehaviour
     Coroutine showing;
     float restartAt;
     int shownSeconds = -1;
+    bool dead;
+    bool paused;
 
     void Awake()
     {
@@ -30,6 +32,7 @@ public class DeathScreen : MonoBehaviour
         GameEvents.PlayerDied += Show;
         GameEvents.AttemptStarted += OnAttemptStarted;
         GameEvents.LevelCompleted += Hide;
+        GameEvents.PauseChanged += OnPauseChanged;
     }
 
     void OnDisable()
@@ -37,6 +40,7 @@ public class DeathScreen : MonoBehaviour
         GameEvents.PlayerDied -= Show;
         GameEvents.AttemptStarted -= OnAttemptStarted;
         GameEvents.LevelCompleted -= Hide;
+        GameEvents.PauseChanged -= OnPauseChanged;
     }
 
     void Show()
@@ -45,6 +49,7 @@ public class DeathScreen : MonoBehaviour
         attemptText.text = "ATTEMPT " + attempt;
         restartAt = Time.time + (GameManager.Instance != null ? GameManager.Instance.RestartDelay : 0f);
         shownSeconds = -1;
+        dead = true;
         UpdateCountdown();
         if (showing != null) StopCoroutine(showing);
         showing = StartCoroutine(FadeIn());
@@ -53,6 +58,7 @@ public class DeathScreen : MonoBehaviour
     IEnumerator FadeIn()
     {
         yield return new WaitForSecondsRealtime(delay);
+        while (paused) yield return null;
         if (EventSystem.current != null && firstSelected != null)
             EventSystem.current.SetSelectedGameObject(firstSelected.gameObject);
         for (float t = 0f; t < fadeDuration; t += Time.unscaledDeltaTime)
@@ -78,10 +84,21 @@ public class DeathScreen : MonoBehaviour
         countdownText.text = "RESTARTING IN " + seconds;
     }
 
+    void OnPauseChanged(bool isPaused)
+    {
+        paused = isPaused;
+        if (!dead) return;
+        if (showing != null) StopCoroutine(showing);
+        showing = null;
+        if (isPaused) SetVisible(0f);
+        else showing = StartCoroutine(FadeIn());
+    }
+
     void OnAttemptStarted(int attempt) => Hide();
 
     void Hide()
     {
+        dead = false;
         if (showing != null) StopCoroutine(showing);
         showing = null;
         SetVisible(0f);
