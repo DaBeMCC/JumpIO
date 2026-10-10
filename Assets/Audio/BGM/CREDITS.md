@@ -31,3 +31,7 @@ Songs by F-777, used in this student project as a tribute to Geometry Dash. All 
 | `tap.wav` | Menu buttons |
 
 Sound effects selected by David Machaca for JumpIO.
+
+## Fonts
+
+- **Press Start 2P** by The Press Start 2P Project Authors (cody@zone38.net), SIL Open Font License 1.1. Used on the victory and defeat screens. License: `Assets/Art/Fonts/PressStart2P/OFL.txt`.
