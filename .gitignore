@@ -52,6 +52,3 @@ _local/
 # local data
 /LevelSource/
 
-# local audio
-/Assets/Audio/Music/
-/Assets/Audio/Music.meta
