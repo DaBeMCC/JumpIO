@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 855009a98c0b380438e90015de499571
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4457021704929027523
+    second: Health_Hearts_0
+  - first:
+      213: -8629584095132137344
+    second: Health_Hearts_1
+  - first:
+      213: 1506490474514528752
+    second: Health_Hearts_2
+  - first:
+      213: 4543206328736824446
+    second: Health_Hearts_3
+  - first:
+      213: 783891970014124744
+    second: Health_Hearts_4
+  - first:
+      213: -5428579887725439049
+    second: Health_Hearts_5
+  - first:
+      213: 2901653364799565547
+    second: Health_Hearts_6
+  - first:
+      213: -8600010472378089932
+    second: Health_Hearts_7
+  - first:
+      213: -3707990624976194375
+    second: Health_Hearts_8
+  - first:
+      213: -8806958244606948651
+    second: Health_Hearts_9
+  - first:
+      213: 6442417045621547952
+    second: Health_Hearts_10
+  - first:
+      213: 1784106292762198544
+    second: Health_Hearts_11
+  - first:
+      213: -5780876876736186028
+    second: Health_Hearts_12
+  - first:
+      213: 4793766548261854352
+    second: Health_Hearts_13
+  - first:
+      213: -7189566593817023387
+    second: Health_Hearts_14
+  - first:
+      213: 933906321150836163
+    second: Health_Hearts_15
+  - first:
+      213: 6362996556975152123
+    second: Health_Hearts_16
+  - first:
+      213: 2028693680550701625
+    second: Health_Hearts_17
+  - first:
+      213: 2592424673506949381
+    second: Health_Hearts_18
+  - first:
+      213: 841070042786634363
+    second: Health_Hearts_19
+  - first:
+      213: 270661181754129612
+    second: Health_Hearts_20
+  - first:
+      213: 1587349405257256749
+    second: Health_Hearts_21
+  - first:
+      213: 2382063275819441908
+    second: Health_Hearts_22
+  - first:
+      213: 8095960299814830052
+    second: Health_Hearts_23
+  - first:
+      213: 6081669727871768260
+    second: Health_Hearts_24
+  - first:
+      213: 6099151258248385068
+    second: Health_Hearts_25
+  - first:
+      213: 8281241021015566528
+    second: Health_Hearts_26
+  - first:
+      213: -5313935845555366915
+    second: Health_Hearts_27
+  - first:
+      213: -2189425655485504083
+    second: Health_Hearts_28
+  - first:
+      213: -6088669864031979853
+    second: Health_Hearts_29
+  - first:
+      213: 5675807716792051274
+    second: Health_Hearts_30
+  - first:
+      213: 2975354758934545547
+    second: Health_Hearts_31
+  - first:
+      213: 1141252010806874672
+    second: Health_Hearts_32
+  - first:
+      213: 5543144912912519452
+    second: Health_Hearts_33
+  - first:
+      213: -4976782454645551878
+    second: Health_Hearts_34
+  - first:
+      213: -7108034582532172418
+    second: Health_Hearts_35
+  - first:
+      213: -6070238139833032722
+    second: Health_Hearts_36
+  - first:
+      213: 4930851730677085216
+    second: Health_Hearts_37
+  - first:
+      213: 1795309842314257263
+    second: Health_Hearts_38
+  - first:
+      213: -3952396278389091066
+    second: Health_Hearts_39
+  - first:
+      213: 5413632476403910177
+    second: Health_Hearts_40
+  - first:
+      213: 2471426378878925112
+    second: Health_Hearts_41
+  - first:
+      213: 7150119100974313350
+    second: Health_Hearts_42
+  - first:
+      213: -2908605300062555203
+    second: Health_Hearts_43
+  - first:
+      213: -4249307513082427962
+    second: Health_Hearts_44
+  - first:
+      213: -3240315529153977605
+    second: Health_Hearts_45
+  - first:
+      213: -7786308115290363399
+    second: Health_Hearts_46
+  - first:
+      213: -7153655281437783253
+    second: Health_Hearts_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 887
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heart_Full
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 887
+        height: 887
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c16b1d004e69b40ab5edb021e9d3c0
+      internalID: -431430358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart_Broken
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 887
+        height: 887
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffdf5ef9bd940044aec9c950ac08064
+      internalID: -1293506878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bd8ffcc23a849e34ca031ec77d83468a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Heart_Broken: -1293506878
+      Heart_Full: -431430358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
