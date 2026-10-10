@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.Serialization;
 
 [RequireComponent(typeof(PlayerController))]
+// Vida e invulnerabilidad. Los pinchos matan al cubo al instante, pero en los modos de vuelo solo quitan un punto; los enemigos quitan un punto.
 public class PlayerHealth : MonoBehaviour
 {
     [FormerlySerializedAs("vidaMaxima")]
@@ -42,6 +43,7 @@ public class PlayerHealth : MonoBehaviour
     void CheckHazard(Collider2D other)
     {
         if (dead || !InLayer(other.gameObject, hazardLayer)) return;
+        // Como en Geometry Dash, el cubo muere con cualquier pincho; la vida solo cuenta en los modos de vuelo.
         if (controller.ModeType == PlayerModeType.Cube)
         {
             health = 0;
@@ -57,6 +59,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if (dead || !controller.IsActive || Time.time < invulnerableUntil) return false;
         health--;
+        // Invulnerabilidad breve para que un enemigo o una fila de pinchos no quite toda la vida en un solo contacto.
         invulnerableUntil = Time.time + invulnerabilityDuration;
         GameEvents.RaisePlayerDamaged(health, maxHealth);
         GameEvents.RaiseDamaged(transform.position);

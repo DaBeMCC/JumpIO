@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.Serialization;
 
 [CreateAssetMenu(fileName = "NewSkin", menuName = "JumpIO/Character Skin")]
+// Skin solo de datos (ScriptableObject): sprites por modo, colores y override de animaciones, así un personaje nuevo no necesita código.
 public class CharacterSkin : ScriptableObject
 {
     [FormerlySerializedAs("nombre")]

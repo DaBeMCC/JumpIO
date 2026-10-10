@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+// Se actualiza solo por eventos, nunca consultando en Update.
 public class HealthBar : MonoBehaviour
 {
     [SerializeField] Image fill;

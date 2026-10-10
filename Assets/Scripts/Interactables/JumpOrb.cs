@@ -1,6 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Collider2D))]
+// Los orbes solo impulsan al jugador si pulsa saltar mientras los toca, como en Geometry Dash.
 public class JumpOrb : MonoBehaviour
 {
     public enum OrbType { Yellow, Pink, Red, Blue, Green, Black, Dash, GravityDash }

@@ -7,6 +7,7 @@ using UnityEditor;
 using UnityEngine;
 using static GDLevelParser;
 
+// Importa un nivel de Geometry Dash a la escena activa: bloques y peligros a tilemaps, objetos de juego a prefabs, canción y tiempos a LevelData.
 public class GDLevelImporter : EditorWindow
 {
     const float BlocksAfterLastObject = 12f;

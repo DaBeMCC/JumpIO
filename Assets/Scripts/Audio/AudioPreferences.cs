@@ -26,6 +26,7 @@ public static class AudioPreferences
         }
     }
 
+    // Los sliders son lineales pero el mixer trabaja en decibelios; -80 dB es silencio.
     public static float ToDecibels(float linear) => linear <= 0.0001f ? MinDecibels : 20f * Mathf.Log10(linear);
 
     static float Default(AudioChannel channel) => channel switch

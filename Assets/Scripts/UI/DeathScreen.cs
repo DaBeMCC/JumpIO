@@ -5,6 +5,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(CanvasGroup))]
+// Muestra el número de intento y la cuenta atrás del reinicio automático, con accesos a Retry y Menu.
 public class DeathScreen : MonoBehaviour
 {
     [SerializeField] TMP_Text attemptText;

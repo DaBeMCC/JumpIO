@@ -3,6 +3,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 
+// Singleton persistente que controla los intentos. Reiniciar reutiliza la escena cargada en vez de volver a cargarla.
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
@@ -17,6 +18,7 @@ public class GameManager : MonoBehaviour
 
     void Awake()
     {
+        // Al volver a cargar una escena con este prefab aparece una segunda copia; se conserva la original.
         if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
@@ -93,5 +95,6 @@ public class GameManager : MonoBehaviour
     }
 
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
+    // Reinicia los estáticos al dar Play para que el Editor funcione aunque esté desactivado el domain reload.
     static void ClearInstance() => Instance = null;
 }

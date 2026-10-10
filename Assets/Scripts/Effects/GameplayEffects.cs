@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Pool;
 
+// Lanza partículas reutilizadas (pool) a partir de los eventos de juego; el pool evita crear objetos durante la partida.
 public class GameplayEffects : MonoBehaviour
 {
     [SerializeField] PooledEffect jumpDust;

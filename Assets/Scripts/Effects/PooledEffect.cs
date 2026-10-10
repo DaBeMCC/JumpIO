@@ -12,6 +12,7 @@ public class PooledEffect : MonoBehaviour
     {
         system = GetComponent<ParticleSystem>();
         var main = system.main;
+        // Callback en vez de Destroy: el efecto vuelve a su pool al terminar.
         main.stopAction = ParticleSystemStopAction.Callback;
     }
 

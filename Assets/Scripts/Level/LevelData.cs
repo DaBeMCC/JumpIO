@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.Serialization;
 
 [CreateAssetMenu(fileName = "LevelData", menuName = "JumpIO/Level Data")]
+// Datos de tiempo del nivel: convierte el tiempo de la canción en posición x con los cambios de velocidad, más la rejilla de beats.
 public class LevelData : ScriptableObject
 {
     [FormerlySerializedAs("nombre")]

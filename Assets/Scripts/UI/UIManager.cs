@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
+// Coordina la UI del nivel: pausa, opciones y panel de nivel completado.
 public class UIManager : MonoBehaviour
 {
     public static UIManager Instance { get; private set; }
@@ -105,6 +106,7 @@ public class UIManager : MonoBehaviour
         IsPaused = paused;
         pausePanel.SetActive(paused);
         if (optionsPanel != null) optionsPanel.SetActive(false);
+        // Congelar el tiempo también detiene la física y el reloj de la música, así el juego se reanuda sincronizado.
         Time.timeScale = paused ? 0f : 1f;
         Select(paused ? pauseFirstSelected : null);
         GameEvents.RaisePauseChanged(paused);
