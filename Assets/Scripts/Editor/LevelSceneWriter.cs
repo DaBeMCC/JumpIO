@@ -60,7 +60,12 @@ public class LevelSceneWriter
         for (int x = -20; x <= Mathf.CeilToInt(finishX) + 20; x++)
         {
             Ground.SetTile(new Vector3Int(x, -1, 0), block);
-            for (int y = -8; y <= -2; y++) Background.SetTile(new Vector3Int(x, y, 0), block);
+            Ground.SetTransformMatrix(new Vector3Int(x, -1, 0), Matrix4x4.identity);
+            for (int y = -8; y <= -2; y++)
+            {
+                Background.SetTile(new Vector3Int(x, y, 0), block);
+                Background.SetTransformMatrix(new Vector3Int(x, y, 0), Matrix4x4.identity);
+            }
         }
         Instantiate(AssetDatabase.LoadAssetAtPath<GameObject>(FinishPrefabPath), new Vector3(finishX, 1.5f, 0f));
     }

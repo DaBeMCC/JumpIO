@@ -1,63 +1,116 @@
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
 public static class LevelAppearanceSetup
 {
+    public const string TerrainVisualsName = "TerrainVisuals";
+    public const string HazardVisualsName = "HazardVisuals";
+    public const string TexturesName = "TerrainTextures";
+
     public static void RebuildAppearance(this LevelLandscape landscape)
     {
         var ground = landscape.Ground;
-        var grass = landscape.Grass;
-        var earth = landscape.Earth;
-        var slab = landscape.Slab;
-        var slope = landscape.Slope;
-        var hazards = landscape.Hazards;
-        var spike = landscape.Spike;
-        var tiles = VisualMap("TerrainVisuals", ground);
+        var tiles = landscape.TerrainVisuals();
         tiles.ClearAllTiles();
-        tiles.tileAnchor = ground.tileAnchor;
-        var renderer = tiles.GetComponent<TilemapRenderer>();
-        var source = ground.GetComponent<TilemapRenderer>();
-        renderer.sortingLayerID = source.sortingLayerID;
-        renderer.sortingOrder = source.sortingOrder + 1;
-        foreach (var cell in ground.cellBounds.allPositionsWithin)
+        foreach (var cell in ground.cellBounds.allPositionsWithin) RefreshGround(landscape, tiles, cell);
+        ground.GetComponent<TilemapRenderer>().enabled = false;
+
+        var hazards = landscape.Hazards;
+        if (hazards == null || landscape.Spike == null) return;
+        var hazardTiles = landscape.HazardVisuals();
+        hazardTiles.ClearAllTiles();
+        foreach (var cell in hazards.cellBounds.allPositionsWithin) RefreshHazard(landscape, hazardTiles, cell);
+        hazards.GetComponent<TilemapRenderer>().enabled = false;
+    }
+
+    public static void RefreshCells(this LevelLandscape landscape, IEnumerable<Vector3Int> cells)
+    {
+        var tiles = landscape.TerrainVisuals();
+        var hazardTiles = landscape.Hazards != null ? landscape.HazardVisuals() : null;
+        foreach (var cell in cells)
         {
-            var sourceTile = ground.GetTile<Tile>(cell);
-            if (sourceTile == null) continue;
-            TileBase visual = sourceTile.name == "Tile_Block"
-                ? (ground.HasTile(cell + Vector3Int.up) ? earth : grass)
-                : sourceTile.name == "Tile_Slab" ? slab : sourceTile.name == "Tile_Slope" ? slope : null;
-            if (visual == null) continue;
-            tiles.SetTile(cell, visual);
-            tiles.SetTransformMatrix(cell, ground.GetTransformMatrix(cell));
-        }
-        source.enabled = false;
-        if (hazards != null && spike != null)
-        {
-            var hazardTiles = VisualMap("HazardVisuals", hazards);
-            hazardTiles.ClearAllTiles();
-            hazardTiles.tileAnchor = hazards.tileAnchor;
-            var hazardRenderer = hazardTiles.GetComponent<TilemapRenderer>();
-            var hazardSource = hazards.GetComponent<TilemapRenderer>();
-            hazardRenderer.sortingLayerID = hazardSource.sortingLayerID;
-            hazardRenderer.sortingOrder = hazardSource.sortingOrder + 1;
-            foreach (var cell in hazards.cellBounds.allPositionsWithin)
-            {
-                if (!hazards.HasTile(cell)) continue;
-                hazardTiles.SetTile(cell, spike);
-                hazardTiles.SetTransformMatrix(cell, hazards.GetTransformMatrix(cell));
-            }
-            hazardSource.enabled = false;
+            RefreshGround(landscape, tiles, cell);
+            RefreshGround(landscape, tiles, cell + Vector3Int.down);
+            if (hazardTiles != null) RefreshHazard(landscape, hazardTiles, cell);
         }
     }
 
-    static Tilemap VisualMap(string name, Tilemap source)
+    public static Tilemap TerrainVisuals(this LevelLandscape landscape) =>
+        VisualMap(TerrainVisualsName, landscape.Ground, true);
+
+    public static Tilemap HazardVisuals(this LevelLandscape landscape) =>
+        VisualMap(HazardVisualsName, landscape.Hazards, true);
+
+    public static Tilemap Textures(this LevelLandscape landscape) =>
+        VisualMap(TexturesName, landscape.Ground, false);
+
+    public static TileBase TextureAt(this LevelLandscape landscape, Vector3Int cell)
+    {
+        var existing = landscape.Ground.transform.parent.Find(TexturesName);
+        return existing != null ? existing.GetComponent<Tilemap>().GetTile(cell) : null;
+    }
+
+    static void RefreshGround(LevelLandscape landscape, Tilemap tiles, Vector3Int cell)
+    {
+        var ground = landscape.Ground;
+        var source = ground.GetTile<Tile>(cell);
+        var swap = Swap(landscape, source);
+        TileBase visual = source == null ? null : landscape.TextureAt(cell) ?? swap?.to ?? DefaultGround(landscape, source, cell);
+        tiles.SetTile(cell, visual);
+        if (visual != null) tiles.SetTransformMatrix(cell, Visual(ground.GetTransformMatrix(cell), swap));
+    }
+
+    static TileBase DefaultGround(LevelLandscape landscape, Tile source, Vector3Int cell) =>
+        source.name == "Tile_Block" ? (landscape.Ground.HasTile(cell + Vector3Int.up) ? landscape.Earth : landscape.Grass)
+        : source.name == "Tile_Slab" ? landscape.Slab
+        : source.name == "Tile_Slope" ? landscape.Slope
+        : source;
+
+    static void RefreshHazard(LevelLandscape landscape, Tilemap tiles, Vector3Int cell)
+    {
+        var hazards = landscape.Hazards;
+        var source = hazards.GetTile(cell);
+        var swap = Swap(landscape, source);
+        TileBase visual = source == null ? null : landscape.TextureAt(cell) ?? swap?.to ?? (source.name == "Tile_Spike" ? landscape.Spike : source);
+        tiles.SetTile(cell, visual);
+        if (visual != null) tiles.SetTransformMatrix(cell, Visual(hazards.GetTransformMatrix(cell), swap));
+    }
+
+    static LevelLandscape.TileSwap? Swap(LevelLandscape landscape, TileBase source)
+    {
+        if (source == null || landscape.Swaps == null) return null;
+        foreach (var swap in landscape.Swaps)
+            if (swap.from == source && swap.to != null) return swap;
+        return null;
+    }
+
+    static Matrix4x4 Visual(Matrix4x4 matrix, LevelLandscape.TileSwap? swap)
+    {
+        if (swap == null || !swap.Value.ignoreScale) return matrix;
+        var scale = matrix.lossyScale;
+        return Matrix4x4.TRS(matrix.GetColumn(3), matrix.rotation, new Vector3(Mathf.Sign(scale.x), Mathf.Sign(scale.y), 1f));
+    }
+
+    static Tilemap VisualMap(string name, Tilemap source, bool rendered)
     {
         var existing = source.transform.parent.Find(name);
-        var go = existing != null ? existing.gameObject : new GameObject(name, typeof(Tilemap), typeof(TilemapRenderer));
+        if (existing != null) return existing.GetComponent<Tilemap>();
+        var go = rendered ? new GameObject(name, typeof(Tilemap), typeof(TilemapRenderer)) : new GameObject(name, typeof(Tilemap));
+        UnityEditor.Undo.RegisterCreatedObjectUndo(go, "Create " + name);
         go.transform.SetParent(source.transform.parent, false);
         go.transform.localPosition = source.transform.localPosition;
         go.transform.localRotation = source.transform.localRotation;
         go.transform.localScale = source.transform.localScale;
-        return go.GetComponent<Tilemap>();
+        var map = go.GetComponent<Tilemap>();
+        map.tileAnchor = source.tileAnchor;
+        if (rendered)
+        {
+            var renderer = go.GetComponent<TilemapRenderer>();
+            var sourceRenderer = source.GetComponent<TilemapRenderer>();
+            renderer.sortingLayerID = sourceRenderer.sortingLayerID;
+            renderer.sortingOrder = sourceRenderer.sortingOrder + 1;
+        }
+        return map;
     }
 }

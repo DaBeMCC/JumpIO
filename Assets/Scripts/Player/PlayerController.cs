@@ -221,7 +221,9 @@ public class PlayerController : MonoBehaviour
         dashing = false;
         Boosted = false;
         var level = conductor != null ? conductor.Level : null;
+        bool test = level != null && PlaytestStart.Active;
         Vector2 spawn = level != null ? new Vector2(startPosition.x, level.startY) : startPosition;
+        if (test) spawn = new Vector2(level.XAtTime(PlaytestStart.Time), PlaytestStart.Y);
         transform.position = spawn;
         rb.position = spawn;
         rb.linearVelocity = Vector2.zero;
@@ -229,8 +231,8 @@ public class PlayerController : MonoBehaviour
         SetMode(PlayerModeType.Cube, startPosition.y);
         if (level != null)
         {
-            SetMode(level.startMode, level.startCorridorY);
-            SetGravity(level.startGravityInverted);
+            SetMode(test ? PlaytestStart.Mode : level.startMode, test ? PlaytestStart.CorridorY : level.startCorridorY);
+            SetGravity(test ? PlaytestStart.GravityInverted : level.startGravityInverted);
         }
         ClampToBounds(out _, out _);
         transform.position = rb.position;

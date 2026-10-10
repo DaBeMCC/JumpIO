@@ -18,7 +18,7 @@ MonoBehaviour:
   trailColor: {r: 0.8, g: 0.62, b: 0.18, a: 1}
   particleColor: {r: 0.78, g: 0.8, b: 0.82, a: 1}
   scale: 1
-  shipSprite: {fileID: -514761995, guid: 86f74e3deeafd8f4898f92e80dafed61, type: 3}
+  shipSprite: {fileID: 7642968431648236106, guid: 8ad633c709343284a87b0e197186cdbd, type: 3}
   ballSprite: {fileID: 596822660, guid: 86f74e3deeafd8f4898f92e80dafed61, type: 3}
   ufoSprite: {fileID: -316773032, guid: 86f74e3deeafd8f4898f92e80dafed61, type: 3}
   animationOverride: {fileID: 22100000, guid: b396f6006b3b1354badfadd8267e71fd, type: 2}

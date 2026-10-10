@@ -3,6 +3,14 @@ using UnityEngine.Tilemaps;
 
 public class LevelLandscape : MonoBehaviour
 {
+    [System.Serializable]
+    public struct TileSwap
+    {
+        public TileBase from;
+        public TileBase to;
+        public bool ignoreScale;
+    }
+
     [SerializeField] Tilemap ground;
     [SerializeField] TileBase grass;
     [SerializeField] TileBase earth;
@@ -12,6 +20,7 @@ public class LevelLandscape : MonoBehaviour
     [SerializeField] Tilemap hazards;
     [SerializeField] TileBase spike;
     [SerializeField] Sprite backdropFill;
+    [SerializeField] TileSwap[] swaps;
 
     public Tilemap Ground => ground;
     public TileBase Grass => grass;
@@ -22,4 +31,5 @@ public class LevelLandscape : MonoBehaviour
     public Tilemap Hazards => hazards;
     public TileBase Spike => spike;
     public Sprite BackdropFill => backdropFill;
+    public TileSwap[] Swaps => swaps;
 }

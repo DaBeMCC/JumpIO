@@ -21,6 +21,7 @@ public class GDObjectMap : ScriptableObject
         public GameObject prefab;
         [FormerlySerializedAs("escala")]
         public Vector2 scale = Vector2.one;
+        public bool centered;
     }
 
     [FormerlySerializedAs("entradas")]

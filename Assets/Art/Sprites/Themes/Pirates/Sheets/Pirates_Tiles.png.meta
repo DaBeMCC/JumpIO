@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: 69dd5d6586bf2c94cbf533118b0422ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8007365918448777669
+    second: Pirates_Tiles_0
+  - first:
+      213: 2252656861256431406
+    second: Pirates_Tiles_1
+  - first:
+      213: -3215747542421363801
+    second: Pirates_Tiles_2
+  - first:
+      213: -9160130220198760809
+    second: Pirates_Tiles_3
+  - first:
+      213: 1031065893485973169
+    second: Pirates_Tiles_4
+  - first:
+      213: -660886262373574266
+    second: Pirates_Tiles_5
+  - first:
+      213: 3152431972613965668
+    second: Pirates_Tiles_6
+  - first:
+      213: 678180360481357534
+    second: Pirates_Tiles_7
+  - first:
+      213: 4021181809952765581
+    second: Pirates_Tiles_8
+  - first:
+      213: -5389059917775104028
+    second: Pirates_Tiles_9
+  - first:
+      213: -1818201237255658524
+    second: Pirates_Tiles_10
+  - first:
+      213: 5375036953296250450
+    second: Pirates_Tiles_11
+  - first:
+      213: 2795411883321485059
+    second: Pirates_Tiles_12
+  - first:
+      213: 579629582323338141
+    second: Pirates_Tiles_13
+  - first:
+      213: -8495723082425189989
+    second: Pirates_Tiles_14
+  - first:
+      213: -3835003635132702229
+    second: Pirates_Tiles_15
+  - first:
+      213: 588995725740252548
+    second: Pirates_Tiles_16
+  - first:
+      213: 3987905201275263764
+    second: Pirates_Tiles_17
+  - first:
+      213: 2722656263680781580
+    second: Pirates_Tiles_18
+  - first:
+      213: 1828285606471179241
+    second: Pirates_Tiles_19
+  - first:
+      213: -8720890919522545553
+    second: Pirates_Tiles_20
+  - first:
+      213: -2724932248326317410
+    second: Pirates_Tiles_21
+  - first:
+      213: -5284632118622991416
+    second: Pirates_Tiles_22
+  - first:
+      213: -5697319949378555885
+    second: Pirates_Tiles_23
+  - first:
+      213: -593121772584233112
+    second: Pirates_Tiles_24
+  - first:
+      213: -4835535416439737561
+    second: Pirates_Tiles_25
+  - first:
+      213: -3057494750995609948
+    second: Pirates_Tiles_26
+  - first:
+      213: -5203042572529963499
+    second: Pirates_Tiles_27
+  - first:
+      213: -829713190378862869
+    second: Pirates_Tiles_28
+  - first:
+      213: -9045180785067766931
+    second: Pirates_Tiles_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pirates_Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 835
+        width: 962
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b368a4c3f1f10e090800000000000000
+      internalID: -8007365918448777669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1229
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e273900fa7b034f10800000000000000
+      internalID: 2252656861256431406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1225
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3a3aed5ae5f53d0800000000000000
+      internalID: -3215747542421363801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 805
+        width: 258
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e6bb0e81ea0e080800000000000000
+      internalID: -9160130220198760809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 822
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be8041a7f41f4e00800000000000000
+      internalID: 1031065893485973169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 837
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6899946227f04d6f0800000000000000
+      internalID: -660886262373574266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 1072
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4674d324d20bfbb20800000000000000
+      internalID: 3152431972613965668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 325
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede3328d171696900800000000000000
+      internalID: 678180360481357534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 642
+        width: 188
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d863f7f0d8b1ec730800000000000000
+      internalID: 4021181809952765581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 554
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e718b7ae863635b0800000000000000
+      internalID: -5389059917775104028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 515
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e36333ab9374c6e0800000000000000
+      internalID: -1818201237255658524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 564
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25622df71a7f79a40800000000000000
+      internalID: 5375036953296250450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 535
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30768421c4c4bc620800000000000000
+      internalID: 2795411883321485059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 538
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bc0bbb8024b0800800000000000000
+      internalID: 579629582323338141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 531
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99b5f96ed0291a80800000000000000
+      internalID: -8495723082425189989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 505
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be16597338457cac0800000000000000
+      internalID: -3835003635132702229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 503
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d98feed788c2800800000000000000
+      internalID: 588995725740252548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 499
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bd1f7d6a2e75730800000000000000
+      internalID: 3987905201275263764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d6f225271d8c520800000000000000
+      internalID: 2722656263680781580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 511
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb9ca982106f5910800000000000000
+      internalID: 1828285606471179241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 334
+        width: 189
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60dde8f9eb29f680800000000000000
+      internalID: -8720890919522545553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 503
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ad085be881f2ad0800000000000000
+      internalID: -2724932248326317410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb4bd8561739a6b0800000000000000
+      internalID: -5284632118622991416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 497
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3107b8511bd0fe0b0800000000000000
+      internalID: -5697319949378555885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 453
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867119ce3eec4c7f0800000000000000
+      internalID: -593121772584233112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 499
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723f944982ab4ecb0800000000000000
+      internalID: -4835535416439737561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 324
+        width: 147
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6094829b89195d0800000000000000
+      internalID: -3057494750995609948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 304
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eed11e8541bc7b0800000000000000
+      internalID: -5203042572529963499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 639
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be60306df344c74f0800000000000000
+      internalID: -829713190378862869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirates_Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 280
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bc8d8dfff097280800000000000000
+      internalID: -9045180785067766931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pirates_Tiles_0: -8007365918448777669
+      Pirates_Tiles_1: 2252656861256431406
+      Pirates_Tiles_10: -1818201237255658524
+      Pirates_Tiles_11: 5375036953296250450
+      Pirates_Tiles_12: 2795411883321485059
+      Pirates_Tiles_13: 579629582323338141
+      Pirates_Tiles_14: -8495723082425189989
+      Pirates_Tiles_15: -3835003635132702229
+      Pirates_Tiles_16: 588995725740252548
+      Pirates_Tiles_17: 3987905201275263764
+      Pirates_Tiles_18: 2722656263680781580
+      Pirates_Tiles_19: 1828285606471179241
+      Pirates_Tiles_2: -3215747542421363801
+      Pirates_Tiles_20: -8720890919522545553
+      Pirates_Tiles_21: -2724932248326317410
+      Pirates_Tiles_22: -5284632118622991416
+      Pirates_Tiles_23: -5697319949378555885
+      Pirates_Tiles_24: -593121772584233112
+      Pirates_Tiles_25: -4835535416439737561
+      Pirates_Tiles_26: -3057494750995609948
+      Pirates_Tiles_27: -5203042572529963499
+      Pirates_Tiles_28: -829713190378862869
+      Pirates_Tiles_29: -9045180785067766931
+      Pirates_Tiles_3: -9160130220198760809
+      Pirates_Tiles_4: 1031065893485973169
+      Pirates_Tiles_5: -660886262373574266
+      Pirates_Tiles_6: 3152431972613965668
+      Pirates_Tiles_7: 678180360481357534
+      Pirates_Tiles_8: 4021181809952765581
+      Pirates_Tiles_9: -5389059917775104028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

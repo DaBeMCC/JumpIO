@@ -20,9 +20,10 @@ MonoBehaviour:
   startGravityInverted: 0
   startCorridorY: 35.766666
   startY: 33.5
-  length: 332.36667
+  length: 332.37
   bpm: 150.05
   firstBeat: 0.06965986
+  markers: []
   changeX:
   - 0
   - 260.3

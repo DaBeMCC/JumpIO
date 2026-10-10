@@ -58,7 +58,8 @@ public class MusicConductor : MonoBehaviour
 
     void Begin(int attempt)
     {
-        clock = -scheduleLead;
+        double start = PlaytestStart.Active ? PlaytestStart.Time : 0.0;
+        clock = start - scheduleLead;
         running = true;
         lastReported = -1;
         audioTime = double.NaN;
@@ -69,7 +70,7 @@ public class MusicConductor : MonoBehaviour
         if (source.clip == null) return;
 
         source.Stop();
-        source.time = level.songOffset;
+        source.time = level.songOffset + (float)start;
         dspStart = AudioSettings.dspTime + scheduleLead;
         source.PlayScheduled(dspStart);
     }

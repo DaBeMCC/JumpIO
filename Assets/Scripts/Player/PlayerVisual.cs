@@ -18,6 +18,8 @@ public class PlayerVisual : MonoBehaviour
     CharacterSkin skin;
     Color tint = Color.white;
     float scale = 1f;
+    Vector3 baseScale = Vector3.one;
+    Vector3 writtenScale = new(float.NaN, float.NaN, float.NaN);
     float angle;
     bool visible;
     Coroutine blinking;
@@ -105,7 +107,10 @@ public class PlayerVisual : MonoBehaviour
 
     void LateUpdate()
     {
-        transform.localScale *= scale;
+        var current = transform.localScale;
+        if (current != writtenScale) baseScale = current;
+        writtenScale = baseScale * scale;
+        transform.localScale = writtenScale;
         sr.color *= tint;
     }
 
