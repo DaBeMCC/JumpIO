@@ -17,12 +17,17 @@ public static class LevelAppearanceSetup
         ground.GetComponent<TilemapRenderer>().enabled = false;
         PlatformFillSetup.Rebuild(landscape);
 
+
         var hazards = landscape.Hazards;
         if (hazards == null || landscape.Spike == null) return;
         var hazardTiles = landscape.HazardVisuals();
         hazardTiles.ClearAllTiles();
         foreach (var cell in hazards.cellBounds.allPositionsWithin) RefreshHazard(landscape, hazardTiles, cell);
         hazards.GetComponent<TilemapRenderer>().enabled = false;
+
+        foreach (Transform child in ground.transform.parent)
+            if (child.name.Contains(OverlapRepairSetup.OverflowTag) && !child.name.EndsWith("Visuals"))
+                landscape.RefreshOverflow(child.GetComponent<Tilemap>(), child.name.StartsWith(hazards.name));
     }
 
     public static void RefreshCells(this LevelLandscape landscape, IEnumerable<Vector3Int> cells)
@@ -35,6 +40,17 @@ public static class LevelAppearanceSetup
             RefreshGround(landscape, tiles, cell + Vector3Int.down);
             if (hazardTiles != null) RefreshHazard(landscape, hazardTiles, cell);
         }
+    }
+
+    // Copia el arte de un tilemap de desbordamiento (piezas que el importador pisó en la misma celda)
+    public static void RefreshOverflow(this LevelLandscape landscape, Tilemap source, bool hazard)
+    {
+        var tiles = VisualMap(source.name + "Visuals", source, true);
+        tiles.ClearAllTiles();
+        foreach (var cell in source.cellBounds.allPositionsWithin)
+            if (hazard) RefreshHazard(landscape, source, tiles, cell);
+            else RefreshGround(landscape, source, tiles, cell);
+        source.GetComponent<TilemapRenderer>().enabled = false;
     }
 
     public static Tilemap TerrainVisuals(this LevelLandscape landscape) =>
@@ -52,25 +68,46 @@ public static class LevelAppearanceSetup
         return existing != null ? existing.GetComponent<Tilemap>().GetTile(cell) : null;
     }
 
-    static void RefreshGround(LevelLandscape landscape, Tilemap tiles, Vector3Int cell)
+    static void RefreshGround(LevelLandscape landscape, Tilemap tiles, Vector3Int cell) => RefreshGround(landscape, landscape.Ground, tiles, cell);
+
+    static void RefreshGround(LevelLandscape landscape, Tilemap ground, Tilemap tiles, Vector3Int cell)
     {
-        var ground = landscape.Ground;
         var source = ground.GetTile<Tile>(cell);
         var swap = Swap(landscape, source);
         TileBase visual = source == null ? null : landscape.TextureAt(cell) ?? swap?.to ?? DefaultGround(landscape, source, cell);
         tiles.SetTile(cell, visual);
-        if (visual != null) tiles.SetTransformMatrix(cell, Visual(ground.GetTransformMatrix(cell), swap));
+        if (visual == null) return;
+        var matrix = Visual(ground.GetTransformMatrix(cell), swap);
+        if (source.name == "Tile_Thin" && visual is Tile thin && thin.sprite != null)
+        {
+            var original = ground.GetTransformMatrix(cell);
+            float thickness = original.MultiplyVector(Vector3.up).magnitude;
+            float visibleThickness = Mathf.Max(thickness, 0.15f);
+            var normal = original.MultiplyVector(Vector3.up).normalized;
+            Vector3 offset = original.GetColumn(3);
+            float side = Mathf.Sign(Vector3.Dot(offset, normal));
+            matrix = original * Matrix4x4.Scale(new Vector3(1f / thin.sprite.bounds.size.x, visibleThickness / Mathf.Max(thickness, 0.001f) / thin.sprite.bounds.size.y, 1f));
+            var position = offset - normal * side * (visibleThickness - thickness) * 0.5f;
+            matrix.SetColumn(3, new Vector4(position.x, position.y, position.z, 1f));
+        }
+        tiles.SetTransformMatrix(cell, matrix);
     }
 
     static TileBase DefaultGround(LevelLandscape landscape, Tile source, Vector3Int cell) =>
-        source.name == "Tile_Block" ? (landscape.Ground.HasTile(cell + Vector3Int.up) ? landscape.Earth : landscape.Grass)
+        source.name == "Tile_Block" ? (Covered(landscape.Ground, cell) ? landscape.Earth : landscape.Grass)
         : source.name == "Tile_Slab" ? landscape.Slab
         : source.name == "Tile_Slope" ? landscape.Slope
         : source;
-
-    static void RefreshHazard(LevelLandscape landscape, Tilemap tiles, Vector3Int cell)
+    static bool Covered(Tilemap ground, Vector3Int cell)
     {
-        var hazards = landscape.Hazards;
+        var above = ground.GetTile(cell + Vector3Int.up);
+        return above != null && above.name != "Tile_Thin";
+    }
+
+    static void RefreshHazard(LevelLandscape landscape, Tilemap tiles, Vector3Int cell) => RefreshHazard(landscape, landscape.Hazards, tiles, cell);
+
+    static void RefreshHazard(LevelLandscape landscape, Tilemap hazards, Tilemap tiles, Vector3Int cell)
+    {
         var source = hazards.GetTile(cell);
         var swap = Swap(landscape, source);
         TileBase visual = source == null ? null : landscape.TextureAt(cell) ?? swap?.to ?? (source.name == "Tile_Spike" ? landscape.Spike : source);
@@ -115,3 +152,4 @@ public static class LevelAppearanceSetup
         return map;
     }
 }
+

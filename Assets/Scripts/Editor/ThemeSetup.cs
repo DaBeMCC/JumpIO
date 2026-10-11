@@ -8,8 +8,6 @@ using UnityEditor.SceneManagement;
 using UnityEditor.U2D.Sprites;
 using UnityEngine;
 using UnityEngine.Tilemaps;
-
-// Convierte las hojas de sprites de cada tema en tiles, sprites de objetos, fondo con parallax y skin del personaje, y los aplica a los niveles extra.
 public static class ThemeSetup
 {
     const string ThemesFolder = "Assets/Art/Sprites/Themes";
@@ -259,6 +257,7 @@ public static class ThemeSetup
             var dest = new RectInt(Mathf.RoundToInt(item.area.x * w), Mathf.RoundToInt(item.area.y * h),
                 Mathf.RoundToInt(item.area.width * w), Mathf.RoundToInt(item.area.height * h));
             var pixels = sheet.Render(bounds, w, h, Place(bounds, dest, item.fit));
+            if (SolidItems.Contains(item.name)) Seal(pixels, w, h);
             string path = $"{folder}/{item.name}.png";
             WritePng(path, pixels, w, h);
             ImportSprite(path, ItemPixelsPerUnit, item.pivot, SpriteMeshType.FullRect, false);
@@ -266,6 +265,37 @@ public static class ThemeSetup
         }
         log.AppendLine($"{theme.name}: {built} item sprites");
         return LoadItemSprites(theme);
+    }
+    static readonly HashSet<string> SolidItems = new() { "Top", "Fill", "FillAlt", "Pillar", "Panel" };
+    public static void Seal(Color32[] pixels, int w, int h)
+    {
+        var filled = new bool[h];
+        for (int y = 0; y < h; y++)
+        {
+            int left = -1, right = -1;
+            for (int x = 0; x < w; x++)
+                if (pixels[y * w + x].a >= 200) { if (left < 0) left = x; right = x; }
+            if (left < 0) continue;
+            filled[y] = true;
+            for (int x = 0; x < w; x++)
+            {
+                ref var p = ref pixels[y * w + x];
+                if (x < left) p = pixels[y * w + left];
+                else if (x > right) p = pixels[y * w + right];
+                p.a = 255;
+            }
+        }
+        for (int y = 0; y < h; y++)
+        {
+            if (filled[y]) continue;
+            int source = -1;
+            for (int d = 1; d < h && source < 0; d++)
+            {
+                if (y - d >= 0 && filled[y - d]) source = y - d;
+                else if (y + d < h && filled[y + d]) source = y + d;
+            }
+            if (source >= 0) System.Array.Copy(pixels, source * w, pixels, y * w, w);
+        }
     }
 
     static Dictionary<string, Sprite> LoadItemSprites(Theme theme)
@@ -295,6 +325,9 @@ public static class ThemeSetup
         foreach (string name in new[] { "Top", "Fill", "Slab", "Slope", "Panel", "Thin", "Spike", "SpikeRow", "Strip", "Saw" })
         {
             if (!sprites.TryGetValue(name, out var sprite)) continue;
+
+
+
             string path = $"{folder}/{theme.prefix}_{name}.asset";
             var tile = AssetDatabase.LoadAssetAtPath<Tile>(path);
             if (tile == null)
@@ -731,3 +764,4 @@ public static class ThemeSetup
         }
     }
 }
+

@@ -206,7 +206,7 @@ public class GDLevelImporter : EditorWindow
         * Matrix4x4.Translate(new Vector3(0f, anchorBase ? -(1f - scale.y) / 2f : 0f, 0f))
         * Matrix4x4.Scale(new Vector3(scale.x, scale.y, 1f));
 
-    static Dictionary<string, Vector2> MoveOffsets(List<GDObject> objects, float cutX)
+    public static Dictionary<string, Vector2> MoveOffsets(List<GDObject> objects, float cutX)
     {
         var offsets = new Dictionary<string, Vector2>();
         foreach (var t in objects)
@@ -218,7 +218,7 @@ public class GDLevelImporter : EditorWindow
         return offsets;
     }
 
-    static Vector2 GroupOffset(GDObject o, Dictionary<string, Vector2> offsets)
+    public static Vector2 GroupOffset(GDObject o, Dictionary<string, Vector2> offsets)
     {
         if (offsets.Count == 0 || !o.fields.TryGetValue("57", out string groups)) return Vector2.zero;
         var total = Vector2.zero;
