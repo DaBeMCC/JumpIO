@@ -65,7 +65,13 @@ public static class PlatformFillSetup
         if (existingMesh == null) AssetDatabase.CreateAsset(mesh, meshPath);
         else
         {
-            EditorUtility.CopySerialized(mesh, existingMesh);
+            existingMesh.Clear();
+            existingMesh.indexFormat = mesh.indexFormat;
+            existingMesh.vertices = mesh.vertices;
+            existingMesh.uv = mesh.uv;
+            existingMesh.colors32 = mesh.colors32;
+            existingMesh.triangles = mesh.triangles;
+            existingMesh.RecalculateBounds();
             UnityEngine.Object.DestroyImmediate(mesh);
             mesh = existingMesh;
             EditorUtility.SetDirty(mesh);
@@ -74,13 +80,14 @@ public static class PlatformFillSetup
         var material = AssetDatabase.LoadAssetAtPath<Material>(materialPath);
         if (material == null)
         {
-            material = new Material(Shader.Find("Universal Render Pipeline/2D/Sprite-Unlit-Default"));
+            material = new Material(Shader.Find("JumpIO/Platform Fill"));
             AssetDatabase.CreateAsset(material, materialPath);
         }
+        material.shader = Shader.Find("JumpIO/Platform Fill");
         string texturePath = $"{AssetFolder}/{fill.name}_Interior.png";
-        if (!File.Exists(texturePath))
+        if (!File.Exists(texturePath) || !File.ReadAllBytes(texturePath).SequenceEqual(File.ReadAllBytes(AssetDatabase.GetAssetPath(fill.sprite.texture))))
         {
-            File.Copy(AssetDatabase.GetAssetPath(fill.sprite.texture), texturePath);
+            File.Copy(AssetDatabase.GetAssetPath(fill.sprite.texture), texturePath, true);
             AssetDatabase.ImportAsset(texturePath);
         }
         var texture = AssetDatabase.LoadAssetAtPath<Texture2D>(texturePath);
@@ -105,6 +112,19 @@ public static class PlatformFillSetup
         renderer.receiveShadows = false;
         EditorUtility.SetDirty(material);
         EditorUtility.SetDirty(root.gameObject);
+    }
+    public static Func<Vector2, bool> FillTest(LevelLandscape landscape)
+    {
+        if (landscape == null || landscape.Earth is not Tile fill || fill.sprite == null) return null;
+        if (!fill.name.StartsWith("Pirates_") && !fill.name.StartsWith("Cyber_")) return null;
+        var raster = Analyse(landscape);
+        return point =>
+        {
+            int x = raster.X(point.x), y = raster.Y(point.y);
+            if (x < 0 || y < 0 || x >= raster.width || y >= raster.height) return false;
+            int label = raster.labels[y * raster.width + x];
+            return label >= 0 && Eligible(raster.regions[label]);
+        };
     }
 
     static bool Eligible(Region region) => !region.exterior && !region.protectedArea && region.pixels.Count >= Resolution * Resolution / 2;
@@ -133,6 +153,7 @@ public static class PlatformFillSetup
         raster.labels = new int[raster.walls.Length];
         Array.Fill(raster.labels, -1);
         foreach (var polygon in polygons) PaintWalls(raster, polygon);
+        CloseCorners(raster, polygons);
         int ceiling = Mathf.Clamp(raster.Y(high.y - 0.02f), 0, raster.height - 1);
         for (int x = 0; x < raster.width; x++) raster.walls[ceiling * raster.width + x] = true;
         CapOpenTops(raster, polygons);
@@ -195,6 +216,7 @@ public static class PlatformFillSetup
         {
             var tile = map.GetTile<Tile>(cell);
             if (tile == null || tile.sprite == null) continue;
+            if (tile.colliderType == Tile.ColliderType.None) continue;
             if (!cache.TryGetValue(tile.sprite, out var shapes))
             {
                 shapes = new List<Vector2[]>();
@@ -237,6 +259,31 @@ public static class PlatformFillSetup
             }
     }
 
+    static void CloseCorners(Raster raster, List<Vector2[]> polygons)
+    {
+        var bounds = polygons.Select(p => new Rect(p.Min(v => v.x), p.Min(v => v.y), p.Max(v => v.x) - p.Min(v => v.x), p.Max(v => v.y) - p.Min(v => v.y))).ToArray();
+        var verticals = bounds.Where(r => r.width <= 0.21f && r.height >= 0.5f).ToArray();
+        var horizontals = bounds.Where(r => r.height <= 0.21f && r.width >= 0.5f).ToArray();
+        foreach (var line in bounds.Where(r => r.height <= 0.21f && r.width >= 0.5f))
+            foreach (float end in new[] { line.xMin, line.xMax })
+            {
+                var candidates = verticals.Where(v => line.center.y >= v.yMin - 0.1f && line.center.y <= v.yMax + 0.1f && Mathf.Abs(v.center.x - end) <= 1.05f);
+                if (!candidates.Any()) continue;
+                var side = candidates.OrderBy(v => Mathf.Abs(v.center.x - end)).First();
+                float low = Mathf.Min(end, side.center.x), high = Mathf.Max(end, side.center.x);
+                PaintWalls(raster, new[] { new Vector2(low, line.yMin), new Vector2(high, line.yMin), new Vector2(high, line.yMax), new Vector2(low, line.yMax) });
+            }
+        foreach (var line in verticals)
+            foreach (float end in new[] { line.yMin, line.yMax })
+            {
+                var candidates = horizontals.Where(h => line.center.x >= h.xMin - 0.1f && line.center.x <= h.xMax + 0.1f && Mathf.Abs(h.center.y - end) <= 1.05f);
+                if (!candidates.Any()) continue;
+                var side = candidates.OrderBy(h => Mathf.Abs(h.center.y - end)).First();
+                float low = Mathf.Min(end, side.center.y), high = Mathf.Max(end, side.center.y);
+                PaintWalls(raster, new[] { new Vector2(line.xMin, low), new Vector2(line.xMax, low), new Vector2(line.xMax, high), new Vector2(line.xMin, high) });
+            }
+    }
+
     static void CapOpenTops(Raster raster, List<Vector2[]> polygons)
     {
         var strips = polygons.Select(p => new Rect(p.Min(v => v.x), p.Min(v => v.y), p.Max(v => v.x) - p.Min(v => v.x), p.Max(v => v.y) - p.Min(v => v.y)))
@@ -254,14 +301,25 @@ public static class PlatformFillSetup
             }
             runs.Add(run);
         }
-        foreach (var row in runs.Where(r => r.height >= 1.5f).GroupBy(r => Mathf.RoundToInt(r.yMax * Resolution)))
+        foreach (var row in runs.Where(r => r.height >= 0.5f).GroupBy(r => Mathf.RoundToInt(r.yMax * Resolution)))
         {
             var ordered = row.OrderBy(r => r.xMin).ToArray();
             for (int i = 0; i + 1 < ordered.Length; i++)
             {
                 var left = ordered[i];
                 var right = ordered[i + 1];
-                if (Mathf.Abs(left.yMin - right.yMin) > 0.1f || right.xMin - left.xMax > 64f) continue;
+                if (Mathf.Abs(left.yMin - right.yMin) > 1.05f || right.xMin - left.xMax > 64f) continue;
+                if (left.yMin < 0.2f) continue;
+                var bottom = polygons.Select(p => new Rect(p.Min(v => v.x), p.Min(v => v.y), p.Max(v => v.x) - p.Min(v => v.x), p.Max(v => v.y) - p.Min(v => v.y)))
+                    .Where(r => r.height <= 0.21f && Mathf.Abs(r.center.y - Mathf.Min(left.yMin, right.yMin)) <= 1.05f && r.xMax >= left.xMin && r.xMin <= right.xMax)
+                    .OrderBy(r => r.xMin).ToArray();
+                float covered = left.xMax;
+                foreach (var segment in bottom)
+                {
+                    if (segment.xMin > covered + 1.05f) break;
+                    covered = Mathf.Max(covered, segment.xMax);
+                }
+                if (covered < right.xMin - 1.05f) continue;
                 int y = Mathf.Clamp(raster.Y(left.yMax - 0.025f), 0, raster.height - 1);
                 for (int x = Mathf.Max(0, raster.X(left.xMin)); x <= Mathf.Min(raster.width - 1, raster.X(right.xMax)); x++) raster.walls[y * raster.width + x] = true;
             }
@@ -312,3 +370,6 @@ public static class PlatformFillSetup
         return mesh;
     }
 }
+
+
+
